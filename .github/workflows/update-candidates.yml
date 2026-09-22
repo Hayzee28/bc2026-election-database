@@ -1,0 +1,54 @@
+name: Update Elections BC candidates
+
+on:
+  schedule:
+    # Hourly, away from the top-of-hour congestion window.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: elections-bc-candidate-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install parser dependency
+        run: pip install -r requirements.txt
+
+      - name: Fetch, parse, and validate Elections BC register
+        run: python scripts/update_candidates.py
+
+      - name: Verify public JSON and CSV agree
+        run: python scripts/validate_public_files.py
+
+      - name: Publish only real data changes
+        shell: bash
+        run: |
+          if git diff --quiet -- data.json bc-2026-candidates.csv; then
+            echo "No candidate-data change. Nothing to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json bc-2026-candidates.csv
+          git commit -m "Update Elections BC candidate data"
+          git push
