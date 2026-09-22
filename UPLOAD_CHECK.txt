@@ -1,0 +1,12 @@
+GitHub repo root should contain:
+.github/workflows/update-candidates.yml
+scripts/update_candidates.py
+scripts/validate_public_files.py
+app.js
+bc-2026-candidates.csv
+data.json
+index.html
+README.md
+requirements.txt
+styles.css
+.gitignore

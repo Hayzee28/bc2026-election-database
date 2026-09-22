@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Searchable database of candidates in the 2026 British Columbia General Local Elections, sourced from Elections BC." />
+  <title>BC 2026 Local Elections — Candidate Database</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="eyebrow">2026 BRITISH COLUMBIA GENERAL LOCAL ELECTIONS</div>
+      <div class="hero-row">
+        <div>
+          <h1>Candidate Database</h1>
+          <p class="lede">Search, filter and sort the complete Elections BC candidate register.</p>
+        </div>
+        <div class="source-pill">Official source · Elections BC</div>
+      </div>
+
+      <div class="stats" aria-label="Database summary">
+        <div class="stat">
+          <span class="stat-value" id="statCandidates">3,479</span>
+          <span class="stat-label">Candidates</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="statJurisdictions">—</span>
+          <span class="stat-label">Jurisdictions</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="statAffiliations">—</span>
+          <span class="stat-label">Affiliations</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="statElected">0</span>
+          <span class="stat-label">Elected</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="panel controls-panel">
+      <div class="search-wrap">
+        <label for="search" class="control-label">Search database</label>
+        <input id="search" class="search" type="search"
+          placeholder="Candidate, jurisdiction, affiliation, financial agent…"
+          autocomplete="off" />
+      </div>
+
+      <div class="filter-grid">
+        <div>
+          <label for="jurisdictionFilter" class="control-label">Jurisdiction</label>
+          <select id="jurisdictionFilter"><option value="">All jurisdictions</option></select>
+        </div>
+        <div>
+          <label for="officeFilter" class="control-label">Office</label>
+          <select id="officeFilter"><option value="">All offices</option></select>
+        </div>
+        <div>
+          <label for="affiliationFilter" class="control-label">Affiliation</label>
+          <select id="affiliationFilter"><option value="">All affiliations</option></select>
+        </div>
+        <div>
+          <label for="pageSize" class="control-label">Rows per page</label>
+          <select id="pageSize">
+            <option value="50">50</option>
+            <option value="100" selected>100</option>
+            <option value="250">250</option>
+            <option value="100000">All</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="control-footer">
+        <label class="toggle" id="electedToggleWrap" title="This becomes useful once election results are added.">
+          <input type="checkbox" id="electedOnly" />
+          <span class="toggle-ui"></span>
+          <span>Winners only</span>
+        </label>
+
+        <div class="actions">
+          <button id="clearFilters" class="button ghost" type="button">Clear filters</button>
+          <a class="button" href="bc-2026-candidates.csv" download>Download CSV</a>
+          <a class="button ghost" href="https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf" target="_blank" rel="noopener">Official PDF ↗</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="results-head">
+      <div>
+        <strong id="resultCount">Loading…</strong>
+        <span class="muted" id="resultContext"></span>
+      </div>
+      <div class="muted small" id="resultsStatus">Results fields are ready but not yet populated.</div>
+    </section>
+
+    <section class="table-card">
+      <div class="table-scroll">
+        <table id="candidateTable">
+          <thead>
+            <tr>
+              <th><button class="sort" data-sort="candidate">Candidate <span>↕</span></button></th>
+              <th><button class="sort" data-sort="jurisdiction">Jurisdiction <span>↕</span></button></th>
+              <th><button class="sort" data-sort="office">Office <span>↕</span></button></th>
+              <th><button class="sort" data-sort="affiliation">Affiliation <span>↕</span></button></th>
+              <th><button class="sort" data-sort="financialAgent">Financial Agent <span>↕</span></button></th>
+              <th>Result</th>
+              <th>Elected</th>
+              <th>Source</th>
+            </tr>
+          </thead>
+          <tbody id="candidateBody"></tbody>
+        </table>
+      </div>
+
+      <div class="empty" id="emptyState" hidden>
+        <div class="empty-icon">⌕</div>
+        <strong>No candidates match those filters.</strong>
+        <span>Clear a filter or try a broader search.</span>
+      </div>
+
+      <nav class="pager" aria-label="Candidate pagination">
+        <button class="button ghost" id="prevPage" type="button">← Previous</button>
+        <span id="pageIndicator">Page 1</span>
+        <button class="button ghost" id="nextPage" type="button">Next →</button>
+      </nav>
+    </section>
+
+    <section class="about panel">
+      <div>
+        <h2>About this database</h2>
+        <p>
+          This site reorganizes the Elections BC 2026 General Local Elections candidate register
+          into a searchable public database. Candidate names, jurisdictions, offices, affiliations,
+          financial-agent names and source-page references are preserved from the source dataset.
+        </p>
+      </div>
+      <div class="notice">
+        <strong>Service-address note</strong>
+        <p>
+          Financial-agent service addresses are not reproduced here. They can be viewed in the
+          official Elections BC PDF linked above.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div>Source register: Elections BC · September 21, 2026</div>
+    <div>3,479 candidate records · 195 source pages</div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
