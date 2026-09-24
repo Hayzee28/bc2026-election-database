@@ -84,6 +84,34 @@ CSV_FIELDS = [
 ]
 
 
+# Some source rows can wrap both the office and a status-only candidate suffix onto
+# the next visual line (for example, ``Board of Education`` + ``Trustee`` and
+# ``Nat Raedwulf Pogue`` + ``(Withdrawn)``). Without this guard, that continuation
+# can look like a new candidate record. Keep this deliberately narrow/fail-closed.
+STATUS_ONLY_CANDIDATE_RE = re.compile(r"^\((?:Withdrawn|Acclaimed)\)$", re.IGNORECASE)
+OFFICE_WRAP_PREFIX = {
+    "Trustee": "Board of Education",
+    "Director": "Electoral Area",
+    "Commissioner": "Local Community",
+}
+
+
+def is_wrapped_status_continuation(
+    current: dict[str, Any] | None,
+    jur: str,
+    office: str,
+    candidate: str,
+    affiliation: str,
+    agent: str,
+) -> bool:
+    if current is None or jur or affiliation or agent:
+        return False
+    prefix = OFFICE_WRAP_PREFIX.get(office)
+    if not prefix or not STATUS_ONLY_CANDIDATE_RE.fullmatch(candidate):
+        return False
+    return norm(current.get("office")) == prefix
+
+
 def norm(value: Any) -> str:
     return re.sub(r"\s+", " ", str(value or "")).strip()
 
@@ -207,7 +235,10 @@ def parse_pdf_words(pdf_path: Path) -> tuple[list[dict[str, Any]], dict[str, Any
                 jur, office, candidate, affiliation, agent, _address = [
                     norm(value) for value in line["cells"]
                 ]
-                is_record_start = bool(office and candidate)
+                is_status_continuation = is_wrapped_status_continuation(
+                    current, jur, office, candidate, affiliation, agent
+                )
+                is_record_start = bool(office and candidate) and not is_status_continuation
 
                 if is_record_start:
                     if current is not None:
@@ -321,7 +352,10 @@ def parse_pdf_table(pdf_path: Path) -> tuple[list[dict[str, Any]], dict[str, Any
                 if jur.startswith("September ") or jur.startswith("Page "):
                     break
 
-                is_record_start = bool(office and candidate)
+                is_status_continuation = is_wrapped_status_continuation(
+                    current, jur, office, candidate, affiliation, agent
+                )
+                is_record_start = bool(office and candidate) and not is_status_continuation
                 if is_record_start:
                     if current is not None:
                         records.append(current)
