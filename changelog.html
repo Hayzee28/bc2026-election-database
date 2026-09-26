@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Chronological history of changes observed in the Elections BC 2026 candidate register." />
+  <title>BC 2026 Local Elections — Candidate Change Log</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <nav class="site-tabs" aria-label="Site sections">
+        <a class="site-tab" href="index.html">Candidate Database</a>
+        <a class="site-tab active" href="changelog.html" aria-current="page">Change Log</a>
+      </nav>
+
+      <div class="eyebrow">2026 BRITISH COLUMBIA GENERAL LOCAL ELECTIONS</div>
+      <div class="hero-row">
+        <div>
+          <h1>Candidate Change Log</h1>
+          <p class="lede">Every candidate-register change captured by the tracker, grouped by source date.</p>
+        </div>
+        <div class="source-pill">Tracked from Elections BC</div>
+      </div>
+
+      <div class="stats" aria-label="Change log summary">
+        <div class="stat">
+          <span class="stat-value" id="statSnapshots">—</span>
+          <span class="stat-label">Recorded revisions</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="statEvents">—</span>
+          <span class="stat-label">Recorded changes</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="statLatestCount">—</span>
+          <span class="stat-label">Latest candidate count</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="statLatestDate">—</span>
+          <span class="stat-label">Latest recorded date</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="panel changelog-controls">
+      <div class="search-wrap">
+        <label for="changeSearch" class="control-label">Search change history</label>
+        <input id="changeSearch" class="search" type="search"
+          placeholder="Candidate, jurisdiction, office, field…" autocomplete="off" />
+      </div>
+      <div class="change-filter-row">
+        <div>
+          <label for="changeType" class="control-label">Change type</label>
+          <select id="changeType">
+            <option value="">All change types</option>
+            <option value="added">Added</option>
+            <option value="removed">Removed</option>
+            <option value="status">Status changed</option>
+            <option value="modified">Field changed</option>
+          </select>
+        </div>
+        <button id="clearChangeFilters" class="button ghost" type="button">Clear filters</button>
+      </div>
+    </section>
+
+    <section class="results-head">
+      <div>
+        <strong id="changeResultCount">Loading change history…</strong>
+        <span class="muted" id="changeResultContext"></span>
+      </div>
+      <div class="muted small">Dates marked reconstructed were recovered from repository history rather than observed live.</div>
+    </section>
+
+    <section id="changeLog" class="change-log" aria-live="polite"></section>
+
+    <section class="about panel">
+      <div>
+        <h2>What this page records</h2>
+        <p>
+          The tracker compares successive Elections BC candidate-register snapshots and records
+          additions, removals, status changes and modified fields. Entries describe changes in the
+          published source, not the reason a change occurred.
+        </p>
+      </div>
+      <div class="notice">
+        <strong>Primary source</strong>
+        <p>
+          Each revision originates from the Elections BC registered-candidates source used by the
+          automated updater. The investigation layer preserves historical observations separately.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div>Source register: Elections BC</div>
+    <div>Change history generated from candidate-change-history.json</div>
+  </footer>
+
+  <script src="changelog.js"></script>
+</body>
+</html>
