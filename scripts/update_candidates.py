@@ -660,6 +660,7 @@ def record_change_audit(
 ) -> bool:
     previous_state = load_optional_json(SOURCE_STATE, {})
     previous_sha = previous_state.get("sourceSha256")
+    previous_sha_prefix = previous_state.get("sourceSha256Prefix")
     changes = summarize_candidate_changes(old_rows, new_rows)
 
     data_changed = any(
@@ -671,7 +672,12 @@ def record_change_audit(
             changes["modified"],
         )
     )
-    source_changed = previous_sha != source_sha256
+    if previous_sha:
+        source_changed = previous_sha != source_sha256
+    elif previous_sha_prefix:
+        source_changed = not source_sha256.startswith(previous_sha_prefix)
+    else:
+        source_changed = True
 
     if not source_changed and not data_changed:
         return False
