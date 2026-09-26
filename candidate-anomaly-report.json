@@ -1,0 +1,2547 @@
+{
+  "anomalies": [
+    {
+      "atUtc": "2026-09-22T16:58:00Z",
+      "revision": 1,
+      "candidateId": "qualicum school district|board of education trustee|roberta elaine",
+      "candidate": "R. Elaine Young",
+      "jurisdiction": "Qualicum School District",
+      "office": "Board of Education Trustee",
+      "type": "NAME_CORRECTION",
+      "from": "Roberta Elaine",
+      "to": "R. Elaine Young",
+      "category": "FIELD_CORRECTION",
+      "identityLinkInferred": true,
+      "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
+      "pattern": "NAME_CORRECTION",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "At 2026-09-22T16:58:00Z, the source shows the earlier name absent and the later name present."
+      ],
+      "clues": [
+        {
+          "indicator": "Same candidate identity",
+          "direction": "SUPPORTS",
+          "basis": "Unique similar name and identical agent in the same jurisdiction and office; identity link remains inferred."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-22T16:58:00Z",
+      "revision": 1,
+      "candidateId": "daajing giids|councillor|calida erickson",
+      "candidate": "Calida Erickson (Withdrawn)",
+      "jurisdiction": "Daajing Giids",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-22T16:58:00Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "burnaby|councillor|martin kendall",
+      "candidate": "Martin Kendell",
+      "jurisdiction": "Burnaby",
+      "office": "Councillor",
+      "type": "NAME_CORRECTION",
+      "from": "Martin Kendall",
+      "to": "Martin Kendell",
+      "category": "FIELD_CORRECTION",
+      "identityLinkInferred": true,
+      "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
+      "pattern": "NAME_CORRECTION",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "At 2026-09-24T06:06:57Z, the source shows the earlier name absent and the later name present."
+      ],
+      "clues": [
+        {
+          "indicator": "Same candidate identity",
+          "direction": "SUPPORTS",
+          "basis": "Unique similar name and identical agent in the same jurisdiction and office; identity link remains inferred."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "abbotsford|councillor|matthew cavacece",
+      "candidate": "Matthew Cavacece",
+      "jurisdiction": "Abbotsford",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T06:06:57Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "comox valley regional district|electoral area director|amber champ",
+      "candidate": "Amber Champ",
+      "jurisdiction": "Comox Valley Regional District",
+      "office": "Electoral Area Director",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T06:06:57Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "prince george school district|board of education trustee|david szucsko",
+      "candidate": "David Szucsko",
+      "jurisdiction": "Prince George School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T06:06:57Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "prince george school district|board of education trustee|rob thompson",
+      "candidate": "Rob Thompson",
+      "jurisdiction": "Prince George School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T06:06:57Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "thompson-nicola regional district|electoral area director|lee morris",
+      "candidate": "Lee Morris",
+      "jurisdiction": "Thompson-Nicola Regional District",
+      "office": "Electoral Area Director",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T06:06:57Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "warfield|councillor|mandi lunan",
+      "candidate": "Mandi Lunan",
+      "jurisdiction": "Warfield",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T06:06:57Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "central okanagan school district|board of education trustee|jennifer miles",
+      "candidate": "Jennifer Miles (Withdrawn)",
+      "jurisdiction": "Central Okanagan School District",
+      "office": "Board of Education Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T06:06:57Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "comox valley school district|board of education trustee|janice caton",
+      "candidate": "Janice Caton (Withdrawn)",
+      "jurisdiction": "Comox Valley School District",
+      "office": "Board of Education Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T06:06:57Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "comox valley school district|board of education trustee|nat raedwulf pogue",
+      "candidate": "Nat Raedwulf Pogue (Withdrawn)",
+      "jurisdiction": "Comox Valley School District",
+      "office": "Board of Education Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T06:06:57Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "conseil scolaire francophone school district|regional trustee|abdelhadi tahir",
+      "candidate": "Abdelhadi Tahir (Withdrawn)",
+      "jurisdiction": "Conseil Scolaire Francophone School District",
+      "office": "Regional Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T06:06:57Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "candidateId": "courtenay|councillor|will cole-hamilton",
+      "candidate": "Will Cole-Hamilton (Withdrawn)",
+      "jurisdiction": "Courtenay",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T06:06:57Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "candidateId": "cowichan valley regional district|electoral area director|ian morrison",
+      "candidate": "Ian Morrison",
+      "jurisdiction": "Cowichan Valley Regional District",
+      "office": "Electoral Area Director",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T18:26:08Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "candidateId": "grand forks|councillor|jd",
+      "candidate": "JD",
+      "jurisdiction": "Grand Forks",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T18:26:08Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "candidateId": "peace river north school district|board of education trustee|ida campbell",
+      "candidate": "Ida Campbell",
+      "jurisdiction": "Peace River North School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T18:26:08Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "candidateId": "salmo|councillor|james gonella",
+      "candidate": "James Gonella",
+      "jurisdiction": "Salmo",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T18:26:08Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "candidateId": "vancouver|councillor|williams parris j.",
+      "candidate": "Williams Parris J.",
+      "jurisdiction": "Vancouver",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T18:26:08Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "candidateId": "abbotsford|councillor|matthew cavacece",
+      "candidate": "Matthew Cavacece",
+      "jurisdiction": "Abbotsford",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-09-24T06:06:57Z",
+      "absentHoursApprox": 12.32,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T18:26:08Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 12.32 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "candidateId": "warfield|councillor|mandi lunan",
+      "candidate": "Mandi Lunan (Withdrawn)",
+      "jurisdiction": "Warfield",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "RETURN_WITH_STATUS_CHANGE",
+      "disappearedAtUtc": "2026-09-24T06:06:57Z",
+      "absentHoursApprox": 12.32,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {
+        "status": {
+          "from": "Active",
+          "to": "Withdrawn"
+        }
+      },
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T18:26:08Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 12.32 hours between observed revisions.",
+        "Return comparison: RETURN_WITH_STATUS_CHANGE."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "candidateId": "alberni-clayoquot regional district|electoral area director|angus barter",
+      "candidate": "Angus Barter (Withdrawn)",
+      "jurisdiction": "Alberni-Clayoquot Regional District",
+      "office": "Electoral Area Director",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T18:26:08Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "candidateId": "comox|councillor|ruby sidhu",
+      "candidate": "Ruby Sidhu",
+      "jurisdiction": "Comox",
+      "office": "Councillor",
+      "type": "NAME_CORRECTION",
+      "from": "ruby Sidhu",
+      "to": "Ruby Sidhu",
+      "category": "FIELD_CORRECTION",
+      "identityLinkInferred": false,
+      "pattern": "NAME_CORRECTION",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T18:26:08Z: NAME_CORRECTION."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "candidateId": "pacific rim school district|board of education trustee|derek dovale",
+      "candidate": "Derek Dovale (Withdrawn)",
+      "jurisdiction": "Pacific Rim School District",
+      "office": "Board of Education Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T18:26:08Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "candidateId": "port clements|councillor|leidys barrios barona",
+      "candidate": "Leidys Barrios Barona (Withdrawn)",
+      "jurisdiction": "Port Clements",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-24T18:26:08Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-25T18:37:16Z",
+      "revision": 4,
+      "candidateId": "cowichan valley regional district|electoral area director|ian morrison",
+      "candidate": "Ian Morrison",
+      "jurisdiction": "Cowichan Valley Regional District",
+      "office": "Electoral Area Director",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-09-24T18:26:08Z",
+      "absentHoursApprox": 24.19,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-25T18:37:16Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 24.19 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-25T18:37:16Z",
+      "revision": 4,
+      "candidateId": "peace river north school district|board of education trustee|ida campbell",
+      "candidate": "Ida Campbell",
+      "jurisdiction": "Peace River North School District",
+      "office": "Board of Education Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-09-24T18:26:08Z",
+      "absentHoursApprox": 24.19,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-25T18:37:16Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 24.19 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-25T18:37:16Z",
+      "revision": 4,
+      "candidateId": "anmore|councillor|peter ludeman",
+      "candidate": "Peter Ludeman (Withdrawn)",
+      "jurisdiction": "Anmore",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-25T18:37:16Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-25T18:37:16Z",
+      "revision": 4,
+      "candidateId": "anmore|mayor|john mcewen",
+      "candidate": "John McEwen (Withdrawn)",
+      "jurisdiction": "Anmore",
+      "office": "Mayor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-25T18:37:16Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-25T18:37:16Z",
+      "revision": 4,
+      "candidateId": "campbell river|councillor|dale hunt",
+      "candidate": "Dale Hunt (Withdrawn)",
+      "jurisdiction": "Campbell River",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-25T18:37:16Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-25T18:37:16Z",
+      "revision": 4,
+      "candidateId": "esquimalt|mayor|dan bruyere",
+      "candidate": "Dan Bruyere (Withdrawn)",
+      "jurisdiction": "Esquimalt",
+      "office": "Mayor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-25T18:37:16Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-25T18:37:16Z",
+      "revision": 4,
+      "candidateId": "summerland|mayor|mark labossiere",
+      "candidate": "Mark Labossiere (Withdrawn)",
+      "jurisdiction": "Summerland",
+      "office": "Mayor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-25T18:37:16Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-25T18:37:16Z",
+      "revision": 4,
+      "candidateId": "taylor|councillor|joel l'heureux",
+      "candidate": "Joel L'Heureux (Withdrawn)",
+      "jurisdiction": "Taylor",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-25T18:37:16Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-26T17:31:34Z",
+      "revision": 5,
+      "candidateId": "kootenay lake school district|board of education trustee|julie bremner",
+      "candidate": "Julie Bremner (Withdrawn)",
+      "jurisdiction": "Kootenay Lake School District",
+      "office": "Board of Education Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-26T17:31:34Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    }
+  ],
+  "batches": [
+    {
+      "atUtc": "2026-09-22T16:58:00Z",
+      "revision": 1,
+      "type": "CENTRAL_WIDE_UPDATE",
+      "candidateChanges": 20,
+      "jurisdictions": [
+        "Chilliwack",
+        "Comox Valley School District",
+        "Daajing Giids",
+        "Fort Nelson School District",
+        "Fort St. John",
+        "Greater Victoria School District",
+        "Langford",
+        "Langley, City of",
+        "Metchosin",
+        "New Denver",
+        "Oak Bay",
+        "Port Moody",
+        "Qualicum School District",
+        "Quesnel School District",
+        "Richmond",
+        "Stikine School District",
+        "Surrey School District",
+        "Vancouver School District",
+        "Vanderhoof"
+      ],
+      "candidates": [
+        {
+          "candidate": "R. Elaine Young",
+          "jurisdiction": "Qualicum School District",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Nilsana Charkhandeh",
+          "jurisdiction": "Chilliwack",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Maria Sanchez",
+          "jurisdiction": "Comox Valley School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Kathi Dickie",
+          "jurisdiction": "Fort Nelson School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "John Lambert",
+          "jurisdiction": "Fort St. John",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Maiya Beech",
+          "jurisdiction": "Greater Victoria School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Shawn Blair",
+          "jurisdiction": "Langford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Andrew Flitton",
+          "jurisdiction": "Langley, City of",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Steve Gray",
+          "jurisdiction": "Metchosin",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Kathy Hartman",
+          "jurisdiction": "New Denver",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Will Moore",
+          "jurisdiction": "Oak Bay",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Laura Soucy",
+          "jurisdiction": "Port Moody",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Kathy Beauvillier",
+          "jurisdiction": "Quesnel School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Freddy Loots",
+          "jurisdiction": "Stikine School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Jolene Hawkins",
+          "jurisdiction": "Stikine School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Alisha Masongsong",
+          "jurisdiction": "Vancouver School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Eric Lytle",
+          "jurisdiction": "Vanderhoof",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Calida Erickson (Withdrawn)",
+          "jurisdiction": "Daajing Giids",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Glenda Strang",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Vick Karan",
+          "jurisdiction": "Surrey School District",
+          "type": "AFFILIATION_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-22T16:58:00Z",
+      "revision": 1,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Stikine School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Freddy Loots",
+          "jurisdiction": "Stikine School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Jolene Hawkins",
+          "jurisdiction": "Stikine School District",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "type": "CENTRAL_WIDE_UPDATE",
+      "candidateChanges": 63,
+      "jurisdictions": [
+        "Abbotsford",
+        "Abbotsford School District",
+        "Bulkley Valley School District",
+        "Burnaby",
+        "Campbell River School District",
+        "Central Kootenay Regional District",
+        "Central Okanagan School District",
+        "Central Saanich",
+        "Coldstream",
+        "Columbia Shuswap Regional District",
+        "Comox Valley Regional District",
+        "Comox Valley School District",
+        "Conseil Scolaire Francophone School District",
+        "Courtenay",
+        "Cranbrook",
+        "Elkford",
+        "Fraser Lake",
+        "Grand Forks",
+        "Kootenay Boundary Regional District",
+        "Lake Country",
+        "Langley, Township of",
+        "Lillooet",
+        "Mount Waddington Regional District",
+        "Northern Rockies",
+        "Pacific Rim School District",
+        "Port Alberni",
+        "Prince George School District",
+        "Radium Hot Springs",
+        "Richmond School District",
+        "Salmon Arm",
+        "Southeast Kootenay School District",
+        "Squamish",
+        "Telkwa",
+        "Thompson-Nicola Regional District",
+        "Ucluelet",
+        "Vancouver",
+        "Warfield",
+        "West Vancouver",
+        "White Rock"
+      ],
+      "candidates": [
+        {
+          "candidate": "Martin Kendell",
+          "jurisdiction": "Burnaby",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Matthew Cavacece",
+          "jurisdiction": "Abbotsford",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Amber Champ",
+          "jurisdiction": "Comox Valley Regional District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "David Szucsko",
+          "jurisdiction": "Prince George School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Rob Thompson",
+          "jurisdiction": "Prince George School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Lee Morris",
+          "jurisdiction": "Thompson-Nicola Regional District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Mandi Lunan",
+          "jurisdiction": "Warfield",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Dao Tran",
+          "jurisdiction": "Abbotsford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Jasmit Phulka",
+          "jurisdiction": "Abbotsford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Simon Gibson",
+          "jurisdiction": "Abbotsford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Paul Mahil",
+          "jurisdiction": "Abbotsford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Sukhi Dhami",
+          "jurisdiction": "Abbotsford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Amritpal Mund",
+          "jurisdiction": "Abbotsford School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Mike Rauch",
+          "jurisdiction": "Abbotsford School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Rupinder Brar",
+          "jurisdiction": "Abbotsford School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Kimberly Unger",
+          "jurisdiction": "Bulkley Valley School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Rod Taylor",
+          "jurisdiction": "Bulkley Valley School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Cristi May Sacht",
+          "jurisdiction": "Campbell River School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Joyce McMann",
+          "jurisdiction": "Campbell River School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Shannon Briggs",
+          "jurisdiction": "Campbell River School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Chris Popoff",
+          "jurisdiction": "Central Kootenay Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Forrest Demman",
+          "jurisdiction": "Central Kootenay Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Landon Veregin",
+          "jurisdiction": "Central Kootenay Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Nathan Rushforth",
+          "jurisdiction": "Central Kootenay Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Susan Chew",
+          "jurisdiction": "Central Kootenay Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Christopher Graham",
+          "jurisdiction": "Central Saanich",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Ruth Hoyte",
+          "jurisdiction": "Coldstream",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Mitch Campsall",
+          "jurisdiction": "Columbia Shuswap Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Bruce Murdoch",
+          "jurisdiction": "Cranbrook",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Denis Senecal",
+          "jurisdiction": "Cranbrook",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Joe McGowan",
+          "jurisdiction": "Cranbrook",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Robin Goldsbury",
+          "jurisdiction": "Cranbrook",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Roth Hall",
+          "jurisdiction": "Cranbrook",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Kyle James",
+          "jurisdiction": "Elkford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Meagan Evans",
+          "jurisdiction": "Fraser Lake",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Cam O'Dell",
+          "jurisdiction": "Grand Forks",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Ali Grieve",
+          "jurisdiction": "Kootenay Boundary Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "MaryEllen Buhler",
+          "jurisdiction": "Lake Country",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Monique Knudson",
+          "jurisdiction": "Lillooet",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Patti Flann",
+          "jurisdiction": "Lillooet",
+          "type": "NEW"
+        },
+        {
+          "candidate": "David Summers",
+          "jurisdiction": "Mount Waddington Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Douglas Whitehorne Sr",
+          "jurisdiction": "Northern Rockies",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Pam Craig",
+          "jurisdiction": "Pacific Rim School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Don Tecson",
+          "jurisdiction": "Port Alberni",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Bob Thompson",
+          "jurisdiction": "Prince George School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Dale Shudra",
+          "jurisdiction": "Radium Hot Springs",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Kay Hale",
+          "jurisdiction": "Richmond School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Stefan Mladenovic",
+          "jurisdiction": "Richmond School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Morgan Turland",
+          "jurisdiction": "Salmon Arm",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Chris Johns",
+          "jurisdiction": "Southeast Kootenay School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Ian Brown",
+          "jurisdiction": "Squamish",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Derek Meerdink",
+          "jurisdiction": "Telkwa",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Alishia Fox",
+          "jurisdiction": "Ucluelet",
+          "type": "NEW"
+        },
+        {
+          "candidate": "John Jones",
+          "jurisdiction": "Vancouver",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Peter Lambur",
+          "jurisdiction": "West Vancouver",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Bill Lawrence",
+          "jurisdiction": "White Rock",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Shirley Wilson",
+          "jurisdiction": "Abbotsford",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Jennifer Miles (Withdrawn)",
+          "jurisdiction": "Central Okanagan School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Janice Caton (Withdrawn)",
+          "jurisdiction": "Comox Valley School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Nat Raedwulf Pogue (Withdrawn)",
+          "jurisdiction": "Comox Valley School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Abdelhadi Tahir (Withdrawn)",
+          "jurisdiction": "Conseil Scolaire Francophone School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Will Cole-Hamilton (Withdrawn)",
+          "jurisdiction": "Courtenay",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Lauren Chalus",
+          "jurisdiction": "Langley, Township of",
+          "type": "AFFILIATION_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Abbotsford"
+      ],
+      "candidates": [
+        {
+          "candidate": "Matthew Cavacece",
+          "jurisdiction": "Abbotsford",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Dao Tran",
+          "jurisdiction": "Abbotsford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Jasmit Phulka",
+          "jurisdiction": "Abbotsford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Simon Gibson",
+          "jurisdiction": "Abbotsford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Paul Mahil",
+          "jurisdiction": "Abbotsford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Sukhi Dhami",
+          "jurisdiction": "Abbotsford",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Shirley Wilson",
+          "jurisdiction": "Abbotsford",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 3,
+      "jurisdictions": [
+        "Abbotsford School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Amritpal Mund",
+          "jurisdiction": "Abbotsford School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Mike Rauch",
+          "jurisdiction": "Abbotsford School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Rupinder Brar",
+          "jurisdiction": "Abbotsford School District",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Bulkley Valley School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Kimberly Unger",
+          "jurisdiction": "Bulkley Valley School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Rod Taylor",
+          "jurisdiction": "Bulkley Valley School District",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 3,
+      "jurisdictions": [
+        "Campbell River School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Cristi May Sacht",
+          "jurisdiction": "Campbell River School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Joyce McMann",
+          "jurisdiction": "Campbell River School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Shannon Briggs",
+          "jurisdiction": "Campbell River School District",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 5,
+      "jurisdictions": [
+        "Central Kootenay Regional District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Chris Popoff",
+          "jurisdiction": "Central Kootenay Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Forrest Demman",
+          "jurisdiction": "Central Kootenay Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Landon Veregin",
+          "jurisdiction": "Central Kootenay Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Nathan Rushforth",
+          "jurisdiction": "Central Kootenay Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Susan Chew",
+          "jurisdiction": "Central Kootenay Regional District",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Comox Valley School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Janice Caton (Withdrawn)",
+          "jurisdiction": "Comox Valley School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Nat Raedwulf Pogue (Withdrawn)",
+          "jurisdiction": "Comox Valley School District",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 5,
+      "jurisdictions": [
+        "Cranbrook"
+      ],
+      "candidates": [
+        {
+          "candidate": "Bruce Murdoch",
+          "jurisdiction": "Cranbrook",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Denis Senecal",
+          "jurisdiction": "Cranbrook",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Joe McGowan",
+          "jurisdiction": "Cranbrook",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Robin Goldsbury",
+          "jurisdiction": "Cranbrook",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Roth Hall",
+          "jurisdiction": "Cranbrook",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Lillooet"
+      ],
+      "candidates": [
+        {
+          "candidate": "Monique Knudson",
+          "jurisdiction": "Lillooet",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Patti Flann",
+          "jurisdiction": "Lillooet",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 3,
+      "jurisdictions": [
+        "Prince George School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "David Szucsko",
+          "jurisdiction": "Prince George School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Rob Thompson",
+          "jurisdiction": "Prince George School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Bob Thompson",
+          "jurisdiction": "Prince George School District",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T06:06:57Z",
+      "revision": 2,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Richmond School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Kay Hale",
+          "jurisdiction": "Richmond School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Stefan Mladenovic",
+          "jurisdiction": "Richmond School District",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "type": "CENTRAL_WIDE_UPDATE",
+      "candidateChanges": 17,
+      "jurisdictions": [
+        "Abbotsford",
+        "Alberni-Clayoquot Regional District",
+        "Comox",
+        "Cowichan Valley Regional District",
+        "Grand Forks",
+        "Okanagan Falls, District of",
+        "Pacific Rim School District",
+        "Peace River North School District",
+        "Port Clements",
+        "Powell River",
+        "Salmo",
+        "Vancouver",
+        "Warfield"
+      ],
+      "candidates": [
+        {
+          "candidate": "Ian Morrison",
+          "jurisdiction": "Cowichan Valley Regional District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "JD",
+          "jurisdiction": "Grand Forks",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Ida Campbell",
+          "jurisdiction": "Peace River North School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "James Gonella",
+          "jurisdiction": "Salmo",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Williams Parris J.",
+          "jurisdiction": "Vancouver",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Matthew Cavacece",
+          "jurisdiction": "Abbotsford",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Justin (JD) Dinsdale",
+          "jurisdiction": "Grand Forks",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Cheryl Snyder",
+          "jurisdiction": "Okanagan Falls, District of",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Heather Jackson",
+          "jurisdiction": "Okanagan Falls, District of",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Parris J. Williams",
+          "jurisdiction": "Vancouver",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Mandi Lunan (Withdrawn)",
+          "jurisdiction": "Warfield",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Angus Barter (Withdrawn)",
+          "jurisdiction": "Alberni-Clayoquot Regional District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Ruby Sidhu",
+          "jurisdiction": "Comox",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Ruby Sidhu",
+          "jurisdiction": "Comox",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Derek Dovale (Withdrawn)",
+          "jurisdiction": "Pacific Rim School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Leidys Barrios Barona (Withdrawn)",
+          "jurisdiction": "Port Clements",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Roger Whittaker",
+          "jurisdiction": "Powell River",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Comox"
+      ],
+      "candidates": [
+        {
+          "candidate": "Ruby Sidhu",
+          "jurisdiction": "Comox",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Ruby Sidhu",
+          "jurisdiction": "Comox",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Grand Forks"
+      ],
+      "candidates": [
+        {
+          "candidate": "JD",
+          "jurisdiction": "Grand Forks",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Justin (JD) Dinsdale",
+          "jurisdiction": "Grand Forks",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Okanagan Falls, District of"
+      ],
+      "candidates": [
+        {
+          "candidate": "Cheryl Snyder",
+          "jurisdiction": "Okanagan Falls, District of",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Heather Jackson",
+          "jurisdiction": "Okanagan Falls, District of",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-24T18:26:08Z",
+      "revision": 3,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Vancouver"
+      ],
+      "candidates": [
+        {
+          "candidate": "Williams Parris J.",
+          "jurisdiction": "Vancouver",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Parris J. Williams",
+          "jurisdiction": "Vancouver",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-25T18:37:16Z",
+      "revision": 4,
+      "type": "CENTRAL_WIDE_UPDATE",
+      "candidateChanges": 17,
+      "jurisdictions": [
+        "Anmore",
+        "Campbell River",
+        "Cowichan Valley Regional District",
+        "Esquimalt",
+        "Nelson",
+        "Peace River North School District",
+        "Salmon Arm",
+        "Summerland",
+        "Taylor",
+        "Vancouver"
+      ],
+      "candidates": [
+        {
+          "candidate": "Ian Morrison",
+          "jurisdiction": "Cowichan Valley Regional District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Keith Page",
+          "jurisdiction": "Nelson",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Ida Campbell",
+          "jurisdiction": "Peace River North School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "David Gonella",
+          "jurisdiction": "Salmon Arm",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Peter Ludeman (Withdrawn)",
+          "jurisdiction": "Anmore",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "John McEwen (Withdrawn)",
+          "jurisdiction": "Anmore",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Dale Hunt (Withdrawn)",
+          "jurisdiction": "Campbell River",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Dan Bruyere (Withdrawn)",
+          "jurisdiction": "Esquimalt",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Mark Labossiere (Withdrawn)",
+          "jurisdiction": "Summerland",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Joel L'Heureux (Withdrawn)",
+          "jurisdiction": "Taylor",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Andy Lin",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Bilal Khan",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Ibrahima Cisse",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Judith Kasiama",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Mohadeseh Gharib Arasi",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Yadwinder Mangat",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Muhammad Ahmad",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-25T18:37:16Z",
+      "revision": 4,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Anmore"
+      ],
+      "candidates": [
+        {
+          "candidate": "Peter Ludeman (Withdrawn)",
+          "jurisdiction": "Anmore",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "John McEwen (Withdrawn)",
+          "jurisdiction": "Anmore",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-25T18:37:16Z",
+      "revision": 4,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Vancouver"
+      ],
+      "candidates": [
+        {
+          "candidate": "Andy Lin",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Bilal Khan",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Ibrahima Cisse",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Judith Kasiama",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Mohadeseh Gharib Arasi",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Yadwinder Mangat",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Muhammad Ahmad",
+          "jurisdiction": "Vancouver",
+          "type": "AFFILIATION_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-26T17:31:34Z",
+      "revision": 5,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 5,
+      "jurisdictions": [
+        "Central Okanagan School District",
+        "Cranbrook",
+        "Kootenay Lake School District",
+        "Maple Ridge-Pitt Meadows School District",
+        "Stikine School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Deb Dickerson-Pogue",
+          "jurisdiction": "Central Okanagan School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Tom Shypitka",
+          "jurisdiction": "Cranbrook",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Yvonne Moon",
+          "jurisdiction": "Stikine School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Julie Bremner (Withdrawn)",
+          "jurisdiction": "Kootenay Lake School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Elaine Yamamoto",
+          "jurisdiction": "Maple Ridge-Pitt Meadows School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
+    }
+  ],
+  "timing": {
+    "changesPerHourUtc": {
+      "2026-09-22T16": 20,
+      "2026-09-24T06": 63,
+      "2026-09-24T18": 17,
+      "2026-09-25T18": 17,
+      "2026-09-26T17": 5
+    },
+    "changesPerDayUtc": {
+      "2026-09-22": 20,
+      "2026-09-24": 80,
+      "2026-09-25": 17,
+      "2026-09-26": 5
+    },
+    "revisions": [
+      {
+        "atUtc": "2026-09-22T11:37:56Z",
+        "sourceHash": null,
+        "candidateChanges": 0,
+        "jurisdictionsAffected": 0,
+        "baseline": true
+      },
+      {
+        "atUtc": "2026-09-22T16:58:00Z",
+        "sourceHash": "7d83c5174f8a3840",
+        "candidateChanges": 20,
+        "jurisdictionsAffected": 19,
+        "jurisdictions": [
+          "Chilliwack",
+          "Comox Valley School District",
+          "Daajing Giids",
+          "Fort Nelson School District",
+          "Fort St. John",
+          "Greater Victoria School District",
+          "Langford",
+          "Langley, City of",
+          "Metchosin",
+          "New Denver",
+          "Oak Bay",
+          "Port Moody",
+          "Qualicum School District",
+          "Quesnel School District",
+          "Richmond",
+          "Stikine School District",
+          "Surrey School District",
+          "Vancouver School District",
+          "Vanderhoof"
+        ]
+      },
+      {
+        "atUtc": "2026-09-24T06:06:57Z",
+        "sourceHash": "576197c0855e8224",
+        "candidateChanges": 63,
+        "jurisdictionsAffected": 39,
+        "jurisdictions": [
+          "Abbotsford",
+          "Abbotsford School District",
+          "Bulkley Valley School District",
+          "Burnaby",
+          "Campbell River School District",
+          "Central Kootenay Regional District",
+          "Central Okanagan School District",
+          "Central Saanich",
+          "Coldstream",
+          "Columbia Shuswap Regional District",
+          "Comox Valley Regional District",
+          "Comox Valley School District",
+          "Conseil Scolaire Francophone School District",
+          "Courtenay",
+          "Cranbrook",
+          "Elkford",
+          "Fraser Lake",
+          "Grand Forks",
+          "Kootenay Boundary Regional District",
+          "Lake Country",
+          "Langley, Township of",
+          "Lillooet",
+          "Mount Waddington Regional District",
+          "Northern Rockies",
+          "Pacific Rim School District",
+          "Port Alberni",
+          "Prince George School District",
+          "Radium Hot Springs",
+          "Richmond School District",
+          "Salmon Arm",
+          "Southeast Kootenay School District",
+          "Squamish",
+          "Telkwa",
+          "Thompson-Nicola Regional District",
+          "Ucluelet",
+          "Vancouver",
+          "Warfield",
+          "West Vancouver",
+          "White Rock"
+        ]
+      },
+      {
+        "atUtc": "2026-09-24T18:26:08Z",
+        "sourceHash": "cd4ce29f29a23352",
+        "candidateChanges": 17,
+        "jurisdictionsAffected": 13,
+        "jurisdictions": [
+          "Abbotsford",
+          "Alberni-Clayoquot Regional District",
+          "Comox",
+          "Cowichan Valley Regional District",
+          "Grand Forks",
+          "Okanagan Falls, District of",
+          "Pacific Rim School District",
+          "Peace River North School District",
+          "Port Clements",
+          "Powell River",
+          "Salmo",
+          "Vancouver",
+          "Warfield"
+        ]
+      },
+      {
+        "atUtc": "2026-09-25T18:37:16Z",
+        "sourceHash": "49e6d2bf16725779",
+        "candidateChanges": 17,
+        "jurisdictionsAffected": 10,
+        "jurisdictions": [
+          "Anmore",
+          "Campbell River",
+          "Cowichan Valley Regional District",
+          "Esquimalt",
+          "Nelson",
+          "Peace River North School District",
+          "Salmon Arm",
+          "Summerland",
+          "Taylor",
+          "Vancouver"
+        ]
+      },
+      {
+        "atUtc": "2026-09-26T17:31:34Z",
+        "sourceHash": "68679713846ef560e073ead4922a2a116c60a49c0036286775b06c642765fd08",
+        "candidateChanges": 5,
+        "jurisdictionsAffected": 5,
+        "jurisdictions": [
+          "Central Okanagan School District",
+          "Cranbrook",
+          "Kootenay Lake School District",
+          "Maple Ridge-Pitt Meadows School District",
+          "Stikine School District"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "date": "2026-09-01",
+        "name": "Nomination period begins",
+        "sourceUrl": "https://elections.bc.ca/local-elections/2026-general-local-elections/"
+      },
+      {
+        "date": "2026-09-11",
+        "name": "Close of nominations",
+        "sourceUrl": "https://elections.bc.ca/local-elections/2026-general-local-elections/"
+      },
+      {
+        "date": "2026-09-18",
+        "name": "Campaign financing arrangement deadline",
+        "sourceUrl": "https://elections.bc.ca/local-elections/2026-general-local-elections/"
+      },
+      {
+        "date": "2026-09-19",
+        "name": "Campaign period begins",
+        "sourceUrl": "https://elections.bc.ca/local-elections/2026-general-local-elections/"
+      },
+      {
+        "date": "2026-10-17",
+        "name": "General Voting Day",
+        "sourceUrl": "https://elections.bc.ca/local-elections/2026-general-local-elections/"
+      }
+    ]
+  }
+}

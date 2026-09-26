@@ -1047,5 +1047,66 @@
         }
       }
     ]
+  },
+  {
+    "observedAtUtc": "2026-09-26T17:31:34Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "68679713846ef560e073ead4922a2a116c60a49c0036286775b06c642765fd08",
+    "previousSourceSha256": null,
+    "pageCount": 199,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3543,
+    "candidateCount": 3546,
+    "netCandidateDelta": 3,
+    "added": [
+      {
+        "jurisdiction": "Central Okanagan School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Deb Dickerson-Pogue",
+        "affiliation": "",
+        "financialAgent": "Deb Dickerson-Pogue",
+        "sourcePage": 24
+      },
+      {
+        "jurisdiction": "Cranbrook",
+        "office": "Mayor",
+        "candidate": "Tom Shypitka",
+        "affiliation": "",
+        "financialAgent": "Bradford Spencer",
+        "sourcePage": 41
+      },
+      {
+        "jurisdiction": "Stikine School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Yvonne Moon",
+        "affiliation": "",
+        "financialAgent": "Yvonne Moon",
+        "sourcePage": 164
+      }
+    ],
+    "removed": [],
+    "statusChanges": [
+      {
+        "jurisdiction": "Kootenay Lake School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Julie Bremner",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": [
+      {
+        "jurisdiction": "Maple Ridge-Pitt Meadows School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Elaine Yamamoto",
+        "changes": {
+          "financialAgent": {
+            "from": "Elaine Yamamoto",
+            "to": "Rebecca Awram"
+          }
+        }
+      }
+    ]
   }
 ]

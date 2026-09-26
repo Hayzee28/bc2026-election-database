@@ -1,0 +1,46 @@
+name: Check official local candidate sources
+
+on:
+  schedule:
+    - cron: "43 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: elections-bc-candidate-refresh
+  cancel-in-progress: false
+
+jobs:
+  local-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Check configured official sources independently
+        run: python scripts/watch_local_sources.py --discover
+      - name: Search official text for candidate-specific explanation clues
+        run: python scripts/check_official_explanations.py
+      - name: Refresh local comparison and reports
+        run: |
+          python scripts/investigate_candidates.py
+          python scripts/validate_investigation.py
+      - name: Commit observed local checks
+        shell: bash
+        run: |
+          git add local-source-state.json local-source-history.json official-explanations.json \
+            reports/local-source-discovery.json candidate-anomalies.json candidate-anomaly-report.json local-ebc-mismatches.json \
+            reports/latest-candidate-anomalies.md
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Record official local candidate source checks"
+          git push

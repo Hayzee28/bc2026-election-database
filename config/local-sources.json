@@ -1,0 +1,11 @@
+[
+  {
+    "jurisdiction": "Richmond",
+    "url": "https://www.richmond.ca/city-hall/elections/candidateslist.htm",
+    "officialWebsite": "https://www.richmond.ca/city-hall/elections.htm",
+    "officialHosts": ["www.richmond.ca", "richmond.ca"],
+    "type": "HTML",
+    "sections": [{"heading": "Candidates for Mayor"}, {"heading": "Candidates for Councillor"}],
+    "minimumNames": 5
+  }
+]

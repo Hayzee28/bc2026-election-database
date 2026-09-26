@@ -107,8 +107,9 @@ def is_wrapped_status_continuation(
     affiliation: str,
     agent: str,
 ) -> bool:
-    if current is None or jur or affiliation or agent:
+    if current is None or affiliation or agent:
         return False
+    # A jurisdiction can wrap on the same continuation line as office/status.
     prefix = OFFICE_WRAP_PREFIX.get(office)
     if not prefix or not STATUS_ONLY_CANDIDATE_RE.fullmatch(candidate):
         return False
@@ -695,6 +696,7 @@ def record_change_audit(
 
     event = {
         "observedAtUtc": observed_at,
+        "sourceUrl": SOURCE_URL,
         "sourceChanged": source_changed,
         "sourceSha256": source_sha256,
         "previousSourceSha256": previous_sha,
@@ -712,6 +714,7 @@ def record_change_audit(
         json.dumps(
             {
                 "observedAtUtc": observed_at,
+                "sourceUrl": SOURCE_URL,
                 "sourceSha256": source_sha256,
                 "pageCount": meta["pageCount"],
                 "candidateCount": len(new_rows),

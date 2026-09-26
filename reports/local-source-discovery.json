@@ -1,0 +1,16 @@
+{
+  "Richmond": [
+    {
+      "title": "Candidate List",
+      "url": "https://www.richmond.ca/city-hall/elections/candidateslist.htm",
+      "verifiedHostOnly": true,
+      "requiresRecipeReview": true
+    },
+    {
+      "title": "Candidates",
+      "url": "https://www.richmond.ca/city-hall/elections/candidateslist.htm?PageMode=HTML",
+      "verifiedHostOnly": true,
+      "requiresRecipeReview": true
+    }
+  ]
+}
