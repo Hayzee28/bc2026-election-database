@@ -4,6 +4,12 @@ on:
   schedule:
     # Preserve the existing hourly source check.
     - cron: "17 * * * *"
+  push:
+    paths:
+      - "scripts/**"
+      - "tests/**"
+      - "requirements.txt"
+      - ".github/workflows/update-candidates.yml"
   workflow_dispatch:
 
 permissions:
@@ -32,6 +38,9 @@ jobs:
 
       - name: Install parser dependency
         run: pip install -r requirements.txt
+
+      - name: Run investigation tests
+        run: python -m unittest discover -s tests -q
 
       - name: Fetch, parse, and validate Elections BC register
         run: python scripts/update_candidates.py
