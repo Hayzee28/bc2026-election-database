@@ -26,6 +26,7 @@ import sys
 import tempfile
 import urllib.request
 from collections import Counter
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -39,6 +40,8 @@ SOURCE_URL = (
 ROOT = Path(__file__).resolve().parents[1]
 DATA_JSON = ROOT / "data.json"
 DATA_CSV = ROOT / "bc-2026-candidates.csv"
+AUDIT_HISTORY = ROOT / "candidate-change-history.json"
+SOURCE_STATE = ROOT / "candidate-source-state.json"
 
 # Column starts observed in Elections BC's 2026 register. We deliberately fail closed
 # if these headers move materially rather than guessing at a redesigned PDF.
@@ -557,6 +560,175 @@ def canonical_source_fields(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     ]
 
 
+
+STATUS_SUFFIX_RE = re.compile(r"\s+\((Withdrawn|Acclaimed)\)$", re.IGNORECASE)
+
+
+def load_optional_json(path: Path, default: Any) -> Any:
+    if not path.exists():
+        return default
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def audit_identity(row: dict[str, Any]) -> tuple[str, str, str]:
+    candidate = norm(row.get("candidate"))
+    base = STATUS_SUFFIX_RE.sub("", candidate)
+    return (norm(row.get("jurisdiction")), norm(row.get("office")), base)
+
+
+def candidate_status(row: dict[str, Any]) -> str:
+    match = STATUS_SUFFIX_RE.search(norm(row.get("candidate")))
+    return match.group(1).title() if match else ""
+
+
+def compact_candidate(row: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "jurisdiction": norm(row.get("jurisdiction")),
+        "office": norm(row.get("office")),
+        "candidate": norm(row.get("candidate")),
+        "affiliation": norm(row.get("affiliation")),
+        "financialAgent": norm(row.get("financialAgent")),
+        "sourcePage": row.get("sourcePage"),
+    }
+
+
+def summarize_candidate_changes(
+    old_rows: list[dict[str, Any]], new_rows: list[dict[str, Any]]
+) -> dict[str, Any]:
+    old_map = {audit_identity(row): row for row in old_rows}
+    new_map = {audit_identity(row): row for row in new_rows}
+
+    added = [
+        compact_candidate(new_map[key])
+        for key in sorted(new_map.keys() - old_map.keys())
+    ]
+    removed = [
+        compact_candidate(old_map[key])
+        for key in sorted(old_map.keys() - new_map.keys())
+    ]
+
+    status_changes: list[dict[str, Any]] = []
+    modified: list[dict[str, Any]] = []
+    for key in sorted(old_map.keys() & new_map.keys()):
+        before = old_map[key]
+        after = new_map[key]
+        before_status = candidate_status(before)
+        after_status = candidate_status(after)
+        if before_status != after_status:
+            status_changes.append(
+                {
+                    "jurisdiction": key[0],
+                    "office": key[1],
+                    "candidate": key[2],
+                    "from": before_status or "Active",
+                    "to": after_status or "Active",
+                }
+            )
+
+        watched_fields = ("affiliation", "financialAgent")
+        field_changes = {
+            field: {"from": norm(before.get(field)), "to": norm(after.get(field))}
+            for field in watched_fields
+            if norm(before.get(field)) != norm(after.get(field))
+        }
+        if field_changes:
+            modified.append(
+                {
+                    "jurisdiction": key[0],
+                    "office": key[1],
+                    "candidate": key[2],
+                    "changes": field_changes,
+                }
+            )
+
+    return {
+        "previousCandidateCount": len(old_rows),
+        "candidateCount": len(new_rows),
+        "netCandidateDelta": len(new_rows) - len(old_rows),
+        "added": added,
+        "removed": removed,
+        "statusChanges": status_changes,
+        "modified": modified,
+    }
+
+
+def record_change_audit(
+    old_rows: list[dict[str, Any]],
+    new_rows: list[dict[str, Any]],
+    source_sha256: str,
+    meta: dict[str, Any],
+) -> bool:
+    previous_state = load_optional_json(SOURCE_STATE, {})
+    previous_sha = previous_state.get("sourceSha256")
+    changes = summarize_candidate_changes(old_rows, new_rows)
+
+    data_changed = any(
+        (
+            changes["netCandidateDelta"],
+            changes["added"],
+            changes["removed"],
+            changes["statusChanges"],
+            changes["modified"],
+        )
+    )
+    source_changed = previous_sha != source_sha256
+
+    if not source_changed and not data_changed:
+        return False
+
+    observed_at = (
+        datetime.now(timezone.utc)
+        .replace(microsecond=0)
+        .isoformat()
+        .replace("+00:00", "Z")
+    )
+
+    history = load_optional_json(AUDIT_HISTORY, [])
+    if not isinstance(history, list):
+        raise RuntimeError("candidate-change-history.json is not a JSON array.")
+
+    event = {
+        "observedAtUtc": observed_at,
+        "sourceChanged": source_changed,
+        "sourceSha256": source_sha256,
+        "previousSourceSha256": previous_sha,
+        "pageCount": meta["pageCount"],
+        "jurisdictionCount": meta["jurisdictionCount"],
+        **changes,
+    }
+    history.append(event)
+
+    AUDIT_HISTORY.write_text(
+        json.dumps(history, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    SOURCE_STATE.write_text(
+        json.dumps(
+            {
+                "observedAtUtc": observed_at,
+                "sourceSha256": source_sha256,
+                "pageCount": meta["pageCount"],
+                "candidateCount": len(new_rows),
+                "jurisdictionCount": meta["jurisdictionCount"],
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+
+    print(
+        "AUDIT RECORDED | "
+        f"source_changed={source_changed} | "
+        f"count={len(old_rows):,}->{len(new_rows):,} | "
+        f"added={len(changes['added'])} | removed={len(changes['removed'])} | "
+        f"status_changes={len(changes['statusChanges'])} | "
+        f"modified={len(changes['modified'])}"
+    )
+    return True
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -630,13 +802,14 @@ def main() -> int:
             print("CHECK-ONLY: no files written.")
             return 0
 
-        if not changed:
+        if changed:
+            write_json(merged, DATA_JSON)
+            write_csv(merged, DATA_CSV)
+            print(f"UPDATED: wrote {len(merged):,} validated candidate rows to data.json and CSV.")
+        else:
             print("NO DATA CHANGE: source parsed cleanly; website files left untouched.")
-            return 0
 
-        write_json(merged, DATA_JSON)
-        write_csv(merged, DATA_CSV)
-        print(f"UPDATED: wrote {len(merged):,} validated candidate rows to data.json and CSV.")
+        record_change_audit(old_rows, merged, sha256, meta)
         return 0
 
     finally:
