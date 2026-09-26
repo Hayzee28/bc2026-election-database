@@ -42,13 +42,13 @@ jobs:
       - name: Publish only real data changes
         shell: bash
         run: |
-          if git diff --quiet -- data.json bc-2026-candidates.csv; then
-            echo "No candidate-data change. Nothing to commit."
+          if git diff --quiet -- data.json bc-2026-candidates.csv candidate-change-history.json candidate-source-state.json; then
+            echo "No candidate/source change. Nothing to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json bc-2026-candidates.csv
+          git add data.json bc-2026-candidates.csv candidate-change-history.json candidate-source-state.json
           git commit -m "Update Elections BC candidate data"
           git push
