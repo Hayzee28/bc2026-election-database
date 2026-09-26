@@ -1,0 +1,1051 @@
+[
+  {
+    "observedAtUtc": "2026-09-22T11:37:56Z",
+    "reconstructed": true,
+    "baseline": true,
+    "sourceDate": "2026-09-21",
+    "sourceSha256Prefix": null,
+    "candidateCount": 3479,
+    "note": "Known-good baseline imported when repository was created."
+  },
+  {
+    "observedAtUtc": "2026-09-22T16:58:00Z",
+    "reconstructed": true,
+    "sourceDate": null,
+    "sourceSha256Prefix": "7d83c5174f8a3840",
+    "previousCandidateCount": 3479,
+    "candidateCount": 3495,
+    "netCandidateDelta": 16,
+    "added": [
+      {
+        "jurisdiction": "Chilliwack",
+        "office": "Councillor",
+        "candidate": "Nilsana Charkhandeh",
+        "affiliation": "",
+        "financialAgent": "Nilsana Charkhandeh",
+        "sourcePage": 25
+      },
+      {
+        "jurisdiction": "Comox Valley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Maria Sanchez",
+        "affiliation": "",
+        "financialAgent": "Maria Sanchez",
+        "sourcePage": 33
+      },
+      {
+        "jurisdiction": "Fort Nelson School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kathi Dickie",
+        "affiliation": "",
+        "financialAgent": "Kathi Dickie",
+        "sourcePage": 48
+      },
+      {
+        "jurisdiction": "Fort St. John",
+        "office": "Councillor",
+        "candidate": "John Lambert",
+        "affiliation": "",
+        "financialAgent": "John Lambert",
+        "sourcePage": 50
+      },
+      {
+        "jurisdiction": "Greater Victoria School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Maiya Beech",
+        "affiliation": "Victoria For All",
+        "financialAgent": "Amelia Viaud",
+        "sourcePage": 57
+      },
+      {
+        "jurisdiction": "Langford",
+        "office": "Councillor",
+        "candidate": "Shawn Blair",
+        "affiliation": "",
+        "financialAgent": "Shawn Blair",
+        "sourcePage": 80
+      },
+      {
+        "jurisdiction": "Langley, City of",
+        "office": "Councillor",
+        "candidate": "Andrew Flitton",
+        "affiliation": "Achieving for Langley City",
+        "financialAgent": "Andrew Flitton",
+        "sourcePage": 83
+      },
+      {
+        "jurisdiction": "Metchosin",
+        "office": "Mayor",
+        "candidate": "Steve Gray",
+        "affiliation": "",
+        "financialAgent": "Carol Voyt",
+        "sourcePage": 92
+      },
+      {
+        "jurisdiction": "New Denver",
+        "office": "Councillor",
+        "candidate": "Kathy Hartman",
+        "affiliation": "",
+        "financialAgent": "Elsie Curtis",
+        "sourcePage": 102
+      },
+      {
+        "jurisdiction": "Oak Bay",
+        "office": "Councillor",
+        "candidate": "Will Moore",
+        "affiliation": "",
+        "financialAgent": "Will Moore",
+        "sourcePage": 112
+      },
+      {
+        "jurisdiction": "Port Moody",
+        "office": "Councillor",
+        "candidate": "Laura Soucy",
+        "affiliation": "Port Moody Voice",
+        "financialAgent": "Sebastian Thomas",
+        "sourcePage": 128
+      },
+      {
+        "jurisdiction": "Qualicum School District",
+        "office": "Board of Education Trustee",
+        "candidate": "R. Elaine Young",
+        "affiliation": "",
+        "financialAgent": "Cathrine Albert",
+        "sourcePage": 137
+      },
+      {
+        "jurisdiction": "Quesnel School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kathy Beauvillier",
+        "affiliation": "",
+        "financialAgent": "Kathy Beauvillier",
+        "sourcePage": 138
+      },
+      {
+        "jurisdiction": "Stikine School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jolene Hawkins",
+        "affiliation": "",
+        "financialAgent": "Jolene Hawkins",
+        "sourcePage": 161
+      },
+      {
+        "jurisdiction": "Stikine School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Freddy Loots",
+        "affiliation": "",
+        "financialAgent": "Freddy Loots",
+        "sourcePage": 161
+      },
+      {
+        "jurisdiction": "Vancouver School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Alisha Masongsong",
+        "affiliation": "GREEN",
+        "financialAgent": "Steve Kisby",
+        "sourcePage": 183
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "Eric Lytle",
+        "affiliation": "",
+        "financialAgent": "Eric Lytle",
+        "sourcePage": 184
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Qualicum School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Roberta Elaine",
+        "affiliation": "",
+        "financialAgent": "Cathrine Albert",
+        "sourcePage": 136
+      }
+    ],
+    "statusChanges": [
+      {
+        "jurisdiction": "Daajing Giids",
+        "office": "Councillor",
+        "candidate": "Calida Erickson",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": [
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Glenda Strang",
+        "changes": {
+          "affiliation": {
+            "from": "",
+            "to": "Common Sense"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Surrey School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Vick Karan",
+        "changes": {
+          "affiliation": {
+            "from": "",
+            "to": "Our Surrey"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "observedAtUtc": "2026-09-24T06:06:57Z",
+    "reconstructed": true,
+    "sourceDate": "2026-09-23",
+    "sourceSha256Prefix": "576197c0855e8224",
+    "previousCandidateCount": 3495,
+    "candidateCount": 3538,
+    "netCandidateDelta": 43,
+    "added": [
+      {
+        "jurisdiction": "Abbotsford",
+        "office": "Councillor",
+        "candidate": "Simon Gibson",
+        "affiliation": "",
+        "financialAgent": "Richard Gilbert",
+        "sourcePage": 2
+      },
+      {
+        "jurisdiction": "Abbotsford",
+        "office": "Councillor",
+        "candidate": "Jasmit Phulka",
+        "affiliation": "",
+        "financialAgent": "Harjit Purewal",
+        "sourcePage": 2
+      },
+      {
+        "jurisdiction": "Abbotsford",
+        "office": "Councillor",
+        "candidate": "Dao Tran",
+        "affiliation": "",
+        "financialAgent": "Dao Tran",
+        "sourcePage": 2
+      },
+      {
+        "jurisdiction": "Abbotsford",
+        "office": "Mayor",
+        "candidate": "Sukhi Dhami",
+        "affiliation": "",
+        "financialAgent": "Walter Williams",
+        "sourcePage": 3
+      },
+      {
+        "jurisdiction": "Abbotsford",
+        "office": "Mayor",
+        "candidate": "Paul Mahil",
+        "affiliation": "",
+        "financialAgent": "Parminder Parmar",
+        "sourcePage": 3
+      },
+      {
+        "jurisdiction": "Abbotsford School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Rupinder Brar",
+        "affiliation": "",
+        "financialAgent": "Jessica Raiwal",
+        "sourcePage": 3
+      },
+      {
+        "jurisdiction": "Abbotsford School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Amritpal Mund",
+        "affiliation": "Abbotsford Conservatives",
+        "financialAgent": "Amritpal Mund",
+        "sourcePage": 3
+      },
+      {
+        "jurisdiction": "Abbotsford School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Mike Rauch",
+        "affiliation": "",
+        "financialAgent": "Winsome Rauch",
+        "sourcePage": 3
+      },
+      {
+        "jurisdiction": "Bulkley Valley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Rod Taylor",
+        "affiliation": "",
+        "financialAgent": "Rod Taylor",
+        "sourcePage": 10
+      },
+      {
+        "jurisdiction": "Bulkley Valley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kimberly Unger",
+        "affiliation": "",
+        "financialAgent": "Kimberly Unger",
+        "sourcePage": 10
+      },
+      {
+        "jurisdiction": "Burnaby",
+        "office": "Councillor",
+        "candidate": "Martin Kendell",
+        "affiliation": "Burnaby Green Party",
+        "financialAgent": "Carrie McLaren",
+        "sourcePage": 12
+      },
+      {
+        "jurisdiction": "Campbell River School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Shannon Briggs",
+        "affiliation": "",
+        "financialAgent": "Shannon Briggs",
+        "sourcePage": 17
+      },
+      {
+        "jurisdiction": "Campbell River School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Cristi May Sacht",
+        "affiliation": "",
+        "financialAgent": "Cristi May Sacht",
+        "sourcePage": 17
+      },
+      {
+        "jurisdiction": "Campbell River School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Joyce McMann",
+        "affiliation": "",
+        "financialAgent": "Joyce McMann",
+        "sourcePage": 17
+      },
+      {
+        "jurisdiction": "Central Kootenay Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Susan Chew",
+        "affiliation": "",
+        "financialAgent": "Susan Chew",
+        "sourcePage": 22
+      },
+      {
+        "jurisdiction": "Central Kootenay Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Forrest Demman",
+        "affiliation": "",
+        "financialAgent": "Forrest Demman",
+        "sourcePage": 22
+      },
+      {
+        "jurisdiction": "Central Kootenay Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Chris Popoff",
+        "affiliation": "",
+        "financialAgent": "Chris Popoff",
+        "sourcePage": 23
+      },
+      {
+        "jurisdiction": "Central Kootenay Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Nathan Rushforth",
+        "affiliation": "",
+        "financialAgent": "Nathan Rushforth",
+        "sourcePage": 23
+      },
+      {
+        "jurisdiction": "Central Kootenay Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Landon Veregin",
+        "affiliation": "",
+        "financialAgent": "Landon Veregin",
+        "sourcePage": 23
+      },
+      {
+        "jurisdiction": "Central Saanich",
+        "office": "Councillor",
+        "candidate": "Christopher Graham",
+        "affiliation": "",
+        "financialAgent": "Christopher Graham",
+        "sourcePage": 24
+      },
+      {
+        "jurisdiction": "Coldstream",
+        "office": "Mayor",
+        "candidate": "Ruth Hoyte",
+        "affiliation": "",
+        "financialAgent": "Ruth Hoyte",
+        "sourcePage": 30
+      },
+      {
+        "jurisdiction": "Columbia Shuswap Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Mitch Campsall",
+        "affiliation": "",
+        "financialAgent": "Mitch Campsall",
+        "sourcePage": 31
+      },
+      {
+        "jurisdiction": "Cranbrook",
+        "office": "Councillor",
+        "candidate": "Robin Goldsbury",
+        "affiliation": "",
+        "financialAgent": "Robin Goldsbury",
+        "sourcePage": 40
+      },
+      {
+        "jurisdiction": "Cranbrook",
+        "office": "Councillor",
+        "candidate": "Roth Hall",
+        "affiliation": "",
+        "financialAgent": "Roth Hall",
+        "sourcePage": 40
+      },
+      {
+        "jurisdiction": "Cranbrook",
+        "office": "Councillor",
+        "candidate": "Joe McGowan",
+        "affiliation": "",
+        "financialAgent": "Judith Wiwcher",
+        "sourcePage": 40
+      },
+      {
+        "jurisdiction": "Cranbrook",
+        "office": "Councillor",
+        "candidate": "Bruce Murdoch",
+        "affiliation": "",
+        "financialAgent": "Joseph Cross",
+        "sourcePage": 41
+      },
+      {
+        "jurisdiction": "Cranbrook",
+        "office": "Councillor",
+        "candidate": "Denis Senecal",
+        "affiliation": "",
+        "financialAgent": "Denis Senecal",
+        "sourcePage": 41
+      },
+      {
+        "jurisdiction": "Elkford",
+        "office": "Mayor",
+        "candidate": "Kyle James",
+        "affiliation": "",
+        "financialAgent": "Kyle James",
+        "sourcePage": 47
+      },
+      {
+        "jurisdiction": "Fraser Lake",
+        "office": "Councillor",
+        "candidate": "Meagan Evans",
+        "affiliation": "",
+        "financialAgent": "Meagan Evans",
+        "sourcePage": 52
+      },
+      {
+        "jurisdiction": "Grand Forks",
+        "office": "Councillor",
+        "candidate": "Cam O'Dell",
+        "affiliation": "",
+        "financialAgent": "Cam O'Dell",
+        "sourcePage": 58
+      },
+      {
+        "jurisdiction": "Kootenay Boundary Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Ali Grieve",
+        "affiliation": "",
+        "financialAgent": "Ali Grieve",
+        "sourcePage": 78
+      },
+      {
+        "jurisdiction": "Lake Country",
+        "office": "Mayor",
+        "candidate": "MaryEllen Buhler",
+        "affiliation": "",
+        "financialAgent": "MaryEllen Buhler",
+        "sourcePage": 81
+      },
+      {
+        "jurisdiction": "Lillooet",
+        "office": "Councillor",
+        "candidate": "Patti Flann",
+        "affiliation": "",
+        "financialAgent": "Patti Flann",
+        "sourcePage": 87
+      },
+      {
+        "jurisdiction": "Lillooet",
+        "office": "Councillor",
+        "candidate": "Monique Knudson",
+        "affiliation": "",
+        "financialAgent": "Monique Knudson",
+        "sourcePage": 87
+      },
+      {
+        "jurisdiction": "Mount Waddington Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "David Summers",
+        "affiliation": "",
+        "financialAgent": "David Summers",
+        "sourcePage": 98
+      },
+      {
+        "jurisdiction": "Northern Rockies",
+        "office": "Councillor",
+        "candidate": "Douglas Whitehorne Sr",
+        "affiliation": "",
+        "financialAgent": "Douglas Whitehorne Sr",
+        "sourcePage": 113
+      },
+      {
+        "jurisdiction": "Pacific Rim School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Pam Craig",
+        "affiliation": "",
+        "financialAgent": "Pam Craig",
+        "sourcePage": 119
+      },
+      {
+        "jurisdiction": "Port Alberni",
+        "office": "Mayor",
+        "candidate": "Don Tecson",
+        "affiliation": "",
+        "financialAgent": "Susan Roth",
+        "sourcePage": 125
+      },
+      {
+        "jurisdiction": "Prince George School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Bob Thompson",
+        "affiliation": "",
+        "financialAgent": "Bob Thompson",
+        "sourcePage": 135
+      },
+      {
+        "jurisdiction": "Radium Hot Springs",
+        "office": "Councillor",
+        "candidate": "Dale Shudra",
+        "affiliation": "",
+        "financialAgent": "Dale Shudra",
+        "sourcePage": 141
+      },
+      {
+        "jurisdiction": "Richmond School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kay Hale",
+        "affiliation": "",
+        "financialAgent": "Kay Hale",
+        "sourcePage": 146
+      },
+      {
+        "jurisdiction": "Richmond School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Stefan Mladenovic",
+        "affiliation": "",
+        "financialAgent": "Stefan Mladenovic",
+        "sourcePage": 146
+      },
+      {
+        "jurisdiction": "Salmon Arm",
+        "office": "Councillor",
+        "candidate": "Morgan Turland",
+        "affiliation": "",
+        "financialAgent": "Morgan Turland",
+        "sourcePage": 152
+      },
+      {
+        "jurisdiction": "Southeast Kootenay School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Chris Johns",
+        "affiliation": "",
+        "financialAgent": "Chris Johns",
+        "sourcePage": 160
+      },
+      {
+        "jurisdiction": "Squamish",
+        "office": "Councillor",
+        "candidate": "Ian Brown",
+        "affiliation": "",
+        "financialAgent": "Ian Brown",
+        "sourcePage": 161
+      },
+      {
+        "jurisdiction": "Telkwa",
+        "office": "Mayor",
+        "candidate": "Derek Meerdink",
+        "affiliation": "",
+        "financialAgent": "Derek Meerdink",
+        "sourcePage": 173
+      },
+      {
+        "jurisdiction": "Ucluelet",
+        "office": "Councillor",
+        "candidate": "Alishia Fox",
+        "affiliation": "",
+        "financialAgent": "Alishia Fox",
+        "sourcePage": 177
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "John Jones",
+        "affiliation": "",
+        "financialAgent": "John Jones",
+        "sourcePage": 179
+      },
+      {
+        "jurisdiction": "West Vancouver",
+        "office": "Councillor",
+        "candidate": "Peter Lambur",
+        "affiliation": "",
+        "financialAgent": "Peter Lambur",
+        "sourcePage": 193
+      },
+      {
+        "jurisdiction": "White Rock",
+        "office": "Councillor",
+        "candidate": "Bill Lawrence",
+        "affiliation": "",
+        "financialAgent": "Bill Lawrence",
+        "sourcePage": 196
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Abbotsford",
+        "office": "Councillor",
+        "candidate": "Matthew Cavacece",
+        "affiliation": "",
+        "financialAgent": "Matthew Cavacece",
+        "sourcePage": 1
+      },
+      {
+        "jurisdiction": "Burnaby",
+        "office": "Councillor",
+        "candidate": "Martin Kendall",
+        "affiliation": "Burnaby Green Party",
+        "financialAgent": "Carrie McLaren",
+        "sourcePage": 12
+      },
+      {
+        "jurisdiction": "Comox Valley Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Amber Champ",
+        "affiliation": "",
+        "financialAgent": "Amber Champ",
+        "sourcePage": 32
+      },
+      {
+        "jurisdiction": "Prince George School District",
+        "office": "Board of Education Trustee",
+        "candidate": "David Szucsko",
+        "affiliation": "",
+        "financialAgent": "David Szucsko",
+        "sourcePage": 133
+      },
+      {
+        "jurisdiction": "Prince George School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Rob Thompson",
+        "affiliation": "",
+        "financialAgent": "Rob Thompson",
+        "sourcePage": 133
+      },
+      {
+        "jurisdiction": "Thompson-Nicola Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Lee Morris",
+        "affiliation": "",
+        "financialAgent": "Lee Morris",
+        "sourcePage": 172
+      },
+      {
+        "jurisdiction": "Warfield",
+        "office": "Councillor",
+        "candidate": "Mandi Lunan",
+        "affiliation": "",
+        "financialAgent": "Mandi Lunan",
+        "sourcePage": 189
+      }
+    ],
+    "statusChanges": [
+      {
+        "jurisdiction": "Central Okanagan School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jennifer Miles",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Comox Valley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Janice Caton",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Comox Valley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Nat Raedwulf Pogue",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Conseil Scolaire Francophone School District",
+        "office": "Regional Trustee",
+        "candidate": "Abdelhadi Tahir",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Courtenay",
+        "office": "Councillor",
+        "candidate": "Will Cole-Hamilton",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": [
+      {
+        "jurisdiction": "Abbotsford",
+        "office": "Councillor",
+        "candidate": "Shirley Wilson",
+        "changes": {
+          "financialAgent": {
+            "from": "John Panktratz",
+            "to": "John Pankratz"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Langley, Township of",
+        "office": "Councillor",
+        "candidate": "Lauren Chalus",
+        "changes": {
+          "affiliation": {
+            "from": "",
+            "to": "Langley Strong"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "observedAtUtc": "2026-09-24T18:26:08Z",
+    "reconstructed": true,
+    "sourceDate": null,
+    "sourceSha256Prefix": "cd4ce29f29a23352",
+    "previousCandidateCount": 3538,
+    "candidateCount": 3539,
+    "netCandidateDelta": 1,
+    "added": [
+      {
+        "jurisdiction": "Abbotsford",
+        "office": "Councillor",
+        "candidate": "Matthew Cavacece",
+        "affiliation": "",
+        "financialAgent": "Matthew Cavacece",
+        "sourcePage": 1
+      },
+      {
+        "jurisdiction": "Comox",
+        "office": "Councillor",
+        "candidate": "Ruby Sidhu",
+        "affiliation": "",
+        "financialAgent": "Ruby Sidhu",
+        "sourcePage": 33
+      },
+      {
+        "jurisdiction": "Grand Forks",
+        "office": "Councillor",
+        "candidate": "Justin (JD) Dinsdale",
+        "affiliation": "",
+        "financialAgent": "Justin (JD) Dinsdale",
+        "sourcePage": 57
+      },
+      {
+        "jurisdiction": "Okanagan Falls, District of",
+        "office": "Councillor",
+        "candidate": "Heather Jackson",
+        "affiliation": "",
+        "financialAgent": "Heather Jackson",
+        "sourcePage": 114
+      },
+      {
+        "jurisdiction": "Okanagan Falls, District of",
+        "office": "Councillor",
+        "candidate": "Cheryl Snyder",
+        "affiliation": "",
+        "financialAgent": "Tammy Fitzgerald",
+        "sourcePage": 114
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Parris J. Williams",
+        "affiliation": "",
+        "financialAgent": "Parris J. Williams",
+        "sourcePage": 180
+      },
+      {
+        "jurisdiction": "Warfield",
+        "office": "Councillor",
+        "candidate": "Mandi Lunan (Withdrawn)",
+        "affiliation": "",
+        "financialAgent": "Mandi Lunan",
+        "sourcePage": 191
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Comox",
+        "office": "Councillor",
+        "candidate": "ruby Sidhu",
+        "affiliation": "",
+        "financialAgent": "ruby Sidhu",
+        "sourcePage": 33
+      },
+      {
+        "jurisdiction": "Cowichan Valley Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Ian Morrison",
+        "affiliation": "",
+        "financialAgent": "Brenda Morrison",
+        "sourcePage": 39
+      },
+      {
+        "jurisdiction": "Grand Forks",
+        "office": "Councillor",
+        "candidate": "JD",
+        "affiliation": "",
+        "financialAgent": "JD",
+        "sourcePage": 57
+      },
+      {
+        "jurisdiction": "Peace River North School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Ida Campbell",
+        "affiliation": "",
+        "financialAgent": "Ida Campbell",
+        "sourcePage": 120
+      },
+      {
+        "jurisdiction": "Salmo",
+        "office": "Councillor",
+        "candidate": "James Gonella",
+        "affiliation": "",
+        "financialAgent": "James Gonella",
+        "sourcePage": 151
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Williams Parris J.",
+        "affiliation": "",
+        "financialAgent": "Williams Parris J.",
+        "sourcePage": 180
+      }
+    ],
+    "statusChanges": [
+      {
+        "jurisdiction": "Alberni-Clayoquot Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Angus Barter",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Pacific Rim School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Derek Dovale",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Port Clements",
+        "office": "Councillor",
+        "candidate": "Leidys Barrios Barona",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": [
+      {
+        "jurisdiction": "Powell River",
+        "office": "Councillor",
+        "candidate": "Roger Whittaker",
+        "changes": {
+          "financialAgent": {
+            "from": "Jena Lohrback",
+            "to": "Jena Lohrbach"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "observedAtUtc": "2026-09-25T18:37:16Z",
+    "reconstructed": true,
+    "sourceDate": "2026-09-25",
+    "sourceSha256Prefix": "49e6d2bf16725779",
+    "previousCandidateCount": 3539,
+    "candidateCount": 3543,
+    "netCandidateDelta": 4,
+    "added": [
+      {
+        "jurisdiction": "Cowichan Valley Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Ian Morrison",
+        "affiliation": "",
+        "financialAgent": "Brenda Morrison",
+        "sourcePage": 39
+      },
+      {
+        "jurisdiction": "Nelson",
+        "office": "Councillor",
+        "candidate": "Keith Page",
+        "affiliation": "",
+        "financialAgent": "Bede Blomme",
+        "sourcePage": 103
+      },
+      {
+        "jurisdiction": "Peace River North School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Ida Campbell",
+        "affiliation": "",
+        "financialAgent": "Ida Campbell",
+        "sourcePage": 120
+      },
+      {
+        "jurisdiction": "Salmon Arm",
+        "office": "Councillor",
+        "candidate": "David Gonella",
+        "affiliation": "",
+        "financialAgent": "David Gonella",
+        "sourcePage": 152
+      }
+    ],
+    "removed": [],
+    "statusChanges": [
+      {
+        "jurisdiction": "Anmore",
+        "office": "Councillor",
+        "candidate": "Peter Ludeman",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Anmore",
+        "office": "Mayor",
+        "candidate": "John McEwen",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Campbell River",
+        "office": "Councillor",
+        "candidate": "Dale Hunt",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Esquimalt",
+        "office": "Mayor",
+        "candidate": "Dan Bruyere",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Summerland",
+        "office": "Mayor",
+        "candidate": "Mark Labossiere",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Taylor",
+        "office": "Councillor",
+        "candidate": "Joel L'Heureux",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": [
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Ibrahima Cisse",
+        "changes": {
+          "affiliation": {
+            "from": "Bright Future Vancouver (BFV)",
+            "to": "Bright Future Vancouver"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Mohadeseh Gharib Arasi",
+        "changes": {
+          "affiliation": {
+            "from": "Bright Future Vancouver (BFV)",
+            "to": "Bright Future Vancouver"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Judith Kasiama",
+        "changes": {
+          "affiliation": {
+            "from": "Bright Future Vancouver (BFV)",
+            "to": "Bright Future Vancouver"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Bilal Khan",
+        "changes": {
+          "affiliation": {
+            "from": "Bright Future Vancouver (BFV)",
+            "to": "Bright Future Vancouver"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Andy Lin",
+        "changes": {
+          "affiliation": {
+            "from": "Bright Future Vancouver (BFV)",
+            "to": "Bright Future Vancouver"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Yadwinder Mangat",
+        "changes": {
+          "affiliation": {
+            "from": "Bright Future Vancouver (BFV)",
+            "to": "Bright Future Vancouver"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Mayor",
+        "candidate": "Muhammad Ahmad",
+        "changes": {
+          "affiliation": {
+            "from": "Bright Future Vancouver (BFV)",
+            "to": "Bright Future Vancouver"
+          }
+        }
+      }
+    ]
+  }
+]
