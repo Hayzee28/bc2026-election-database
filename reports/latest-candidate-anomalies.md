@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 6 observed/reconstructed source revisions. Times are UTC.
+Generated from 7 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -13,6 +13,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-09-24T18:26:08Z (reconstructed) | 3539 | 251 | 7 | 6 | 3 | 1 | cd4ce29f29a23352 |
 | 2026-09-25T18:37:16Z (reconstructed) | 3543 | 251 | 4 | 0 | 6 | 7 | 49e6d2bf16725779 |
 | 2026-09-26T17:31:34Z | 3546 | 251 | 3 | 0 | 1 | 1 | 68679713846ef560e073ead4922a2a116c60a49c0036286775b06c642765fd08 |
+| 2026-09-28T15:28:17Z | 3547 | 251 | 1 | 0 | 0 | 0 | 890cd00218f2a0be61b99274243803d3d0bad0232b94d01cfec6bc74e84ac6d5 |
 
 ## Candidate observations
 
@@ -715,6 +716,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Oak Bay | 1 | 1 | 1 |
 | Port Alberni | 1 | 1 | 1 |
 | Port Clements | 1 | 1 | 1 |
+| Port Coquitlam | 1 | 1 | 1 |
 | Port Moody | 1 | 1 | 1 |
 | Powell River | 1 | 1 | 1 |
 | Qualicum School District | 1 | 1 | 1 |

@@ -2373,13 +2373,15 @@
       "2026-09-24T06": 63,
       "2026-09-24T18": 17,
       "2026-09-25T18": 17,
-      "2026-09-26T17": 5
+      "2026-09-26T17": 5,
+      "2026-09-28T15": 1
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
       "2026-09-24": 80,
       "2026-09-25": 17,
-      "2026-09-26": 5
+      "2026-09-26": 5,
+      "2026-09-28": 1
     },
     "revisions": [
       {
@@ -2513,6 +2515,15 @@
           "Kootenay Lake School District",
           "Maple Ridge-Pitt Meadows School District",
           "Stikine School District"
+        ]
+      },
+      {
+        "atUtc": "2026-09-28T15:28:17Z",
+        "sourceHash": "890cd00218f2a0be61b99274243803d3d0bad0232b94d01cfec6bc74e84ac6d5",
+        "candidateChanges": 1,
+        "jurisdictionsAffected": 1,
+        "jurisdictions": [
+          "Port Coquitlam"
         ]
       }
     ],
