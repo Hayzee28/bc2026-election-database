@@ -42,6 +42,9 @@ jobs:
       - name: Run investigation tests
         run: python -m unittest discover -s tests -q
 
+      - name: Capture the current candidate history
+        run: cp candidate-change-history.json "${RUNNER_TEMP}/candidate-history-before.json"
+
       - name: Fetch, parse, and validate Elections BC register
         run: python scripts/update_candidates.py
 
@@ -53,7 +56,16 @@ jobs:
           python scripts/investigate_candidates.py
           python scripts/validate_investigation.py
 
+      - name: Prepare an actionable candidate event
+        id: candidate_event
+        run: |
+          python scripts/build_candidate_event.py \
+            --previous "${RUNNER_TEMP}/candidate-history-before.json" \
+            --current candidate-change-history.json \
+            --github-output "${GITHUB_OUTPUT}"
+
       - name: Publish only real data or source changes
+        id: publish
         shell: bash
         run: |
           git add data.json bc-2026-candidates.csv candidate-change-history.json candidate-source-state.json \
@@ -61,9 +73,21 @@ jobs:
             candidate-anomalies.json candidate-anomaly-report.json reports/latest-candidate-anomalies.md
           if git diff --cached --quiet; then
             echo "No candidate/source change. Nothing to commit."
+            echo "pushed=false" >> "${GITHUB_OUTPUT}"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Update Elections BC candidate data and source analysis"
           git push
+          echo "pushed=true" >> "${GITHUB_OUTPUT}"
+
+      - name: Dispatch only actionable candidate changes
+        if: steps.publish.outputs.pushed == 'true' && steps.candidate_event.outputs.dispatch == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT_PAYLOAD: ${{ steps.candidate_event.outputs.payload }}
+        run: |
+          jq -n --argjson payload "${EVENT_PAYLOAD}" \
+            '{event_type:"candidate_attention_needed",client_payload:$payload}' |
+            gh api --method POST "repos/${GITHUB_REPOSITORY}/dispatches" --input -

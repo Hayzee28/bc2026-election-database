@@ -1,0 +1,34 @@
+name: Candidate attention to Notion
+
+on:
+  repository_dispatch:
+    types: [candidate_attention_needed]
+
+permissions:
+  contents: read
+
+jobs:
+  notion:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: notion-candidate-review
+      cancel-in-progress: false
+    steps:
+      - name: Check out router script
+        uses: actions/checkout@v4
+
+      - name: Create or refresh the rolling Notion task
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATA_SOURCE_ID: 6ac57315-f858-4b8c-9906-81c3a3daaa30
+          OBSERVED_AT: ${{ github.event.client_payload.observedAt }}
+          ADDED_COUNT: ${{ github.event.client_payload.addedCount }}
+          REMOVED_COUNT: ${{ github.event.client_payload.removedCount }}
+          STATUS_CHANGE_COUNT: ${{ github.event.client_payload.statusChangeCount }}
+        run: |
+          node scripts/upsert-notion-task.mjs \
+            --title "Candidate changes need review" \
+            --area "Candidates" \
+            --source "Candidate Database automation" \
+            --link "https://bc2026-election-database.hayzee28.workers.dev/changelog.html" \
+            --notes "Candidate changes flagged at ${OBSERVED_AT}: ${ADDED_COUNT} added, ${REMOVED_COUNT} removed, ${STATUS_CHANGE_COUNT} status changes. Review the live change log."

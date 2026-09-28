@@ -110,3 +110,19 @@ Identity uses jurisdiction, office, and candidate name without the `(Withdrawn)`
 Edit `config/local-sources.json` with the exact Elections BC jurisdiction name, a verified official `https` URL, `officialHosts`, and `type` (`HTML` or `PDF`). HTML sources require an explicit CSS `selector` or `sections` whose `heading` precedes a candidate table with names in its first column. PDF sources require a reviewed `linePattern` regex with a named `(?P<name>...)` capture. Set `minimumNames` to stop silently accepting a broken page. `officialWebsite` optionally provides same-host discovery suggestions for review; it never auto-enrolls a URL. Municipality, regional district and school district lists all use the same configuration format. Avoid mixing a municipal list with school-trustee rows under one jurisdiction: configure each source/section for its own Elections BC jurisdiction.
 
 No financial-agent service addresses are stored in any generated file. The public site (`index.html`, `app.js`, `styles.css`) and its existing `data.json`/CSV schema are unchanged. Parsing failures fail the hourly workflow before a commit; the public branch keeps the last known-good files. Individual local-source errors do not block other local checks.
+
+## Campaign command integration
+
+The hourly updater now emits a privacy-safe `candidate_attention_needed`
+`repository_dispatch` only when a validated revision contains added candidates,
+removed candidates, or status changes. Field-only/source-only changes do not create
+campaign work.
+
+A separate GitHub Action creates or refreshes one rolling Notion task named
+**Candidate changes need review**, linked to the live change log. The event carries
+only timestamps, counts, event type, and a safe URL—never candidate names or other
+record details.
+
+To enable the Notion job, add `NOTION_TOKEN` as a GitHub Actions secret and share
+the existing **OneBC Campaign Command Board** with that Notion integration.
+
