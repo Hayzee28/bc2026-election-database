@@ -1165,6 +1165,35 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-09-29T15:52:05Z",
+      "revision": 7,
+      "candidateId": "nanaimo ladysmith school district|board of education trustee|jordana kirkman",
+      "candidate": "Jordana Kirkman (Withdrawn)",
+      "jurisdiction": "Nanaimo Ladysmith School District",
+      "office": "Board of Education Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [],
+      "facts": [
+        "Elections BC revision at 2026-09-29T15:52:05Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -2374,14 +2403,16 @@
       "2026-09-24T18": 17,
       "2026-09-25T18": 17,
       "2026-09-26T17": 5,
-      "2026-09-28T15": 1
+      "2026-09-28T15": 1,
+      "2026-09-29T15": 1
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
       "2026-09-24": 80,
       "2026-09-25": 17,
       "2026-09-26": 5,
-      "2026-09-28": 1
+      "2026-09-28": 1,
+      "2026-09-29": 1
     },
     "revisions": [
       {
@@ -2524,6 +2555,15 @@
         "jurisdictionsAffected": 1,
         "jurisdictions": [
           "Port Coquitlam"
+        ]
+      },
+      {
+        "atUtc": "2026-09-29T15:52:05Z",
+        "sourceHash": "c39c84fcf3a6c6f791ffdbff830e7c38c17fa07a925937296939bb6383e41437",
+        "candidateChanges": 1,
+        "jurisdictionsAffected": 1,
+        "jurisdictions": [
+          "Nanaimo Ladysmith School District"
         ]
       }
     ],

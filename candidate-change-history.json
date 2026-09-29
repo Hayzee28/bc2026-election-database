@@ -1133,5 +1133,29 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-09-29T15:52:05Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "c39c84fcf3a6c6f791ffdbff830e7c38c17fa07a925937296939bb6383e41437",
+    "previousSourceSha256": "890cd00218f2a0be61b99274243803d3d0bad0232b94d01cfec6bc74e84ac6d5",
+    "pageCount": 199,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3547,
+    "candidateCount": 3547,
+    "netCandidateDelta": 0,
+    "added": [],
+    "removed": [],
+    "statusChanges": [
+      {
+        "jurisdiction": "Nanaimo Ladysmith School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jordana Kirkman",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": []
   }
 ]

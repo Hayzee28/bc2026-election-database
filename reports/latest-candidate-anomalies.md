@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 7 observed/reconstructed source revisions. Times are UTC.
+Generated from 8 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -14,6 +14,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-09-25T18:37:16Z (reconstructed) | 3543 | 251 | 4 | 0 | 6 | 7 | 49e6d2bf16725779 |
 | 2026-09-26T17:31:34Z | 3546 | 251 | 3 | 0 | 1 | 1 | 68679713846ef560e073ead4922a2a116c60a49c0036286775b06c642765fd08 |
 | 2026-09-28T15:28:17Z | 3547 | 251 | 1 | 0 | 0 | 0 | 890cd00218f2a0be61b99274243803d3d0bad0232b94d01cfec6bc74e84ac6d5 |
+| 2026-09-29T15:52:05Z | 3547 | 251 | 0 | 0 | 1 | 0 | c39c84fcf3a6c6f791ffdbff830e7c38c17fa07a925937296939bb6383e41437 |
 
 ## Candidate observations
 
@@ -658,6 +659,24 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Jordana Kirkman (Withdrawn) — Nanaimo Ladysmith School District (Board of Education Trustee)
+
+Pattern: WITHDRAWN; observed 2026-09-29T15:52:05Z
+
+**FACTS**
+
+- Elections BC revision at 2026-09-29T15:52:05Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -710,6 +729,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Maple Ridge-Pitt Meadows School District | 1 | 1 | 1 |
 | Metchosin | 1 | 1 | 1 |
 | Mount Waddington Regional District | 1 | 1 | 1 |
+| Nanaimo Ladysmith School District | 1 | 1 | 1 |
 | Nelson | 1 | 1 | 1 |
 | New Denver | 1 | 1 | 1 |
 | Northern Rockies | 1 | 1 | 1 |
