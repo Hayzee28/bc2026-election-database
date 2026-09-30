@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 8 observed/reconstructed source revisions. Times are UTC.
+Generated from 9 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -15,6 +15,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-09-26T17:31:34Z | 3546 | 251 | 3 | 0 | 1 | 1 | 68679713846ef560e073ead4922a2a116c60a49c0036286775b06c642765fd08 |
 | 2026-09-28T15:28:17Z | 3547 | 251 | 1 | 0 | 0 | 0 | 890cd00218f2a0be61b99274243803d3d0bad0232b94d01cfec6bc74e84ac6d5 |
 | 2026-09-29T15:52:05Z | 3547 | 251 | 0 | 0 | 1 | 0 | c39c84fcf3a6c6f791ffdbff830e7c38c17fa07a925937296939bb6383e41437 |
+| 2026-09-30T19:20:12Z | 3548 | 251 | 1 | 0 | 3 | 0 | 7d932067df4b1d2bf233210795788182de769bc854a4705a83a5ee4147affd4d |
 
 ## Candidate observations
 
@@ -677,6 +678,44 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Sean Smyth (Withdrawn) — Campbell River (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-09-30T19:20:12Z
+
+**FACTS**
+
+- Elections BC revision at 2026-09-30T19:20:12Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Everest MacDonald (Withdrawn) — Capital Regional District (Local Community Commissioner)
+
+Pattern: WITHDRAWN; observed 2026-09-30T19:20:12Z
+
+**FACTS**
+
+- Elections BC revision at 2026-09-30T19:20:12Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -686,8 +725,10 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Cranbrook | 6 | 2 | 6 |
 | Central Kootenay Regional District | 5 | 1 | 5 |
 | Abbotsford School District | 3 | 1 | 3 |
+| Campbell River | 3 | 2 | 2 |
 | Campbell River School District | 3 | 1 | 3 |
 | Comox Valley School District | 3 | 2 | 3 |
+| Cowichan Valley Regional District | 3 | 3 | 2 |
 | Grand Forks | 3 | 2 | 3 |
 | Prince George School District | 3 | 1 | 3 |
 | Stikine School District | 3 | 2 | 3 |
@@ -695,7 +736,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Bulkley Valley School District | 2 | 1 | 2 |
 | Central Okanagan School District | 2 | 2 | 2 |
 | Comox | 2 | 1 | 1 |
-| Cowichan Valley Regional District | 2 | 2 | 1 |
 | Lillooet | 2 | 1 | 2 |
 | Okanagan Falls, District of | 2 | 1 | 2 |
 | Pacific Rim School District | 2 | 2 | 2 |
@@ -705,7 +745,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Warfield | 2 | 2 | 1 |
 | Alberni-Clayoquot Regional District | 1 | 1 | 1 |
 | Burnaby | 1 | 1 | 1 |
-| Campbell River | 1 | 1 | 1 |
+| Capital Regional District | 1 | 1 | 1 |
 | Central Saanich | 1 | 1 | 1 |
 | Chilliwack | 1 | 1 | 1 |
 | Coldstream | 1 | 1 | 1 |

@@ -1194,6 +1194,79 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-09-30T19:20:12Z",
+      "revision": 8,
+      "candidateId": "campbell river|councillor|sean smyth",
+      "candidate": "Sean Smyth (Withdrawn)",
+      "jurisdiction": "Campbell River",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-30T19:20:12Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-09-30T19:20:12Z",
+      "revision": 8,
+      "candidateId": "capital regional district|local community commissioner|everest macdonald",
+      "candidate": "Everest MacDonald (Withdrawn)",
+      "jurisdiction": "Capital Regional District",
+      "office": "Local Community Commissioner",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-09-30T19:20:12Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -2394,6 +2467,60 @@
           "type": "FINANCIAL_AGENT_CHANGE"
         }
       ]
+    },
+    {
+      "atUtc": "2026-09-30T19:20:12Z",
+      "revision": 8,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 4,
+      "jurisdictions": [
+        "Campbell River",
+        "Capital Regional District",
+        "Cowichan Valley Regional District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Amber Champ",
+          "jurisdiction": "Cowichan Valley Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Dale Hunt",
+          "jurisdiction": "Campbell River",
+          "type": "STATUS_CHANGE"
+        },
+        {
+          "candidate": "Sean Smyth (Withdrawn)",
+          "jurisdiction": "Campbell River",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Everest MacDonald (Withdrawn)",
+          "jurisdiction": "Capital Regional District",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-09-30T19:20:12Z",
+      "revision": 8,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Campbell River"
+      ],
+      "candidates": [
+        {
+          "candidate": "Dale Hunt",
+          "jurisdiction": "Campbell River",
+          "type": "STATUS_CHANGE"
+        },
+        {
+          "candidate": "Sean Smyth (Withdrawn)",
+          "jurisdiction": "Campbell River",
+          "type": "WITHDRAWN"
+        }
+      ]
     }
   ],
   "timing": {
@@ -2404,7 +2531,8 @@
       "2026-09-25T18": 17,
       "2026-09-26T17": 5,
       "2026-09-28T15": 1,
-      "2026-09-29T15": 1
+      "2026-09-29T15": 1,
+      "2026-09-30T19": 4
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -2412,7 +2540,8 @@
       "2026-09-25": 17,
       "2026-09-26": 5,
       "2026-09-28": 1,
-      "2026-09-29": 1
+      "2026-09-29": 1,
+      "2026-09-30": 4
     },
     "revisions": [
       {
@@ -2564,6 +2693,17 @@
         "jurisdictionsAffected": 1,
         "jurisdictions": [
           "Nanaimo Ladysmith School District"
+        ]
+      },
+      {
+        "atUtc": "2026-09-30T19:20:12Z",
+        "sourceHash": "7d932067df4b1d2bf233210795788182de769bc854a4705a83a5ee4147affd4d",
+        "candidateChanges": 4,
+        "jurisdictionsAffected": 3,
+        "jurisdictions": [
+          "Campbell River",
+          "Capital Regional District",
+          "Cowichan Valley Regional District"
         ]
       }
     ],

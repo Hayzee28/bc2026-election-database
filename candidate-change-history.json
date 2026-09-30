@@ -1157,5 +1157,52 @@
       }
     ],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-09-30T19:20:12Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "7d932067df4b1d2bf233210795788182de769bc854a4705a83a5ee4147affd4d",
+    "previousSourceSha256": "c39c84fcf3a6c6f791ffdbff830e7c38c17fa07a925937296939bb6383e41437",
+    "pageCount": 199,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3547,
+    "candidateCount": 3548,
+    "netCandidateDelta": 1,
+    "added": [
+      {
+        "jurisdiction": "Cowichan Valley Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Amber Champ",
+        "affiliation": "",
+        "financialAgent": "Amber Champ",
+        "sourcePage": 38
+      }
+    ],
+    "removed": [],
+    "statusChanges": [
+      {
+        "jurisdiction": "Campbell River",
+        "office": "Councillor",
+        "candidate": "Dale Hunt",
+        "from": "Withdrawn",
+        "to": "Active"
+      },
+      {
+        "jurisdiction": "Campbell River",
+        "office": "Councillor",
+        "candidate": "Sean Smyth",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Capital Regional District",
+        "office": "Local Community Commissioner",
+        "candidate": "Everest MacDonald",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": []
   }
 ]
