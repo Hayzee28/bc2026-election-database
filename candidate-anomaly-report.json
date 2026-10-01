@@ -1267,6 +1267,346 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "candidateId": "arrow lakes school district|board of education trustee|danyea simon",
+      "candidate": "Danyea Simon",
+      "jurisdiction": "Arrow Lakes School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-01T18:55:09Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "candidateId": "port edward|councillor|james brown",
+      "candidate": "James Brown",
+      "jurisdiction": "Port Edward",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-01T18:55:09Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "candidateId": "williams lake|councillor|kayla zaryk",
+      "candidate": "Kayla Zaryk",
+      "jurisdiction": "Williams Lake",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-01T18:55:09Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "candidateId": "lillooet|councillor|camille mactavish",
+      "candidate": "Camille Mactavish",
+      "jurisdiction": "Lillooet",
+      "office": "Councillor",
+      "type": "NAME_CORRECTION",
+      "from": "Camille MacTavish",
+      "to": "Camille Mactavish",
+      "category": "FIELD_CORRECTION",
+      "identityLinkInferred": false,
+      "pattern": "NAME_CORRECTION",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-01T18:55:09Z: NAME_CORRECTION."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "candidateId": "north saanich|councillor|celia stock",
+      "candidate": "Celia Stock (Withdrawn)",
+      "jurisdiction": "North Saanich",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "candidateId": "north saanich|councillor|dawn gould",
+      "candidate": "Dawn Gould (Withdrawn)",
+      "jurisdiction": "North Saanich",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "candidateId": "north vancouver school district|board of education trustee|barry forward",
+      "candidate": "Barry Forward (Withdrawn)",
+      "jurisdiction": "North Vancouver School District",
+      "office": "Board of Education Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "candidateId": "north vancouver school district|board of education trustee|emma juniper",
+      "candidate": "Emma Juniper (Withdrawn)",
+      "jurisdiction": "North Vancouver School District",
+      "office": "Board of Education Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "candidateId": "squamish-lillooet regional district|electoral area director|russell mack",
+      "candidate": "Russell Mack (Withdrawn)",
+      "jurisdiction": "Squamish-Lillooet Regional District",
+      "office": "Electoral Area Director",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "candidateId": "williams lake|councillor|jared gimbel",
+      "candidate": "Jared Gimbel (Withdrawn)",
+      "jurisdiction": "Williams Lake",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -2521,6 +2861,210 @@
           "type": "WITHDRAWN"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "type": "CENTRAL_WIDE_UPDATE",
+      "candidateChanges": 15,
+      "jurisdictions": [
+        "Arrow Lakes School District",
+        "Delta",
+        "Lillooet",
+        "North Saanich",
+        "North Vancouver School District",
+        "Port Edward",
+        "Squamish-Lillooet Regional District",
+        "Surrey",
+        "Williams Lake"
+      ],
+      "candidates": [
+        {
+          "candidate": "Danyea Simon",
+          "jurisdiction": "Arrow Lakes School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "James Brown",
+          "jurisdiction": "Port Edward",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Kayla Zaryk",
+          "jurisdiction": "Williams Lake",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "James W Brown",
+          "jurisdiction": "Port Edward",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Kayla Zaruk",
+          "jurisdiction": "Williams Lake",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Nick Kanakos",
+          "jurisdiction": "Delta",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Camille Mactavish",
+          "jurisdiction": "Lillooet",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Camille Mactavish",
+          "jurisdiction": "Lillooet",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Celia Stock (Withdrawn)",
+          "jurisdiction": "North Saanich",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Dawn Gould (Withdrawn)",
+          "jurisdiction": "North Saanich",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Barry Forward (Withdrawn)",
+          "jurisdiction": "North Vancouver School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Emma Juniper (Withdrawn)",
+          "jurisdiction": "North Vancouver School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Russell Mack (Withdrawn)",
+          "jurisdiction": "Squamish-Lillooet Regional District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "James Yu",
+          "jurisdiction": "Surrey",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Jared Gimbel (Withdrawn)",
+          "jurisdiction": "Williams Lake",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Lillooet"
+      ],
+      "candidates": [
+        {
+          "candidate": "Camille Mactavish",
+          "jurisdiction": "Lillooet",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Camille Mactavish",
+          "jurisdiction": "Lillooet",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "North Saanich"
+      ],
+      "candidates": [
+        {
+          "candidate": "Celia Stock (Withdrawn)",
+          "jurisdiction": "North Saanich",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Dawn Gould (Withdrawn)",
+          "jurisdiction": "North Saanich",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "North Vancouver School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Barry Forward (Withdrawn)",
+          "jurisdiction": "North Vancouver School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Emma Juniper (Withdrawn)",
+          "jurisdiction": "North Vancouver School District",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Port Edward"
+      ],
+      "candidates": [
+        {
+          "candidate": "James Brown",
+          "jurisdiction": "Port Edward",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "James W Brown",
+          "jurisdiction": "Port Edward",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-01T18:55:09Z",
+      "revision": 9,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 3,
+      "jurisdictions": [
+        "Williams Lake"
+      ],
+      "candidates": [
+        {
+          "candidate": "Kayla Zaryk",
+          "jurisdiction": "Williams Lake",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Kayla Zaruk",
+          "jurisdiction": "Williams Lake",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Jared Gimbel (Withdrawn)",
+          "jurisdiction": "Williams Lake",
+          "type": "WITHDRAWN"
+        }
+      ]
     }
   ],
   "timing": {
@@ -2532,7 +3076,8 @@
       "2026-09-26T17": 5,
       "2026-09-28T15": 1,
       "2026-09-29T15": 1,
-      "2026-09-30T19": 4
+      "2026-09-30T19": 4,
+      "2026-10-01T18": 15
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -2541,7 +3086,8 @@
       "2026-09-26": 5,
       "2026-09-28": 1,
       "2026-09-29": 1,
-      "2026-09-30": 4
+      "2026-09-30": 4,
+      "2026-10-01": 15
     },
     "revisions": [
       {
@@ -2704,6 +3250,23 @@
           "Campbell River",
           "Capital Regional District",
           "Cowichan Valley Regional District"
+        ]
+      },
+      {
+        "atUtc": "2026-10-01T18:55:09Z",
+        "sourceHash": "e40414feea9256521698329d8cd756f70579dba7db5ec9aee2ac5ff1491b0433",
+        "candidateChanges": 15,
+        "jurisdictionsAffected": 9,
+        "jurisdictions": [
+          "Arrow Lakes School District",
+          "Delta",
+          "Lillooet",
+          "North Saanich",
+          "North Vancouver School District",
+          "Port Edward",
+          "Squamish-Lillooet Regional District",
+          "Surrey",
+          "Williams Lake"
         ]
       }
     ],

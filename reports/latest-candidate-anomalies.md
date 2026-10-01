@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 9 observed/reconstructed source revisions. Times are UTC.
+Generated from 10 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -16,6 +16,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-09-28T15:28:17Z | 3547 | 251 | 1 | 0 | 0 | 0 | 890cd00218f2a0be61b99274243803d3d0bad0232b94d01cfec6bc74e84ac6d5 |
 | 2026-09-29T15:52:05Z | 3547 | 251 | 0 | 0 | 1 | 0 | c39c84fcf3a6c6f791ffdbff830e7c38c17fa07a925937296939bb6383e41437 |
 | 2026-09-30T19:20:12Z | 3548 | 251 | 1 | 0 | 3 | 0 | 7d932067df4b1d2bf233210795788182de769bc854a4705a83a5ee4147affd4d |
+| 2026-10-01T18:55:09Z | 3547 | 251 | 3 | 4 | 6 | 2 | e40414feea9256521698329d8cd756f70579dba7db5ec9aee2ac5ff1491b0433 |
 
 ## Candidate observations
 
@@ -716,6 +717,192 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Danyea Simon — Arrow Lakes School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-01T18:55:09Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-01T18:55:09Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### James Brown — Port Edward (Councillor)
+
+Pattern: REMOVED; observed 2026-10-01T18:55:09Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-01T18:55:09Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kayla Zaryk — Williams Lake (Councillor)
+
+Pattern: REMOVED; observed 2026-10-01T18:55:09Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-01T18:55:09Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Camille Mactavish — Lillooet (Councillor)
+
+Pattern: NAME_CORRECTION; observed 2026-10-01T18:55:09Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-01T18:55:09Z: NAME_CORRECTION.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Celia Stock (Withdrawn) — North Saanich (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-01T18:55:09Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Dawn Gould (Withdrawn) — North Saanich (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-01T18:55:09Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Barry Forward (Withdrawn) — North Vancouver School District (Board of Education Trustee)
+
+Pattern: WITHDRAWN; observed 2026-10-01T18:55:09Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Emma Juniper (Withdrawn) — North Vancouver School District (Board of Education Trustee)
+
+Pattern: WITHDRAWN; observed 2026-10-01T18:55:09Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Russell Mack (Withdrawn) — Squamish-Lillooet Regional District (Electoral Area Director)
+
+Pattern: WITHDRAWN; observed 2026-10-01T18:55:09Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jared Gimbel (Withdrawn) — Williams Lake (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-01T18:55:09Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-01T18:55:09Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -724,6 +911,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Abbotsford | 8 | 2 | 7 |
 | Cranbrook | 6 | 2 | 6 |
 | Central Kootenay Regional District | 5 | 1 | 5 |
+| Lillooet | 4 | 2 | 3 |
 | Abbotsford School District | 3 | 1 | 3 |
 | Campbell River | 3 | 2 | 2 |
 | Campbell River School District | 3 | 1 | 3 |
@@ -732,18 +920,22 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Grand Forks | 3 | 2 | 3 |
 | Prince George School District | 3 | 1 | 3 |
 | Stikine School District | 3 | 2 | 3 |
+| Williams Lake | 3 | 1 | 3 |
 | Anmore | 2 | 1 | 2 |
 | Bulkley Valley School District | 2 | 1 | 2 |
 | Central Okanagan School District | 2 | 2 | 2 |
 | Comox | 2 | 1 | 1 |
-| Lillooet | 2 | 1 | 2 |
+| North Saanich | 2 | 1 | 2 |
+| North Vancouver School District | 2 | 1 | 2 |
 | Okanagan Falls, District of | 2 | 1 | 2 |
 | Pacific Rim School District | 2 | 2 | 2 |
 | Peace River North School District | 2 | 2 | 1 |
+| Port Edward | 2 | 1 | 2 |
 | Richmond School District | 2 | 1 | 2 |
 | Salmon Arm | 2 | 2 | 2 |
 | Warfield | 2 | 2 | 1 |
 | Alberni-Clayoquot Regional District | 1 | 1 | 1 |
+| Arrow Lakes School District | 1 | 1 | 1 |
 | Burnaby | 1 | 1 | 1 |
 | Capital Regional District | 1 | 1 | 1 |
 | Central Saanich | 1 | 1 | 1 |
@@ -754,6 +946,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Conseil Scolaire Francophone School District | 1 | 1 | 1 |
 | Courtenay | 1 | 1 | 1 |
 | Daajing Giids | 1 | 1 | 1 |
+| Delta | 1 | 1 | 1 |
 | Elkford | 1 | 1 | 1 |
 | Esquimalt | 1 | 1 | 1 |
 | Fort Nelson School District | 1 | 1 | 1 |
@@ -786,7 +979,9 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Salmo | 1 | 1 | 1 |
 | Southeast Kootenay School District | 1 | 1 | 1 |
 | Squamish | 1 | 1 | 1 |
+| Squamish-Lillooet Regional District | 1 | 1 | 1 |
 | Summerland | 1 | 1 | 1 |
+| Surrey | 1 | 1 | 1 |
 | Surrey School District | 1 | 1 | 1 |
 | Taylor | 1 | 1 | 1 |
 | Telkwa | 1 | 1 | 1 |
