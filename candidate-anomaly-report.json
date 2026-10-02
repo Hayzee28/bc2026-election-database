@@ -1607,6 +1607,490 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "cariboo chilcotin school district|board of education trustee|michael henshaw",
+      "candidate": "Michael Henshaw",
+      "jurisdiction": "Cariboo Chilcotin School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "fort st. john|councillor|steven labossiere",
+      "candidate": "Steven Labossiere",
+      "jurisdiction": "Fort St. John",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "gold river|councillor|michael mcgee",
+      "candidate": "Michael McGee",
+      "jurisdiction": "Gold River",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "grand forks|mayor|rod zielinski",
+      "candidate": "Rod Zielinski",
+      "jurisdiction": "Grand Forks",
+      "office": "Mayor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "nechako lakes school district|board of education trustee|kristopher shively",
+      "candidate": "Kristopher Shively",
+      "jurisdiction": "Nechako Lakes School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "pacific rim school district|board of education trustee|patricia clayton",
+      "candidate": "Patricia Clayton",
+      "jurisdiction": "Pacific Rim School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "sidney|councillor|stephen duck",
+      "candidate": "Stephen Duck",
+      "jurisdiction": "Sidney",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "terrace|councillor|miller restan perez",
+      "candidate": "Miller Restan Perez",
+      "jurisdiction": "Terrace",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "bulkley-nechako regional district|electoral area director|judy greenaway",
+      "candidate": "Judy Greenaway (Withdrawn)",
+      "jurisdiction": "Bulkley-Nechako Regional District",
+      "office": "Electoral Area Director",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "central kootenay regional district|electoral area director|bart agate",
+      "candidate": "Bart Agate (Withdrawn)",
+      "jurisdiction": "Central Kootenay Regional District",
+      "office": "Electoral Area Director",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "comox valley school district|board of education trustee|bruce curtis",
+      "candidate": "Bruce Curtis (Withdrawn)",
+      "jurisdiction": "Comox Valley School District",
+      "office": "Board of Education Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "grand forks|councillor|christopher stevenson",
+      "candidate": "Christopher Stevenson (Withdrawn)",
+      "jurisdiction": "Grand Forks",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "grand forks|councillor|crystal sullivan",
+      "candidate": "Crystal Sullivan (Withdrawn)",
+      "jurisdiction": "Grand Forks",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "mcbride|mayor|joe kolida",
+      "candidate": "Joe Kolida (Withdrawn)",
+      "jurisdiction": "McBride",
+      "office": "Mayor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "candidateId": "peachland|councillor|shayne theriault",
+      "candidate": "Shayne Theriault (Withdrawn)",
+      "jurisdiction": "Peachland",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -3065,6 +3549,448 @@
           "type": "WITHDRAWN"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "type": "CENTRAL_WIDE_UPDATE",
+      "candidateChanges": 38,
+      "jurisdictions": [
+        "Alberni-Clayoquot Regional District",
+        "Bulkley-Nechako Regional District",
+        "Cariboo Chilcotin School District",
+        "Central Kootenay Regional District",
+        "Comox Valley School District",
+        "Cultus Lake Park Board",
+        "Delta",
+        "Delta School District",
+        "Fort St. John",
+        "Gold River",
+        "Grand Forks",
+        "McBride",
+        "Nechako Lakes School District",
+        "Pacific Rim School District",
+        "Peachland",
+        "Sidney",
+        "Terrace",
+        "Vernon School District",
+        "West Vancouver"
+      ],
+      "candidates": [
+        {
+          "candidate": "Michael Henshaw",
+          "jurisdiction": "Cariboo Chilcotin School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Steven Labossiere",
+          "jurisdiction": "Fort St. John",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Michael McGee",
+          "jurisdiction": "Gold River",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Rod Zielinski",
+          "jurisdiction": "Grand Forks",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Kristopher Shively",
+          "jurisdiction": "Nechako Lakes School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Patricia Clayton",
+          "jurisdiction": "Pacific Rim School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Stephen Duck",
+          "jurisdiction": "Sidney",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Miller Restan Perez",
+          "jurisdiction": "Terrace",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Michael Henshall",
+          "jurisdiction": "Cariboo Chilcotin School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Steve Marks",
+          "jurisdiction": "Cultus Lake Park Board",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Kris Shively",
+          "jurisdiction": "Nechako Lakes School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Tricia Clayton",
+          "jurisdiction": "Pacific Rim School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Steve Duck",
+          "jurisdiction": "Sidney",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Miller Restan",
+          "jurisdiction": "Terrace",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Tahni Fortin",
+          "jurisdiction": "Vernon School District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "John O'Flynn",
+          "jurisdiction": "West Vancouver",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Michael Lesosky",
+          "jurisdiction": "Alberni-Clayoquot Regional District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Judy Greenaway (Withdrawn)",
+          "jurisdiction": "Bulkley-Nechako Regional District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Bart Agate (Withdrawn)",
+          "jurisdiction": "Central Kootenay Regional District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Bruce Curtis (Withdrawn)",
+          "jurisdiction": "Comox Valley School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Alicia Guichon",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Ikjot Sandhu-Sahota",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Jennyfer Cassar",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Jessie Dosanjh",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Nick Kanakos",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Sonya Sangster",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "George V. Harvie",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Erica Beard",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Joe Muego",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Nenah Sandy",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Nirmmi Daula",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Rick Ocean",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Sagar Sanghera",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Umendra Singh",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Christopher Stevenson (Withdrawn)",
+          "jurisdiction": "Grand Forks",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Crystal Sullivan (Withdrawn)",
+          "jurisdiction": "Grand Forks",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Joe Kolida (Withdrawn)",
+          "jurisdiction": "McBride",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Shayne Theriault (Withdrawn)",
+          "jurisdiction": "Peachland",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Cariboo Chilcotin School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Michael Henshaw",
+          "jurisdiction": "Cariboo Chilcotin School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Michael Henshall",
+          "jurisdiction": "Cariboo Chilcotin School District",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Delta"
+      ],
+      "candidates": [
+        {
+          "candidate": "Alicia Guichon",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Ikjot Sandhu-Sahota",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Jennyfer Cassar",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Jessie Dosanjh",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Nick Kanakos",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Sonya Sangster",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "George V. Harvie",
+          "jurisdiction": "Delta",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Delta School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Erica Beard",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Joe Muego",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Nenah Sandy",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Nirmmi Daula",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Rick Ocean",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Sagar Sanghera",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Umendra Singh",
+          "jurisdiction": "Delta School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 3,
+      "jurisdictions": [
+        "Grand Forks"
+      ],
+      "candidates": [
+        {
+          "candidate": "Rod Zielinski",
+          "jurisdiction": "Grand Forks",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Christopher Stevenson (Withdrawn)",
+          "jurisdiction": "Grand Forks",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Crystal Sullivan (Withdrawn)",
+          "jurisdiction": "Grand Forks",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Nechako Lakes School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Kristopher Shively",
+          "jurisdiction": "Nechako Lakes School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Kris Shively",
+          "jurisdiction": "Nechako Lakes School District",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Pacific Rim School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Patricia Clayton",
+          "jurisdiction": "Pacific Rim School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Tricia Clayton",
+          "jurisdiction": "Pacific Rim School District",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Sidney"
+      ],
+      "candidates": [
+        {
+          "candidate": "Stephen Duck",
+          "jurisdiction": "Sidney",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Steve Duck",
+          "jurisdiction": "Sidney",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-02T15:49:34Z",
+      "revision": 10,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Terrace"
+      ],
+      "candidates": [
+        {
+          "candidate": "Miller Restan Perez",
+          "jurisdiction": "Terrace",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Miller Restan",
+          "jurisdiction": "Terrace",
+          "type": "NEW"
+        }
+      ]
     }
   ],
   "timing": {
@@ -3077,7 +4003,8 @@
       "2026-09-28T15": 1,
       "2026-09-29T15": 1,
       "2026-09-30T19": 4,
-      "2026-10-01T18": 15
+      "2026-10-01T18": 15,
+      "2026-10-02T15": 38
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -3087,7 +4014,8 @@
       "2026-09-28": 1,
       "2026-09-29": 1,
       "2026-09-30": 4,
-      "2026-10-01": 15
+      "2026-10-01": 15,
+      "2026-10-02": 38
     },
     "revisions": [
       {
@@ -3267,6 +4195,33 @@
           "Squamish-Lillooet Regional District",
           "Surrey",
           "Williams Lake"
+        ]
+      },
+      {
+        "atUtc": "2026-10-02T15:49:34Z",
+        "sourceHash": "24e404a73905695abe4968f2834da39010fd2359b282121f379a1a249426106f",
+        "candidateChanges": 38,
+        "jurisdictionsAffected": 19,
+        "jurisdictions": [
+          "Alberni-Clayoquot Regional District",
+          "Bulkley-Nechako Regional District",
+          "Cariboo Chilcotin School District",
+          "Central Kootenay Regional District",
+          "Comox Valley School District",
+          "Cultus Lake Park Board",
+          "Delta",
+          "Delta School District",
+          "Fort St. John",
+          "Gold River",
+          "Grand Forks",
+          "McBride",
+          "Nechako Lakes School District",
+          "Pacific Rim School District",
+          "Peachland",
+          "Sidney",
+          "Terrace",
+          "Vernon School District",
+          "West Vancouver"
         ]
       }
     ],

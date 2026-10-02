@@ -1344,5 +1344,367 @@
         }
       }
     ]
+  },
+  {
+    "observedAtUtc": "2026-10-02T15:49:34Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "24e404a73905695abe4968f2834da39010fd2359b282121f379a1a249426106f",
+    "previousSourceSha256": "e40414feea9256521698329d8cd756f70579dba7db5ec9aee2ac5ff1491b0433",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3547,
+    "candidateCount": 3547,
+    "netCandidateDelta": 0,
+    "added": [
+      {
+        "jurisdiction": "Cariboo Chilcotin School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Michael Henshall",
+        "affiliation": "",
+        "financialAgent": "Michael Henshall",
+        "sourcePage": 19
+      },
+      {
+        "jurisdiction": "Cultus Lake Park Board",
+        "office": "Park Board Commissioner",
+        "candidate": "Steve Marks",
+        "affiliation": "",
+        "financialAgent": "Steve Marks",
+        "sourcePage": 42
+      },
+      {
+        "jurisdiction": "Nechako Lakes School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kris Shively",
+        "affiliation": "",
+        "financialAgent": "Kris Shively",
+        "sourcePage": 102
+      },
+      {
+        "jurisdiction": "Pacific Rim School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Tricia Clayton",
+        "affiliation": "",
+        "financialAgent": "Tricia Clayton",
+        "sourcePage": 119
+      },
+      {
+        "jurisdiction": "Sidney",
+        "office": "Councillor",
+        "candidate": "Steve Duck",
+        "affiliation": "",
+        "financialAgent": "Steve Duck",
+        "sourcePage": 156
+      },
+      {
+        "jurisdiction": "Terrace",
+        "office": "Councillor",
+        "candidate": "Miller Restan",
+        "affiliation": "",
+        "financialAgent": "Miller Restan",
+        "sourcePage": 174
+      },
+      {
+        "jurisdiction": "Vernon School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Tahni Fortin",
+        "affiliation": "",
+        "financialAgent": "Tahni Fortin",
+        "sourcePage": 189
+      },
+      {
+        "jurisdiction": "West Vancouver",
+        "office": "Councillor",
+        "candidate": "John O'Flynn",
+        "affiliation": "",
+        "financialAgent": "John O'Flynn",
+        "sourcePage": 194
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Cariboo Chilcotin School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Michael Henshaw",
+        "affiliation": "",
+        "financialAgent": "Michael Henshaw",
+        "sourcePage": 19
+      },
+      {
+        "jurisdiction": "Fort St. John",
+        "office": "Councillor",
+        "candidate": "Steven Labossiere",
+        "affiliation": "",
+        "financialAgent": "Steven Labossiere",
+        "sourcePage": 51
+      },
+      {
+        "jurisdiction": "Gold River",
+        "office": "Councillor",
+        "candidate": "Michael McGee",
+        "affiliation": "",
+        "financialAgent": "Michael McGee",
+        "sourcePage": 56
+      },
+      {
+        "jurisdiction": "Grand Forks",
+        "office": "Mayor",
+        "candidate": "Rod Zielinski",
+        "affiliation": "",
+        "financialAgent": "Rod Zielinski",
+        "sourcePage": 58
+      },
+      {
+        "jurisdiction": "Nechako Lakes School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kristopher Shively",
+        "affiliation": "",
+        "financialAgent": "Kristopher Shively",
+        "sourcePage": 103
+      },
+      {
+        "jurisdiction": "Pacific Rim School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Patricia Clayton",
+        "affiliation": "",
+        "financialAgent": "Patricia Clayton",
+        "sourcePage": 119
+      },
+      {
+        "jurisdiction": "Sidney",
+        "office": "Councillor",
+        "candidate": "Stephen Duck",
+        "affiliation": "",
+        "financialAgent": "Stephen Duck",
+        "sourcePage": 156
+      },
+      {
+        "jurisdiction": "Terrace",
+        "office": "Councillor",
+        "candidate": "Miller Restan Perez",
+        "affiliation": "",
+        "financialAgent": "Miller Restan Perez",
+        "sourcePage": 174
+      }
+    ],
+    "statusChanges": [
+      {
+        "jurisdiction": "Bulkley-Nechako Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Judy Greenaway",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Central Kootenay Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Bart Agate",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Comox Valley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Bruce Curtis",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Grand Forks",
+        "office": "Councillor",
+        "candidate": "Christopher Stevenson",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Grand Forks",
+        "office": "Councillor",
+        "candidate": "Crystal Sullivan",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "McBride",
+        "office": "Mayor",
+        "candidate": "Joe Kolida",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Peachland",
+        "office": "Councillor",
+        "candidate": "Shayne Theriault",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": [
+      {
+        "jurisdiction": "Alberni-Clayoquot Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Michael Lesosky",
+        "changes": {
+          "financialAgent": {
+            "from": "Michael Lesosky",
+            "to": "Shannon Billings"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Alicia Guichon",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Ikjot Sandhu-Sahota",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Jennyfer Cassar",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Jessie Dosanjh",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Nick Kanakos",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Sonya Sangster",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Mayor",
+        "candidate": "George V. Harvie",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Erica Beard",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Joe Muego",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Nenah Sandy",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Nirmmi Daula",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Rick Ocean",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Sagar Sanghera",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Umendra Singh",
+        "changes": {
+          "financialAgent": {
+            "from": "Harvey Sidhu",
+            "to": "Harvinder Sidhu"
+          }
+        }
+      }
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 10 observed/reconstructed source revisions. Times are UTC.
+Generated from 11 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -17,6 +17,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-09-29T15:52:05Z | 3547 | 251 | 0 | 0 | 1 | 0 | c39c84fcf3a6c6f791ffdbff830e7c38c17fa07a925937296939bb6383e41437 |
 | 2026-09-30T19:20:12Z | 3548 | 251 | 1 | 0 | 3 | 0 | 7d932067df4b1d2bf233210795788182de769bc854a4705a83a5ee4147affd4d |
 | 2026-10-01T18:55:09Z | 3547 | 251 | 3 | 4 | 6 | 2 | e40414feea9256521698329d8cd756f70579dba7db5ec9aee2ac5ff1491b0433 |
+| 2026-10-02T15:49:34Z | 3547 | 251 | 8 | 8 | 7 | 15 | 24e404a73905695abe4968f2834da39010fd2359b282121f379a1a249426106f |
 
 ## Candidate observations
 
@@ -903,39 +904,325 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Michael Henshaw — Cariboo Chilcotin School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Steven Labossiere — Fort St. John (Councillor)
+
+Pattern: REMOVED; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Michael McGee — Gold River (Councillor)
+
+Pattern: REMOVED; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Rod Zielinski — Grand Forks (Mayor)
+
+Pattern: REMOVED; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kristopher Shively — Nechako Lakes School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Patricia Clayton — Pacific Rim School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Stephen Duck — Sidney (Councillor)
+
+Pattern: REMOVED; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Miller Restan Perez — Terrace (Councillor)
+
+Pattern: REMOVED; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Judy Greenaway (Withdrawn) — Bulkley-Nechako Regional District (Electoral Area Director)
+
+Pattern: WITHDRAWN; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Bart Agate (Withdrawn) — Central Kootenay Regional District (Electoral Area Director)
+
+Pattern: WITHDRAWN; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Bruce Curtis (Withdrawn) — Comox Valley School District (Board of Education Trustee)
+
+Pattern: WITHDRAWN; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Christopher Stevenson (Withdrawn) — Grand Forks (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Crystal Sullivan (Withdrawn) — Grand Forks (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Joe Kolida (Withdrawn) — McBride (Mayor)
+
+Pattern: WITHDRAWN; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Shayne Theriault (Withdrawn) — Peachland (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-02T15:49:34Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-02T15:49:34Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
 |---|---:|---:|---:|
 | Vancouver | 10 | 3 | 10 |
 | Abbotsford | 8 | 2 | 7 |
+| Delta | 8 | 2 | 7 |
+| Delta School District | 7 | 1 | 7 |
+| Central Kootenay Regional District | 6 | 2 | 6 |
 | Cranbrook | 6 | 2 | 6 |
-| Central Kootenay Regional District | 5 | 1 | 5 |
+| Grand Forks | 6 | 3 | 6 |
+| Comox Valley School District | 4 | 3 | 4 |
 | Lillooet | 4 | 2 | 3 |
+| Pacific Rim School District | 4 | 3 | 4 |
 | Abbotsford School District | 3 | 1 | 3 |
 | Campbell River | 3 | 2 | 2 |
 | Campbell River School District | 3 | 1 | 3 |
-| Comox Valley School District | 3 | 2 | 3 |
 | Cowichan Valley Regional District | 3 | 3 | 2 |
-| Grand Forks | 3 | 2 | 3 |
 | Prince George School District | 3 | 1 | 3 |
 | Stikine School District | 3 | 2 | 3 |
 | Williams Lake | 3 | 1 | 3 |
+| Alberni-Clayoquot Regional District | 2 | 2 | 2 |
 | Anmore | 2 | 1 | 2 |
 | Bulkley Valley School District | 2 | 1 | 2 |
+| Cariboo Chilcotin School District | 2 | 1 | 2 |
 | Central Okanagan School District | 2 | 2 | 2 |
 | Comox | 2 | 1 | 1 |
+| Fort St. John | 2 | 2 | 2 |
+| Nechako Lakes School District | 2 | 1 | 2 |
 | North Saanich | 2 | 1 | 2 |
 | North Vancouver School District | 2 | 1 | 2 |
 | Okanagan Falls, District of | 2 | 1 | 2 |
-| Pacific Rim School District | 2 | 2 | 2 |
 | Peace River North School District | 2 | 2 | 1 |
 | Port Edward | 2 | 1 | 2 |
 | Richmond School District | 2 | 1 | 2 |
 | Salmon Arm | 2 | 2 | 2 |
+| Sidney | 2 | 1 | 2 |
+| Terrace | 2 | 1 | 2 |
 | Warfield | 2 | 2 | 1 |
-| Alberni-Clayoquot Regional District | 1 | 1 | 1 |
+| West Vancouver | 2 | 2 | 2 |
 | Arrow Lakes School District | 1 | 1 | 1 |
+| Bulkley-Nechako Regional District | 1 | 1 | 1 |
 | Burnaby | 1 | 1 | 1 |
 | Capital Regional District | 1 | 1 | 1 |
 | Central Saanich | 1 | 1 | 1 |
@@ -945,13 +1232,13 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Comox Valley Regional District | 1 | 1 | 1 |
 | Conseil Scolaire Francophone School District | 1 | 1 | 1 |
 | Courtenay | 1 | 1 | 1 |
+| Cultus Lake Park Board | 1 | 1 | 1 |
 | Daajing Giids | 1 | 1 | 1 |
-| Delta | 1 | 1 | 1 |
 | Elkford | 1 | 1 | 1 |
 | Esquimalt | 1 | 1 | 1 |
 | Fort Nelson School District | 1 | 1 | 1 |
-| Fort St. John | 1 | 1 | 1 |
 | Fraser Lake | 1 | 1 | 1 |
+| Gold River | 1 | 1 | 1 |
 | Greater Victoria School District | 1 | 1 | 1 |
 | Kootenay Boundary Regional District | 1 | 1 | 1 |
 | Kootenay Lake School District | 1 | 1 | 1 |
@@ -960,6 +1247,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Langley, City of | 1 | 1 | 1 |
 | Langley, Township of | 1 | 1 | 1 |
 | Maple Ridge-Pitt Meadows School District | 1 | 1 | 1 |
+| McBride | 1 | 1 | 1 |
 | Metchosin | 1 | 1 | 1 |
 | Mount Waddington Regional District | 1 | 1 | 1 |
 | Nanaimo Ladysmith School District | 1 | 1 | 1 |
@@ -967,6 +1255,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | New Denver | 1 | 1 | 1 |
 | Northern Rockies | 1 | 1 | 1 |
 | Oak Bay | 1 | 1 | 1 |
+| Peachland | 1 | 1 | 1 |
 | Port Alberni | 1 | 1 | 1 |
 | Port Clements | 1 | 1 | 1 |
 | Port Coquitlam | 1 | 1 | 1 |
@@ -989,5 +1278,5 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Ucluelet | 1 | 1 | 1 |
 | Vancouver School District | 1 | 1 | 1 |
 | Vanderhoof | 1 | 1 | 1 |
-| West Vancouver | 1 | 1 | 1 |
+| Vernon School District | 1 | 1 | 1 |
 | White Rock | 1 | 1 | 1 |
