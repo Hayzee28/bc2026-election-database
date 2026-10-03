@@ -1706,5 +1706,68 @@
         }
       }
     ]
+  },
+  {
+    "observedAtUtc": "2026-10-03T17:18:12Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "4d75fe8de67f21d6efe61c8b62cf8685e1b47e1b4d3d2a543d59b14d411d59cc",
+    "previousSourceSha256": "24e404a73905695abe4968f2834da39010fd2359b282121f379a1a249426106f",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3547,
+    "candidateCount": 3547,
+    "netCandidateDelta": 0,
+    "added": [
+      {
+        "jurisdiction": "Mackenzie",
+        "office": "Mayor",
+        "candidate": "Mike Hendrickson",
+        "affiliation": "",
+        "financialAgent": "Mike Hendrickson",
+        "sourcePage": 89
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Mackenzie",
+        "office": "Mayor",
+        "candidate": "Michael Hendrickson",
+        "affiliation": "",
+        "financialAgent": "Michael Hendrickson",
+        "sourcePage": 89
+      }
+    ],
+    "statusChanges": [
+      {
+        "jurisdiction": "Columbia Shuswap Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Jay Simpson",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Columbia Shuswap Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Maria Otting",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Highlands",
+        "office": "Councillor",
+        "candidate": "Adrian Selby",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Highlands",
+        "office": "Councillor",
+        "candidate": "Genny Holt",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": []
   }
 ]

@@ -2091,6 +2091,183 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-03T17:18:12Z",
+      "revision": 11,
+      "candidateId": "mackenzie|mayor|michael hendrickson",
+      "candidate": "Michael Hendrickson",
+      "jurisdiction": "Mackenzie",
+      "office": "Mayor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-03T17:18:12Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-03T17:18:12Z",
+      "revision": 11,
+      "candidateId": "columbia shuswap regional district|electoral area director|jay simpson",
+      "candidate": "Jay Simpson (Withdrawn)",
+      "jurisdiction": "Columbia Shuswap Regional District",
+      "office": "Electoral Area Director",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-03T17:18:12Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-03T17:18:12Z",
+      "revision": 11,
+      "candidateId": "columbia shuswap regional district|electoral area director|maria otting",
+      "candidate": "Maria Otting (Withdrawn)",
+      "jurisdiction": "Columbia Shuswap Regional District",
+      "office": "Electoral Area Director",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-03T17:18:12Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-03T17:18:12Z",
+      "revision": 11,
+      "candidateId": "highlands|councillor|adrian selby",
+      "candidate": "Adrian Selby (Withdrawn)",
+      "jurisdiction": "Highlands",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-03T17:18:12Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-03T17:18:12Z",
+      "revision": 11,
+      "candidateId": "highlands|councillor|genny holt",
+      "candidate": "Genny Holt (Withdrawn)",
+      "jurisdiction": "Highlands",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-03T17:18:12Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -3991,6 +4168,112 @@
           "type": "NEW"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-03T17:18:12Z",
+      "revision": 11,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 6,
+      "jurisdictions": [
+        "Columbia Shuswap Regional District",
+        "Highlands",
+        "Mackenzie"
+      ],
+      "candidates": [
+        {
+          "candidate": "Michael Hendrickson",
+          "jurisdiction": "Mackenzie",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Mike Hendrickson",
+          "jurisdiction": "Mackenzie",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Jay Simpson (Withdrawn)",
+          "jurisdiction": "Columbia Shuswap Regional District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Maria Otting (Withdrawn)",
+          "jurisdiction": "Columbia Shuswap Regional District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Adrian Selby (Withdrawn)",
+          "jurisdiction": "Highlands",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Genny Holt (Withdrawn)",
+          "jurisdiction": "Highlands",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-03T17:18:12Z",
+      "revision": 11,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Columbia Shuswap Regional District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Jay Simpson (Withdrawn)",
+          "jurisdiction": "Columbia Shuswap Regional District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Maria Otting (Withdrawn)",
+          "jurisdiction": "Columbia Shuswap Regional District",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-03T17:18:12Z",
+      "revision": 11,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Highlands"
+      ],
+      "candidates": [
+        {
+          "candidate": "Adrian Selby (Withdrawn)",
+          "jurisdiction": "Highlands",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Genny Holt (Withdrawn)",
+          "jurisdiction": "Highlands",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-03T17:18:12Z",
+      "revision": 11,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Mackenzie"
+      ],
+      "candidates": [
+        {
+          "candidate": "Michael Hendrickson",
+          "jurisdiction": "Mackenzie",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Mike Hendrickson",
+          "jurisdiction": "Mackenzie",
+          "type": "NEW"
+        }
+      ]
     }
   ],
   "timing": {
@@ -4004,7 +4287,8 @@
       "2026-09-29T15": 1,
       "2026-09-30T19": 4,
       "2026-10-01T18": 15,
-      "2026-10-02T15": 38
+      "2026-10-02T15": 38,
+      "2026-10-03T17": 6
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -4015,7 +4299,8 @@
       "2026-09-29": 1,
       "2026-09-30": 4,
       "2026-10-01": 15,
-      "2026-10-02": 38
+      "2026-10-02": 38,
+      "2026-10-03": 6
     },
     "revisions": [
       {
@@ -4222,6 +4507,17 @@
           "Terrace",
           "Vernon School District",
           "West Vancouver"
+        ]
+      },
+      {
+        "atUtc": "2026-10-03T17:18:12Z",
+        "sourceHash": "4d75fe8de67f21d6efe61c8b62cf8685e1b47e1b4d3d2a543d59b14d411d59cc",
+        "candidateChanges": 6,
+        "jurisdictionsAffected": 3,
+        "jurisdictions": [
+          "Columbia Shuswap Regional District",
+          "Highlands",
+          "Mackenzie"
         ]
       }
     ],

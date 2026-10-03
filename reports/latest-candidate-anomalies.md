@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 11 observed/reconstructed source revisions. Times are UTC.
+Generated from 12 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -18,6 +18,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-09-30T19:20:12Z | 3548 | 251 | 1 | 0 | 3 | 0 | 7d932067df4b1d2bf233210795788182de769bc854a4705a83a5ee4147affd4d |
 | 2026-10-01T18:55:09Z | 3547 | 251 | 3 | 4 | 6 | 2 | e40414feea9256521698329d8cd756f70579dba7db5ec9aee2ac5ff1491b0433 |
 | 2026-10-02T15:49:34Z | 3547 | 251 | 8 | 8 | 7 | 15 | 24e404a73905695abe4968f2834da39010fd2359b282121f379a1a249426106f |
+| 2026-10-03T17:18:12Z | 3547 | 251 | 1 | 1 | 4 | 0 | 4d75fe8de67f21d6efe61c8b62cf8685e1b47e1b4d3d2a543d59b14d411d59cc |
 
 ## Candidate observations
 
@@ -1181,6 +1182,100 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Michael Hendrickson — Mackenzie (Mayor)
+
+Pattern: REMOVED; observed 2026-10-03T17:18:12Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-03T17:18:12Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jay Simpson (Withdrawn) — Columbia Shuswap Regional District (Electoral Area Director)
+
+Pattern: WITHDRAWN; observed 2026-10-03T17:18:12Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-03T17:18:12Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Maria Otting (Withdrawn) — Columbia Shuswap Regional District (Electoral Area Director)
+
+Pattern: WITHDRAWN; observed 2026-10-03T17:18:12Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-03T17:18:12Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Adrian Selby (Withdrawn) — Highlands (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-03T17:18:12Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-03T17:18:12Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Genny Holt (Withdrawn) — Highlands (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-03T17:18:12Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-03T17:18:12Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -1198,6 +1293,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Abbotsford School District | 3 | 1 | 3 |
 | Campbell River | 3 | 2 | 2 |
 | Campbell River School District | 3 | 1 | 3 |
+| Columbia Shuswap Regional District | 3 | 2 | 3 |
 | Cowichan Valley Regional District | 3 | 3 | 2 |
 | Prince George School District | 3 | 1 | 3 |
 | Stikine School District | 3 | 2 | 3 |
@@ -1209,6 +1305,8 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Central Okanagan School District | 2 | 2 | 2 |
 | Comox | 2 | 1 | 1 |
 | Fort St. John | 2 | 2 | 2 |
+| Highlands | 2 | 1 | 2 |
+| Mackenzie | 2 | 1 | 2 |
 | Nechako Lakes School District | 2 | 1 | 2 |
 | North Saanich | 2 | 1 | 2 |
 | North Vancouver School District | 2 | 1 | 2 |
@@ -1228,7 +1326,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Central Saanich | 1 | 1 | 1 |
 | Chilliwack | 1 | 1 | 1 |
 | Coldstream | 1 | 1 | 1 |
-| Columbia Shuswap Regional District | 1 | 1 | 1 |
 | Comox Valley Regional District | 1 | 1 | 1 |
 | Conseil Scolaire Francophone School District | 1 | 1 | 1 |
 | Courtenay | 1 | 1 | 1 |
