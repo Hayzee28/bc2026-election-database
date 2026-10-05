@@ -4519,6 +4519,13 @@
           "Highlands",
           "Mackenzie"
         ]
+      },
+      {
+        "atUtc": "2026-10-05T18:28:25Z",
+        "sourceHash": "784030a3eeb00b30253e137ff17cf73aec0403f31d9d56a576e2f1b4886a1906",
+        "candidateChanges": 0,
+        "jurisdictionsAffected": 0,
+        "jurisdictions": []
       }
     ],
     "milestones": [
