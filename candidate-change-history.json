@@ -1785,5 +1785,91 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-10-06T15:12:44Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "4831686fa566e3cc420be85c29db4366fdf4f0fd8535f9465d4a0f502f2395d9",
+    "previousSourceSha256": "784030a3eeb00b30253e137ff17cf73aec0403f31d9d56a576e2f1b4886a1906",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3547,
+    "candidateCount": 3547,
+    "netCandidateDelta": 0,
+    "added": [
+      {
+        "jurisdiction": "Vancouver School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kat Nystedt",
+        "affiliation": "TEAM",
+        "financialAgent": "Douglas Johnstone",
+        "sourcePage": 186
+      },
+      {
+        "jurisdiction": "Whistler",
+        "office": "Councillor",
+        "candidate": "Eduardo Vazquez-Vela",
+        "affiliation": "",
+        "financialAgent": "Eduardo Vazquez-Vela",
+        "sourcePage": 196
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Vancouver School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kathryn Nystedt",
+        "affiliation": "TEAM",
+        "financialAgent": "Douglas Johnstone",
+        "sourcePage": 186
+      },
+      {
+        "jurisdiction": "Whistler",
+        "office": "Councillor",
+        "candidate": "Eduardo Vazquez-vela",
+        "affiliation": "",
+        "financialAgent": "Eduardo Vazquez-vela",
+        "sourcePage": 196
+      }
+    ],
+    "statusChanges": [
+      {
+        "jurisdiction": "Lake Country",
+        "office": "Councillor",
+        "candidate": "Anna Scott",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Mission",
+        "office": "Mayor",
+        "candidate": "H.S. Kenny Braich",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Okanagan-Similkame en Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Chris Burrows",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Prince George",
+        "office": "Councillor",
+        "candidate": "Susan Scott",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Revelstoke",
+        "office": "Councillor",
+        "candidate": "John Hordyk",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": []
   }
 ]

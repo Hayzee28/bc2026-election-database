@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 13 observed/reconstructed source revisions. Times are UTC.
+Generated from 14 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -20,6 +20,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-02T15:49:34Z | 3547 | 251 | 8 | 8 | 7 | 15 | 24e404a73905695abe4968f2834da39010fd2359b282121f379a1a249426106f |
 | 2026-10-03T17:18:12Z | 3547 | 251 | 1 | 1 | 4 | 0 | 4d75fe8de67f21d6efe61c8b62cf8685e1b47e1b4d3d2a543d59b14d411d59cc |
 | 2026-10-05T18:28:25Z | 3547 | 251 | 0 | 0 | 0 | 0 | 784030a3eeb00b30253e137ff17cf73aec0403f31d9d56a576e2f1b4886a1906 |
+| 2026-10-06T15:12:44Z | 3547 | 251 | 2 | 2 | 5 | 0 | 4831686fa566e3cc420be85c29db4366fdf4f0fd8535f9465d4a0f502f2395d9 |
 
 ## Candidate observations
 
@@ -1277,6 +1278,138 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Kat Nystedt — Vancouver School District (Board of Education Trustee)
+
+Pattern: NAME_CORRECTION; observed 2026-10-06T15:12:44Z
+
+**FACTS**
+
+- At 2026-10-06T15:12:44Z, the source shows the earlier name absent and the later name present.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Same candidate identity — Unique similar name and identical agent in the same jurisdiction and office; identity link remains inferred.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Anna Scott (Withdrawn) — Lake Country (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-06T15:12:44Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-06T15:12:44Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### H.S. Kenny Braich (Withdrawn) — Mission (Mayor)
+
+Pattern: WITHDRAWN; observed 2026-10-06T15:12:44Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-06T15:12:44Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Chris Burrows (Withdrawn) — Okanagan-Similkame en Regional District (Electoral Area Director)
+
+Pattern: WITHDRAWN; observed 2026-10-06T15:12:44Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-06T15:12:44Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Susan Scott (Withdrawn) — Prince George (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-06T15:12:44Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-06T15:12:44Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### John Hordyk (Withdrawn) — Revelstoke (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-06T15:12:44Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-06T15:12:44Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Eduardo Vazquez-Vela — Whistler (Councillor)
+
+Pattern: NAME_CORRECTION; observed 2026-10-06T15:12:44Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-06T15:12:44Z: NAME_CORRECTION.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -1307,6 +1440,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Comox | 2 | 1 | 1 |
 | Fort St. John | 2 | 2 | 2 |
 | Highlands | 2 | 1 | 2 |
+| Lake Country | 2 | 2 | 2 |
 | Mackenzie | 2 | 1 | 2 |
 | Nechako Lakes School District | 2 | 1 | 2 |
 | North Saanich | 2 | 1 | 2 |
@@ -1318,8 +1452,10 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Salmon Arm | 2 | 2 | 2 |
 | Sidney | 2 | 1 | 2 |
 | Terrace | 2 | 1 | 2 |
+| Vancouver School District | 2 | 2 | 2 |
 | Warfield | 2 | 2 | 1 |
 | West Vancouver | 2 | 2 | 2 |
+| Whistler | 2 | 1 | 1 |
 | Arrow Lakes School District | 1 | 1 | 1 |
 | Bulkley-Nechako Regional District | 1 | 1 | 1 |
 | Burnaby | 1 | 1 | 1 |
@@ -1340,28 +1476,31 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Greater Victoria School District | 1 | 1 | 1 |
 | Kootenay Boundary Regional District | 1 | 1 | 1 |
 | Kootenay Lake School District | 1 | 1 | 1 |
-| Lake Country | 1 | 1 | 1 |
 | Langford | 1 | 1 | 1 |
 | Langley, City of | 1 | 1 | 1 |
 | Langley, Township of | 1 | 1 | 1 |
 | Maple Ridge-Pitt Meadows School District | 1 | 1 | 1 |
 | McBride | 1 | 1 | 1 |
 | Metchosin | 1 | 1 | 1 |
+| Mission | 1 | 1 | 1 |
 | Mount Waddington Regional District | 1 | 1 | 1 |
 | Nanaimo Ladysmith School District | 1 | 1 | 1 |
 | Nelson | 1 | 1 | 1 |
 | New Denver | 1 | 1 | 1 |
 | Northern Rockies | 1 | 1 | 1 |
 | Oak Bay | 1 | 1 | 1 |
+| Okanagan-Similkame en Regional District | 1 | 1 | 1 |
 | Peachland | 1 | 1 | 1 |
 | Port Alberni | 1 | 1 | 1 |
 | Port Clements | 1 | 1 | 1 |
 | Port Coquitlam | 1 | 1 | 1 |
 | Port Moody | 1 | 1 | 1 |
 | Powell River | 1 | 1 | 1 |
+| Prince George | 1 | 1 | 1 |
 | Qualicum School District | 1 | 1 | 1 |
 | Quesnel School District | 1 | 1 | 1 |
 | Radium Hot Springs | 1 | 1 | 1 |
+| Revelstoke | 1 | 1 | 1 |
 | Richmond | 1 | 1 | 1 |
 | Salmo | 1 | 1 | 1 |
 | Southeast Kootenay School District | 1 | 1 | 1 |
@@ -1374,7 +1513,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Telkwa | 1 | 1 | 1 |
 | Thompson-Nicola Regional District | 1 | 1 | 1 |
 | Ucluelet | 1 | 1 | 1 |
-| Vancouver School District | 1 | 1 | 1 |
 | Vanderhoof | 1 | 1 | 1 |
 | Vernon School District | 1 | 1 | 1 |
 | White Rock | 1 | 1 | 1 |

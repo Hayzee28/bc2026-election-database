@@ -2268,6 +2268,257 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-06T15:12:44Z",
+      "revision": 13,
+      "candidateId": "vancouver school district|board of education trustee|kathryn nystedt",
+      "candidate": "Kat Nystedt",
+      "jurisdiction": "Vancouver School District",
+      "office": "Board of Education Trustee",
+      "type": "NAME_CORRECTION",
+      "from": "Kathryn Nystedt",
+      "to": "Kat Nystedt",
+      "category": "FIELD_CORRECTION",
+      "identityLinkInferred": true,
+      "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
+      "pattern": "NAME_CORRECTION",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "At 2026-10-06T15:12:44Z, the source shows the earlier name absent and the later name present."
+      ],
+      "clues": [
+        {
+          "indicator": "Same candidate identity",
+          "direction": "SUPPORTS",
+          "basis": "Unique similar name and identical agent in the same jurisdiction and office; identity link remains inferred."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-06T15:12:44Z",
+      "revision": 13,
+      "candidateId": "lake country|councillor|anna scott",
+      "candidate": "Anna Scott (Withdrawn)",
+      "jurisdiction": "Lake Country",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-06T15:12:44Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-06T15:12:44Z",
+      "revision": 13,
+      "candidateId": "mission|mayor|h.s. kenny braich",
+      "candidate": "H.S. Kenny Braich (Withdrawn)",
+      "jurisdiction": "Mission",
+      "office": "Mayor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-06T15:12:44Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-06T15:12:44Z",
+      "revision": 13,
+      "candidateId": "okanagan-similkame en regional district|electoral area director|chris burrows",
+      "candidate": "Chris Burrows (Withdrawn)",
+      "jurisdiction": "Okanagan-Similkame en Regional District",
+      "office": "Electoral Area Director",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-06T15:12:44Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-06T15:12:44Z",
+      "revision": 13,
+      "candidateId": "prince george|councillor|susan scott",
+      "candidate": "Susan Scott (Withdrawn)",
+      "jurisdiction": "Prince George",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-06T15:12:44Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-06T15:12:44Z",
+      "revision": 13,
+      "candidateId": "revelstoke|councillor|john hordyk",
+      "candidate": "John Hordyk (Withdrawn)",
+      "jurisdiction": "Revelstoke",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-06T15:12:44Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-06T15:12:44Z",
+      "revision": 13,
+      "candidateId": "whistler|councillor|eduardo vazquez-vela",
+      "candidate": "Eduardo Vazquez-Vela",
+      "jurisdiction": "Whistler",
+      "office": "Councillor",
+      "type": "NAME_CORRECTION",
+      "from": "Eduardo Vazquez-vela",
+      "to": "Eduardo Vazquez-Vela",
+      "category": "FIELD_CORRECTION",
+      "identityLinkInferred": false,
+      "pattern": "NAME_CORRECTION",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-06T15:12:44Z: NAME_CORRECTION."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -4274,6 +4525,84 @@
           "type": "NEW"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-06T15:12:44Z",
+      "revision": 13,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 8,
+      "jurisdictions": [
+        "Lake Country",
+        "Mission",
+        "Okanagan-Similkame en Regional District",
+        "Prince George",
+        "Revelstoke",
+        "Vancouver School District",
+        "Whistler"
+      ],
+      "candidates": [
+        {
+          "candidate": "Kat Nystedt",
+          "jurisdiction": "Vancouver School District",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Anna Scott (Withdrawn)",
+          "jurisdiction": "Lake Country",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "H.S. Kenny Braich (Withdrawn)",
+          "jurisdiction": "Mission",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Chris Burrows (Withdrawn)",
+          "jurisdiction": "Okanagan-Similkame en Regional District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Susan Scott (Withdrawn)",
+          "jurisdiction": "Prince George",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "John Hordyk (Withdrawn)",
+          "jurisdiction": "Revelstoke",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Eduardo Vazquez-Vela",
+          "jurisdiction": "Whistler",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Eduardo Vazquez-Vela",
+          "jurisdiction": "Whistler",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-06T15:12:44Z",
+      "revision": 13,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Whistler"
+      ],
+      "candidates": [
+        {
+          "candidate": "Eduardo Vazquez-Vela",
+          "jurisdiction": "Whistler",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Eduardo Vazquez-Vela",
+          "jurisdiction": "Whistler",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
     }
   ],
   "timing": {
@@ -4288,7 +4617,8 @@
       "2026-09-30T19": 4,
       "2026-10-01T18": 15,
       "2026-10-02T15": 38,
-      "2026-10-03T17": 6
+      "2026-10-03T17": 6,
+      "2026-10-06T15": 8
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -4300,7 +4630,8 @@
       "2026-09-30": 4,
       "2026-10-01": 15,
       "2026-10-02": 38,
-      "2026-10-03": 6
+      "2026-10-03": 6,
+      "2026-10-06": 8
     },
     "revisions": [
       {
@@ -4526,6 +4857,21 @@
         "candidateChanges": 0,
         "jurisdictionsAffected": 0,
         "jurisdictions": []
+      },
+      {
+        "atUtc": "2026-10-06T15:12:44Z",
+        "sourceHash": "4831686fa566e3cc420be85c29db4366fdf4f0fd8535f9465d4a0f502f2395d9",
+        "candidateChanges": 8,
+        "jurisdictionsAffected": 7,
+        "jurisdictions": [
+          "Lake Country",
+          "Mission",
+          "Okanagan-Similkame en Regional District",
+          "Prince George",
+          "Revelstoke",
+          "Vancouver School District",
+          "Whistler"
+        ]
       }
     ],
     "milestones": [
