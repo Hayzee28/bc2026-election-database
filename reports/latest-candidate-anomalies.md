@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 14 observed/reconstructed source revisions. Times are UTC.
+Generated from 15 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -21,6 +21,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-03T17:18:12Z | 3547 | 251 | 1 | 1 | 4 | 0 | 4d75fe8de67f21d6efe61c8b62cf8685e1b47e1b4d3d2a543d59b14d411d59cc |
 | 2026-10-05T18:28:25Z | 3547 | 251 | 0 | 0 | 0 | 0 | 784030a3eeb00b30253e137ff17cf73aec0403f31d9d56a576e2f1b4886a1906 |
 | 2026-10-06T15:12:44Z | 3547 | 251 | 2 | 2 | 5 | 0 | 4831686fa566e3cc420be85c29db4366fdf4f0fd8535f9465d4a0f502f2395d9 |
+| 2026-10-07T20:37:49Z | 3547 | 251 | 2 | 2 | 4 | 0 | 67eb2162497929667651a92de488c1e0ba73f0f61e8652b221dcd805b801c609 |
 
 ## Candidate observations
 
@@ -1410,32 +1411,147 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Mohadeseh Gharib P. Arasi — Vancouver (Councillor)
+
+Pattern: NAME_CORRECTION; observed 2026-10-07T20:37:49Z
+
+**FACTS**
+
+- At 2026-10-07T20:37:49Z, the source shows the earlier name absent and the later name present.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Same candidate identity — Unique similar name and identical agent in the same jurisdiction and office; identity link remains inferred.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Willow MacDonald — Cariboo Chilcotin School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-07T20:37:49Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-07T20:37:49Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sarah Zimmerman (Withdrawn) — Terrace (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-07T20:37:49Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-07T20:37:49Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jason Xu (Withdrawn) — Vancouver School District (Board of Education Trustee)
+
+Pattern: WITHDRAWN; observed 2026-10-07T20:37:49Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-07T20:37:49Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Josh Peterson (Withdrawn) — View Royal (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-07T20:37:49Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-07T20:37:49Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Ronald Deck (Withdrawn) — Zeballos (Mayor)
+
+Pattern: WITHDRAWN; observed 2026-10-07T20:37:49Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-07T20:37:49Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
 |---|---:|---:|---:|
-| Vancouver | 10 | 3 | 10 |
+| Vancouver | 11 | 4 | 10 |
 | Abbotsford | 8 | 2 | 7 |
 | Delta | 8 | 2 | 7 |
 | Delta School District | 7 | 1 | 7 |
+| Grand Forks | 7 | 4 | 7 |
 | Central Kootenay Regional District | 6 | 2 | 6 |
 | Cranbrook | 6 | 2 | 6 |
-| Grand Forks | 6 | 3 | 6 |
 | Comox Valley School District | 4 | 3 | 4 |
 | Lillooet | 4 | 2 | 3 |
 | Pacific Rim School District | 4 | 3 | 4 |
 | Abbotsford School District | 3 | 1 | 3 |
 | Campbell River | 3 | 2 | 2 |
 | Campbell River School District | 3 | 1 | 3 |
+| Cariboo Chilcotin School District | 3 | 2 | 3 |
 | Columbia Shuswap Regional District | 3 | 2 | 3 |
 | Cowichan Valley Regional District | 3 | 3 | 2 |
 | Prince George School District | 3 | 1 | 3 |
 | Stikine School District | 3 | 2 | 3 |
+| Terrace | 3 | 2 | 3 |
+| Vancouver School District | 3 | 3 | 3 |
 | Williams Lake | 3 | 1 | 3 |
 | Alberni-Clayoquot Regional District | 2 | 2 | 2 |
 | Anmore | 2 | 1 | 2 |
 | Bulkley Valley School District | 2 | 1 | 2 |
-| Cariboo Chilcotin School District | 2 | 1 | 2 |
 | Central Okanagan School District | 2 | 2 | 2 |
 | Comox | 2 | 1 | 1 |
 | Fort St. John | 2 | 2 | 2 |
@@ -1451,8 +1567,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Richmond School District | 2 | 1 | 2 |
 | Salmon Arm | 2 | 2 | 2 |
 | Sidney | 2 | 1 | 2 |
-| Terrace | 2 | 1 | 2 |
-| Vancouver School District | 2 | 2 | 2 |
 | Warfield | 2 | 2 | 1 |
 | West Vancouver | 2 | 2 | 2 |
 | Whistler | 2 | 1 | 1 |
@@ -1515,4 +1629,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Ucluelet | 1 | 1 | 1 |
 | Vanderhoof | 1 | 1 | 1 |
 | Vernon School District | 1 | 1 | 1 |
+| View Royal | 1 | 1 | 1 |
 | White Rock | 1 | 1 | 1 |
+| Zeballos | 1 | 1 | 1 |

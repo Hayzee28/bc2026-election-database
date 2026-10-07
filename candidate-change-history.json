@@ -1871,5 +1871,84 @@
       }
     ],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-10-07T20:37:49Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "67eb2162497929667651a92de488c1e0ba73f0f61e8652b221dcd805b801c609",
+    "previousSourceSha256": "4831686fa566e3cc420be85c29db4366fdf4f0fd8535f9465d4a0f502f2395d9",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3547,
+    "candidateCount": 3547,
+    "netCandidateDelta": 0,
+    "added": [
+      {
+        "jurisdiction": "Grand Forks",
+        "office": "Councillor",
+        "candidate": "Rod Zielinski",
+        "affiliation": "",
+        "financialAgent": "Rod Zielinski",
+        "sourcePage": 58
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Mohadeseh Gharib P. Arasi",
+        "affiliation": "Bright Future Vancouver",
+        "financialAgent": "Mohammad Shahed Foroughi Jahromi",
+        "sourcePage": 178
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Cariboo Chilcotin School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Willow MacDonald",
+        "affiliation": "",
+        "financialAgent": "Willow MacDonald",
+        "sourcePage": 19
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Mohadeseh Gharib Arasi",
+        "affiliation": "Bright Future Vancouver",
+        "financialAgent": "Mohammad Shahed Foroughi Jahromi",
+        "sourcePage": 178
+      }
+    ],
+    "statusChanges": [
+      {
+        "jurisdiction": "Terrace",
+        "office": "Councillor",
+        "candidate": "Sarah Zimmerman",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Vancouver School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jason Xu",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "View Royal",
+        "office": "Councillor",
+        "candidate": "Josh Peterson",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Zeballos",
+        "office": "Mayor",
+        "candidate": "Ronald Deck",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": []
   }
 ]

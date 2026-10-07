@@ -2519,6 +2519,216 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-07T20:37:49Z",
+      "revision": 14,
+      "candidateId": "vancouver|councillor|mohadeseh gharib arasi",
+      "candidate": "Mohadeseh Gharib P. Arasi",
+      "jurisdiction": "Vancouver",
+      "office": "Councillor",
+      "type": "NAME_CORRECTION",
+      "from": "Mohadeseh Gharib Arasi",
+      "to": "Mohadeseh Gharib P. Arasi",
+      "category": "FIELD_CORRECTION",
+      "identityLinkInferred": true,
+      "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
+      "pattern": "NAME_CORRECTION",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "At 2026-10-07T20:37:49Z, the source shows the earlier name absent and the later name present."
+      ],
+      "clues": [
+        {
+          "indicator": "Same candidate identity",
+          "direction": "SUPPORTS",
+          "basis": "Unique similar name and identical agent in the same jurisdiction and office; identity link remains inferred."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-07T20:37:49Z",
+      "revision": 14,
+      "candidateId": "cariboo chilcotin school district|board of education trustee|willow macdonald",
+      "candidate": "Willow MacDonald",
+      "jurisdiction": "Cariboo Chilcotin School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-07T20:37:49Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-07T20:37:49Z",
+      "revision": 14,
+      "candidateId": "terrace|councillor|sarah zimmerman",
+      "candidate": "Sarah Zimmerman (Withdrawn)",
+      "jurisdiction": "Terrace",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-07T20:37:49Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-07T20:37:49Z",
+      "revision": 14,
+      "candidateId": "vancouver school district|board of education trustee|jason xu",
+      "candidate": "Jason Xu (Withdrawn)",
+      "jurisdiction": "Vancouver School District",
+      "office": "Board of Education Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-07T20:37:49Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-07T20:37:49Z",
+      "revision": 14,
+      "candidateId": "view royal|councillor|josh peterson",
+      "candidate": "Josh Peterson (Withdrawn)",
+      "jurisdiction": "View Royal",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-07T20:37:49Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-07T20:37:49Z",
+      "revision": 14,
+      "candidateId": "zeballos|mayor|ronald deck",
+      "candidate": "Ronald Deck (Withdrawn)",
+      "jurisdiction": "Zeballos",
+      "office": "Mayor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-07T20:37:49Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -4603,6 +4813,58 @@
           "type": "FINANCIAL_AGENT_CHANGE"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-07T20:37:49Z",
+      "revision": 14,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Cariboo Chilcotin School District",
+        "Grand Forks",
+        "Terrace",
+        "Vancouver",
+        "Vancouver School District",
+        "View Royal",
+        "Zeballos"
+      ],
+      "candidates": [
+        {
+          "candidate": "Mohadeseh Gharib P. Arasi",
+          "jurisdiction": "Vancouver",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Willow MacDonald",
+          "jurisdiction": "Cariboo Chilcotin School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Rod Zielinski",
+          "jurisdiction": "Grand Forks",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Sarah Zimmerman (Withdrawn)",
+          "jurisdiction": "Terrace",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Jason Xu (Withdrawn)",
+          "jurisdiction": "Vancouver School District",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Josh Peterson (Withdrawn)",
+          "jurisdiction": "View Royal",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Ronald Deck (Withdrawn)",
+          "jurisdiction": "Zeballos",
+          "type": "WITHDRAWN"
+        }
+      ]
     }
   ],
   "timing": {
@@ -4618,7 +4880,8 @@
       "2026-10-01T18": 15,
       "2026-10-02T15": 38,
       "2026-10-03T17": 6,
-      "2026-10-06T15": 8
+      "2026-10-06T15": 8,
+      "2026-10-07T20": 7
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -4631,7 +4894,8 @@
       "2026-10-01": 15,
       "2026-10-02": 38,
       "2026-10-03": 6,
-      "2026-10-06": 8
+      "2026-10-06": 8,
+      "2026-10-07": 7
     },
     "revisions": [
       {
@@ -4871,6 +5135,21 @@
           "Revelstoke",
           "Vancouver School District",
           "Whistler"
+        ]
+      },
+      {
+        "atUtc": "2026-10-07T20:37:49Z",
+        "sourceHash": "67eb2162497929667651a92de488c1e0ba73f0f61e8652b221dcd805b801c609",
+        "candidateChanges": 7,
+        "jurisdictionsAffected": 7,
+        "jurisdictions": [
+          "Cariboo Chilcotin School District",
+          "Grand Forks",
+          "Terrace",
+          "Vancouver",
+          "Vancouver School District",
+          "View Royal",
+          "Zeballos"
         ]
       }
     ],
