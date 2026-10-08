@@ -1950,5 +1950,78 @@
       }
     ],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-10-08T15:37:23Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "19abff329e767f024be227764a9c58fa182b0cac7d98bdf783fd4b03f8e284b7",
+    "previousSourceSha256": "67eb2162497929667651a92de488c1e0ba73f0f61e8652b221dcd805b801c609",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3547,
+    "candidateCount": 3548,
+    "netCandidateDelta": 1,
+    "added": [
+      {
+        "jurisdiction": "Cariboo Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Betty Anderson",
+        "affiliation": "",
+        "financialAgent": "Betty Anderson",
+        "sourcePage": 19
+      },
+      {
+        "jurisdiction": "Islands Trust",
+        "office": "Islands Trust Local Trust Area Trustee",
+        "candidate": "Noël Taylor",
+        "affiliation": "",
+        "financialAgent": "Noël Taylor",
+        "sourcePage": 68
+      },
+      {
+        "jurisdiction": "Islands Trust",
+        "office": "Islands Trust Local Trust Area Trustee",
+        "candidate": "Pachiel Smith",
+        "affiliation": "",
+        "financialAgent": "Pachiel Smith",
+        "sourcePage": 68
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "qathet Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Noel Taylor",
+        "affiliation": "",
+        "financialAgent": "Noel Taylor",
+        "sourcePage": 137
+      },
+      {
+        "jurisdiction": "qathet Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Pachiel Smith",
+        "affiliation": "",
+        "financialAgent": "Pachiel Smith",
+        "sourcePage": 137
+      }
+    ],
+    "statusChanges": [
+      {
+        "jurisdiction": "Nakusp",
+        "office": "Councillor",
+        "candidate": "Michele Williams",
+        "from": "Active",
+        "to": "Withdrawn"
+      },
+      {
+        "jurisdiction": "Saanich School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Susan Hickman",
+        "from": "Active",
+        "to": "Withdrawn"
+      }
+    ],
+    "modified": []
   }
 ]

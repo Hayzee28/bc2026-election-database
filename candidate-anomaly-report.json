@@ -2729,6 +2729,136 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-08T15:37:23Z",
+      "revision": 15,
+      "candidateId": "qathet regional district|electoral area director|noel taylor",
+      "candidate": "Noel Taylor",
+      "jurisdiction": "qathet Regional District",
+      "office": "Electoral Area Director",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-08T15:37:23Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-08T15:37:23Z",
+      "revision": 15,
+      "candidateId": "qathet regional district|electoral area director|pachiel smith",
+      "candidate": "Pachiel Smith",
+      "jurisdiction": "qathet Regional District",
+      "office": "Electoral Area Director",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-08T15:37:23Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-08T15:37:23Z",
+      "revision": 15,
+      "candidateId": "nakusp|councillor|michele williams",
+      "candidate": "Michele Williams (Withdrawn)",
+      "jurisdiction": "Nakusp",
+      "office": "Councillor",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-08T15:37:23Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-08T15:37:23Z",
+      "revision": 15,
+      "candidateId": "saanich school district|board of education trustee|susan hickman",
+      "candidate": "Susan Hickman (Withdrawn)",
+      "jurisdiction": "Saanich School District",
+      "office": "Board of Education Trustee",
+      "type": "WITHDRAWN",
+      "field": "status",
+      "from": "Active",
+      "to": "Withdrawn",
+      "pattern": "WITHDRAWN",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-08T15:37:23Z: WITHDRAWN."
+      ],
+      "clues": [
+        {
+          "indicator": "Status update",
+          "direction": "SUPPORTS",
+          "basis": "Elections BC marked the record Withdrawn."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -4865,6 +4995,98 @@
           "type": "WITHDRAWN"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-08T15:37:23Z",
+      "revision": 15,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Cariboo Regional District",
+        "Islands Trust",
+        "Nakusp",
+        "Saanich School District",
+        "qathet Regional District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Noel Taylor",
+          "jurisdiction": "qathet Regional District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Pachiel Smith",
+          "jurisdiction": "qathet Regional District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Betty Anderson",
+          "jurisdiction": "Cariboo Regional District",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Noël Taylor",
+          "jurisdiction": "Islands Trust",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Pachiel Smith",
+          "jurisdiction": "Islands Trust",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Michele Williams (Withdrawn)",
+          "jurisdiction": "Nakusp",
+          "type": "WITHDRAWN"
+        },
+        {
+          "candidate": "Susan Hickman (Withdrawn)",
+          "jurisdiction": "Saanich School District",
+          "type": "WITHDRAWN"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-08T15:37:23Z",
+      "revision": 15,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Islands Trust"
+      ],
+      "candidates": [
+        {
+          "candidate": "Noël Taylor",
+          "jurisdiction": "Islands Trust",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Pachiel Smith",
+          "jurisdiction": "Islands Trust",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-08T15:37:23Z",
+      "revision": 15,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "qathet Regional District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Noel Taylor",
+          "jurisdiction": "qathet Regional District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Pachiel Smith",
+          "jurisdiction": "qathet Regional District",
+          "type": "REMOVED"
+        }
+      ]
     }
   ],
   "timing": {
@@ -4881,7 +5103,8 @@
       "2026-10-02T15": 38,
       "2026-10-03T17": 6,
       "2026-10-06T15": 8,
-      "2026-10-07T20": 7
+      "2026-10-07T20": 7,
+      "2026-10-08T15": 7
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -4895,7 +5118,8 @@
       "2026-10-02": 38,
       "2026-10-03": 6,
       "2026-10-06": 8,
-      "2026-10-07": 7
+      "2026-10-07": 7,
+      "2026-10-08": 7
     },
     "revisions": [
       {
@@ -5150,6 +5374,19 @@
           "Vancouver School District",
           "View Royal",
           "Zeballos"
+        ]
+      },
+      {
+        "atUtc": "2026-10-08T15:37:23Z",
+        "sourceHash": "19abff329e767f024be227764a9c58fa182b0cac7d98bdf783fd4b03f8e284b7",
+        "candidateChanges": 7,
+        "jurisdictionsAffected": 5,
+        "jurisdictions": [
+          "Cariboo Regional District",
+          "Islands Trust",
+          "Nakusp",
+          "Saanich School District",
+          "qathet Regional District"
         ]
       }
     ],

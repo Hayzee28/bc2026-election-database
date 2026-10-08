@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 15 observed/reconstructed source revisions. Times are UTC.
+Generated from 16 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -22,6 +22,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-05T18:28:25Z | 3547 | 251 | 0 | 0 | 0 | 0 | 784030a3eeb00b30253e137ff17cf73aec0403f31d9d56a576e2f1b4886a1906 |
 | 2026-10-06T15:12:44Z | 3547 | 251 | 2 | 2 | 5 | 0 | 4831686fa566e3cc420be85c29db4366fdf4f0fd8535f9465d4a0f502f2395d9 |
 | 2026-10-07T20:37:49Z | 3547 | 251 | 2 | 2 | 4 | 0 | 67eb2162497929667651a92de488c1e0ba73f0f61e8652b221dcd805b801c609 |
+| 2026-10-08T15:37:23Z | 3548 | 251 | 3 | 2 | 2 | 0 | 19abff329e767f024be227764a9c58fa182b0cac7d98bdf783fd4b03f8e284b7 |
 
 ## Candidate observations
 
@@ -1524,6 +1525,80 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Noel Taylor — qathet Regional District (Electoral Area Director)
+
+Pattern: REMOVED; observed 2026-10-08T15:37:23Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-08T15:37:23Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Pachiel Smith — qathet Regional District (Electoral Area Director)
+
+Pattern: REMOVED; observed 2026-10-08T15:37:23Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-08T15:37:23Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Michele Williams (Withdrawn) — Nakusp (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-08T15:37:23Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-08T15:37:23Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Susan Hickman (Withdrawn) — Saanich School District (Board of Education Trustee)
+
+Pattern: WITHDRAWN; observed 2026-10-08T15:37:23Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-08T15:37:23Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -1556,6 +1631,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Comox | 2 | 1 | 1 |
 | Fort St. John | 2 | 2 | 2 |
 | Highlands | 2 | 1 | 2 |
+| Islands Trust | 2 | 1 | 2 |
 | Lake Country | 2 | 2 | 2 |
 | Mackenzie | 2 | 1 | 2 |
 | Nechako Lakes School District | 2 | 1 | 2 |
@@ -1570,10 +1646,12 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Warfield | 2 | 2 | 1 |
 | West Vancouver | 2 | 2 | 2 |
 | Whistler | 2 | 1 | 1 |
+| qathet Regional District | 2 | 1 | 2 |
 | Arrow Lakes School District | 1 | 1 | 1 |
 | Bulkley-Nechako Regional District | 1 | 1 | 1 |
 | Burnaby | 1 | 1 | 1 |
 | Capital Regional District | 1 | 1 | 1 |
+| Cariboo Regional District | 1 | 1 | 1 |
 | Central Saanich | 1 | 1 | 1 |
 | Chilliwack | 1 | 1 | 1 |
 | Coldstream | 1 | 1 | 1 |
@@ -1598,6 +1676,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Metchosin | 1 | 1 | 1 |
 | Mission | 1 | 1 | 1 |
 | Mount Waddington Regional District | 1 | 1 | 1 |
+| Nakusp | 1 | 1 | 1 |
 | Nanaimo Ladysmith School District | 1 | 1 | 1 |
 | Nelson | 1 | 1 | 1 |
 | New Denver | 1 | 1 | 1 |
@@ -1616,6 +1695,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Radium Hot Springs | 1 | 1 | 1 |
 | Revelstoke | 1 | 1 | 1 |
 | Richmond | 1 | 1 | 1 |
+| Saanich School District | 1 | 1 | 1 |
 | Salmo | 1 | 1 | 1 |
 | Southeast Kootenay School District | 1 | 1 | 1 |
 | Squamish | 1 | 1 | 1 |
