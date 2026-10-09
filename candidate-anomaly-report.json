@@ -2859,6 +2859,141 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-09T16:12:50Z",
+      "revision": 16,
+      "candidateId": "sooke|councillor|kyra lazzar",
+      "candidate": "Kyra Juliana Lazzar",
+      "jurisdiction": "Sooke",
+      "office": "Councillor",
+      "type": "NAME_CORRECTION",
+      "from": "Kyra Lazzar",
+      "to": "Kyra Juliana Lazzar",
+      "category": "FIELD_CORRECTION",
+      "identityLinkInferred": true,
+      "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
+      "pattern": "NAME_CORRECTION",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "At 2026-10-09T16:12:50Z, the source shows the earlier name absent and the later name present."
+      ],
+      "clues": [
+        {
+          "indicator": "Same candidate identity",
+          "direction": "SUPPORTS",
+          "basis": "Unique similar name and identical agent in the same jurisdiction and office; identity link remains inferred."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-09T16:12:50Z",
+      "revision": 16,
+      "candidateId": "sooke|councillor|brian mchattie",
+      "candidate": "Brian James McHattie",
+      "jurisdiction": "Sooke",
+      "office": "Councillor",
+      "type": "NAME_CORRECTION",
+      "from": "Brian McHattie",
+      "to": "Brian James McHattie",
+      "category": "FIELD_CORRECTION",
+      "identityLinkInferred": true,
+      "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
+      "pattern": "NAME_CORRECTION",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "At 2026-10-09T16:12:50Z, the source shows the earlier name absent and the later name present."
+      ],
+      "clues": [
+        {
+          "indicator": "Same candidate identity",
+          "direction": "SUPPORTS",
+          "basis": "Unique similar name and identical agent in the same jurisdiction and office; identity link remains inferred."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-09T16:12:50Z",
+      "revision": 16,
+      "candidateId": "prince george school district|board of education trustee|lianne abbott",
+      "candidate": "Lianne Abbott",
+      "jurisdiction": "Prince George School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-09T16:12:50Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-09T16:12:50Z",
+      "revision": 16,
+      "candidateId": "sooke|councillor|landon grams",
+      "candidate": "Landon Grams",
+      "jurisdiction": "Sooke",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-09T16:12:50Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -5087,6 +5222,74 @@
           "type": "REMOVED"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-09T16:12:50Z",
+      "revision": 16,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 5,
+      "jurisdictions": [
+        "Prince George School District",
+        "Sooke"
+      ],
+      "candidates": [
+        {
+          "candidate": "Kyra Juliana Lazzar",
+          "jurisdiction": "Sooke",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Brian James McHattie",
+          "jurisdiction": "Sooke",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Lianne Abbott",
+          "jurisdiction": "Prince George School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Landon Grams",
+          "jurisdiction": "Sooke",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Landon Kenneth Grams",
+          "jurisdiction": "Sooke",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-09T16:12:50Z",
+      "revision": 16,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 4,
+      "jurisdictions": [
+        "Sooke"
+      ],
+      "candidates": [
+        {
+          "candidate": "Kyra Juliana Lazzar",
+          "jurisdiction": "Sooke",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Brian James McHattie",
+          "jurisdiction": "Sooke",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Landon Grams",
+          "jurisdiction": "Sooke",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Landon Kenneth Grams",
+          "jurisdiction": "Sooke",
+          "type": "NEW"
+        }
+      ]
     }
   ],
   "timing": {
@@ -5104,7 +5307,8 @@
       "2026-10-03T17": 6,
       "2026-10-06T15": 8,
       "2026-10-07T20": 7,
-      "2026-10-08T15": 7
+      "2026-10-08T15": 7,
+      "2026-10-09T16": 5
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -5119,7 +5323,8 @@
       "2026-10-03": 6,
       "2026-10-06": 8,
       "2026-10-07": 7,
-      "2026-10-08": 7
+      "2026-10-08": 7,
+      "2026-10-09": 5
     },
     "revisions": [
       {
@@ -5387,6 +5592,16 @@
           "Nakusp",
           "Saanich School District",
           "qathet Regional District"
+        ]
+      },
+      {
+        "atUtc": "2026-10-09T16:12:50Z",
+        "sourceHash": "c9e7f18d1e601aee492041dba48ee45d5476e73b6920b196fe6514df38dc3b5c",
+        "candidateChanges": 5,
+        "jurisdictionsAffected": 2,
+        "jurisdictions": [
+          "Prince George School District",
+          "Sooke"
         ]
       }
     ],

@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 16 observed/reconstructed source revisions. Times are UTC.
+Generated from 17 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -23,6 +23,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-06T15:12:44Z | 3547 | 251 | 2 | 2 | 5 | 0 | 4831686fa566e3cc420be85c29db4366fdf4f0fd8535f9465d4a0f502f2395d9 |
 | 2026-10-07T20:37:49Z | 3547 | 251 | 2 | 2 | 4 | 0 | 67eb2162497929667651a92de488c1e0ba73f0f61e8652b221dcd805b801c609 |
 | 2026-10-08T15:37:23Z | 3548 | 251 | 3 | 2 | 2 | 0 | 19abff329e767f024be227764a9c58fa182b0cac7d98bdf783fd4b03f8e284b7 |
+| 2026-10-09T16:12:50Z | 3547 | 251 | 3 | 4 | 0 | 0 | c9e7f18d1e601aee492041dba48ee45d5476e73b6920b196fe6514df38dc3b5c |
 
 ## Candidate observations
 
@@ -1599,6 +1600,80 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Kyra Juliana Lazzar — Sooke (Councillor)
+
+Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
+
+**FACTS**
+
+- At 2026-10-09T16:12:50Z, the source shows the earlier name absent and the later name present.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Same candidate identity — Unique similar name and identical agent in the same jurisdiction and office; identity link remains inferred.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Brian James McHattie — Sooke (Councillor)
+
+Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
+
+**FACTS**
+
+- At 2026-10-09T16:12:50Z, the source shows the earlier name absent and the later name present.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Same candidate identity — Unique similar name and identical agent in the same jurisdiction and office; identity link remains inferred.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Lianne Abbott — Prince George School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-09T16:12:50Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-09T16:12:50Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Landon Grams — Sooke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-09T16:12:50Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-09T16:12:50Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -1613,13 +1688,14 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Comox Valley School District | 4 | 3 | 4 |
 | Lillooet | 4 | 2 | 3 |
 | Pacific Rim School District | 4 | 3 | 4 |
+| Prince George School District | 4 | 2 | 4 |
+| Sooke | 4 | 1 | 4 |
 | Abbotsford School District | 3 | 1 | 3 |
 | Campbell River | 3 | 2 | 2 |
 | Campbell River School District | 3 | 1 | 3 |
 | Cariboo Chilcotin School District | 3 | 2 | 3 |
 | Columbia Shuswap Regional District | 3 | 2 | 3 |
 | Cowichan Valley Regional District | 3 | 3 | 2 |
-| Prince George School District | 3 | 1 | 3 |
 | Stikine School District | 3 | 2 | 3 |
 | Terrace | 3 | 2 | 3 |
 | Vancouver School District | 3 | 3 | 3 |

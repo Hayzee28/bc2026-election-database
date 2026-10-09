@@ -2023,5 +2023,79 @@
       }
     ],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-10-09T16:12:50Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "c9e7f18d1e601aee492041dba48ee45d5476e73b6920b196fe6514df38dc3b5c",
+    "previousSourceSha256": "19abff329e767f024be227764a9c58fa182b0cac7d98bdf783fd4b03f8e284b7",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3548,
+    "candidateCount": 3547,
+    "netCandidateDelta": -1,
+    "added": [
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Brian James McHattie",
+        "affiliation": "Sooke Together",
+        "financialAgent": "Lily Mah-Sen",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Kyra Juliana Lazzar",
+        "affiliation": "",
+        "financialAgent": "Debra Lazzar",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Landon Kenneth Grams",
+        "affiliation": "",
+        "financialAgent": "Landon Kenneth Grams",
+        "sourcePage": 158
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Prince George School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Lianne Abbott",
+        "affiliation": "",
+        "financialAgent": "Lianne Abbott",
+        "sourcePage": 134
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Brian McHattie",
+        "affiliation": "Sooke Together",
+        "financialAgent": "Lily Mah-Sen",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Kyra Lazzar",
+        "affiliation": "",
+        "financialAgent": "Debra Lazzar",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Landon Grams",
+        "affiliation": "",
+        "financialAgent": "Landon Grams",
+        "sourcePage": 158
+      }
+    ],
+    "statusChanges": [],
+    "modified": []
   }
 ]
