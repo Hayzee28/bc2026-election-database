@@ -2994,6 +2994,35 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-10T18:35:58Z",
+      "revision": 17,
+      "candidateId": "burns lake|councillor|aman soi",
+      "candidate": "Aman Soi",
+      "jurisdiction": "Burns Lake",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-10T18:35:58Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -5290,6 +5319,60 @@
           "type": "NEW"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-10T18:35:58Z",
+      "revision": 17,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 4,
+      "jurisdictions": [
+        "Burns Lake",
+        "New Hazelton",
+        "Surrey"
+      ],
+      "candidates": [
+        {
+          "candidate": "Aman Soi",
+          "jurisdiction": "Burns Lake",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Aman Soin",
+          "jurisdiction": "Burns Lake",
+          "type": "NEW"
+        },
+        {
+          "candidate": "Bambie Tait",
+          "jurisdiction": "New Hazelton",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        },
+        {
+          "candidate": "Ian de Hoog",
+          "jurisdiction": "Surrey",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-10T18:35:58Z",
+      "revision": 17,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Burns Lake"
+      ],
+      "candidates": [
+        {
+          "candidate": "Aman Soi",
+          "jurisdiction": "Burns Lake",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Aman Soin",
+          "jurisdiction": "Burns Lake",
+          "type": "NEW"
+        }
+      ]
     }
   ],
   "timing": {
@@ -5308,7 +5391,8 @@
       "2026-10-06T15": 8,
       "2026-10-07T20": 7,
       "2026-10-08T15": 7,
-      "2026-10-09T16": 5
+      "2026-10-09T16": 5,
+      "2026-10-10T18": 4
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -5324,7 +5408,8 @@
       "2026-10-06": 8,
       "2026-10-07": 7,
       "2026-10-08": 7,
-      "2026-10-09": 5
+      "2026-10-09": 5,
+      "2026-10-10": 4
     },
     "revisions": [
       {
@@ -5602,6 +5687,17 @@
         "jurisdictions": [
           "Prince George School District",
           "Sooke"
+        ]
+      },
+      {
+        "atUtc": "2026-10-10T18:35:58Z",
+        "sourceHash": "9c21d362f385c61ba6fe6b018a36ce72dee29a574ba9f3ff5987d0295fb4dac2",
+        "candidateChanges": 4,
+        "jurisdictionsAffected": 3,
+        "jurisdictions": [
+          "Burns Lake",
+          "New Hazelton",
+          "Surrey"
         ]
       }
     ],

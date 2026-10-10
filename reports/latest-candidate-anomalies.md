@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 17 observed/reconstructed source revisions. Times are UTC.
+Generated from 18 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -24,6 +24,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-07T20:37:49Z | 3547 | 251 | 2 | 2 | 4 | 0 | 67eb2162497929667651a92de488c1e0ba73f0f61e8652b221dcd805b801c609 |
 | 2026-10-08T15:37:23Z | 3548 | 251 | 3 | 2 | 2 | 0 | 19abff329e767f024be227764a9c58fa182b0cac7d98bdf783fd4b03f8e284b7 |
 | 2026-10-09T16:12:50Z | 3547 | 251 | 3 | 4 | 0 | 0 | c9e7f18d1e601aee492041dba48ee45d5476e73b6920b196fe6514df38dc3b5c |
+| 2026-10-10T18:35:58Z | 3547 | 251 | 1 | 1 | 0 | 2 | 9c21d362f385c61ba6fe6b018a36ce72dee29a574ba9f3ff5987d0295fb4dac2 |
 
 ## Candidate observations
 
@@ -1674,6 +1675,24 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Aman Soi — Burns Lake (Councillor)
+
+Pattern: REMOVED; observed 2026-10-10T18:35:58Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-10T18:35:58Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -1703,6 +1722,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Alberni-Clayoquot Regional District | 2 | 2 | 2 |
 | Anmore | 2 | 1 | 2 |
 | Bulkley Valley School District | 2 | 1 | 2 |
+| Burns Lake | 2 | 1 | 2 |
 | Central Okanagan School District | 2 | 2 | 2 |
 | Comox | 2 | 1 | 1 |
 | Fort St. John | 2 | 2 | 2 |
@@ -1719,6 +1739,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Richmond School District | 2 | 1 | 2 |
 | Salmon Arm | 2 | 2 | 2 |
 | Sidney | 2 | 1 | 2 |
+| Surrey | 2 | 2 | 2 |
 | Warfield | 2 | 2 | 1 |
 | West Vancouver | 2 | 2 | 2 |
 | Whistler | 2 | 1 | 1 |
@@ -1756,6 +1777,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Nanaimo Ladysmith School District | 1 | 1 | 1 |
 | Nelson | 1 | 1 | 1 |
 | New Denver | 1 | 1 | 1 |
+| New Hazelton | 1 | 1 | 1 |
 | Northern Rockies | 1 | 1 | 1 |
 | Oak Bay | 1 | 1 | 1 |
 | Okanagan-Similkame en Regional District | 1 | 1 | 1 |
@@ -1777,7 +1799,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Squamish | 1 | 1 | 1 |
 | Squamish-Lillooet Regional District | 1 | 1 | 1 |
 | Summerland | 1 | 1 | 1 |
-| Surrey | 1 | 1 | 1 |
 | Surrey School District | 1 | 1 | 1 |
 | Taylor | 1 | 1 | 1 |
 | Telkwa | 1 | 1 | 1 |
