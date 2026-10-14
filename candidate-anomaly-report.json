@@ -3023,6 +3023,32 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-14T15:09:52Z",
+      "revision": 20,
+      "candidateId": "gibsons|councillor|todd hodgins",
+      "candidate": "Todd Hodgins",
+      "jurisdiction": "Gibsons",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [],
+      "facts": [
+        "Elections BC revision at 2026-10-14T15:09:52Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Cause of change",
+          "direction": "UNKNOWN",
+          "basis": "Observed source revisions do not explain why."
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -5392,7 +5418,8 @@
       "2026-10-07T20": 7,
       "2026-10-08T15": 7,
       "2026-10-09T16": 5,
-      "2026-10-10T18": 4
+      "2026-10-10T18": 4,
+      "2026-10-14T15": 1
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -5409,7 +5436,8 @@
       "2026-10-07": 7,
       "2026-10-08": 7,
       "2026-10-09": 5,
-      "2026-10-10": 4
+      "2026-10-10": 4,
+      "2026-10-14": 1
     },
     "revisions": [
       {
@@ -5713,6 +5741,15 @@
         "candidateChanges": 0,
         "jurisdictionsAffected": 0,
         "jurisdictions": []
+      },
+      {
+        "atUtc": "2026-10-14T15:09:52Z",
+        "sourceHash": "2fdb1dbe31e906525fa3f7081120429a0ce3a8c28e05dd7ff800a9ab7fa54fac",
+        "candidateChanges": 1,
+        "jurisdictionsAffected": 1,
+        "jurisdictions": [
+          "Gibsons"
+        ]
       }
     ],
     "milestones": [

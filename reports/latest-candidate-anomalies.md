@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 20 observed/reconstructed source revisions. Times are UTC.
+Generated from 21 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -27,6 +27,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-10T18:35:58Z | 3547 | 251 | 1 | 1 | 0 | 2 | 9c21d362f385c61ba6fe6b018a36ce72dee29a574ba9f3ff5987d0295fb4dac2 |
 | 2026-10-12T15:25:04Z | 3547 | 251 | 0 | 0 | 0 | 0 | 4ec73c0422a53b68b380ea84452d63c4a33939d68c294dab4a8ac810fed049fc |
 | 2026-10-13T19:17:30Z | 3547 | 251 | 0 | 0 | 0 | 0 | 6f70f8931cb63a1b2c7396a87f50b617c3bff777874555a7745327955c972a2e |
+| 2026-10-14T15:09:52Z | 3546 | 251 | 0 | 1 | 0 | 0 | 2fdb1dbe31e906525fa3f7081120429a0ce3a8c28e05dd7ff800a9ab7fa54fac |
 
 ## Candidate observations
 
@@ -1695,6 +1696,24 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Todd Hodgins — Gibsons (Councillor)
+
+Pattern: REMOVED; observed 2026-10-14T15:09:52Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-14T15:09:52Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- UNKNOWN: Cause of change — Observed source revisions do not explain why.
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -1763,6 +1782,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Esquimalt | 1 | 1 | 1 |
 | Fort Nelson School District | 1 | 1 | 1 |
 | Fraser Lake | 1 | 1 | 1 |
+| Gibsons | 1 | 1 | 1 |
 | Gold River | 1 | 1 | 1 |
 | Greater Victoria School District | 1 | 1 | 1 |
 | Kootenay Boundary Regional District | 1 | 1 | 1 |

@@ -2186,5 +2186,30 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-10-14T15:09:52Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "2fdb1dbe31e906525fa3f7081120429a0ce3a8c28e05dd7ff800a9ab7fa54fac",
+    "previousSourceSha256": "6f70f8931cb63a1b2c7396a87f50b617c3bff777874555a7745327955c972a2e",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3547,
+    "candidateCount": 3546,
+    "netCandidateDelta": -1,
+    "added": [],
+    "removed": [
+      {
+        "jurisdiction": "Gibsons",
+        "office": "Councillor",
+        "candidate": "Todd Hodgins",
+        "affiliation": "",
+        "financialAgent": "Todd Hodgins",
+        "sourcePage": 55
+      }
+    ],
+    "statusChanges": [],
+    "modified": []
   }
 ]
