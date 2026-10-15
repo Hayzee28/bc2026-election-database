@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 21 observed/reconstructed source revisions. Times are UTC.
+Generated from 22 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -28,6 +28,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-12T15:25:04Z | 3547 | 251 | 0 | 0 | 0 | 0 | 4ec73c0422a53b68b380ea84452d63c4a33939d68c294dab4a8ac810fed049fc |
 | 2026-10-13T19:17:30Z | 3547 | 251 | 0 | 0 | 0 | 0 | 6f70f8931cb63a1b2c7396a87f50b617c3bff777874555a7745327955c972a2e |
 | 2026-10-14T15:09:52Z | 3546 | 251 | 0 | 1 | 0 | 0 | 2fdb1dbe31e906525fa3f7081120429a0ce3a8c28e05dd7ff800a9ab7fa54fac |
+| 2026-10-15T18:18:42Z | 3547 | 251 | 2 | 1 | 0 | 0 | beb2cc13c579b7fafd41081e5b3db8d7a8bd40933b53e5e20a8fc36d7e27b931 |
 
 ## Candidate observations
 
@@ -1604,7 +1605,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Brian James McHattie — Sooke (Councillor)
+### Kyra Juliana Lazzar — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -1623,7 +1624,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Kyra Juliana Lazzar — Sooke (Councillor)
+### Brian James McHattie — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -1714,6 +1715,45 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Grace Utz — Telkwa (Councillor)
+
+Pattern: REMOVED; observed 2026-10-15T18:18:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-15T18:18:42Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Todd Hodgins — Gibsons (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-15T18:18:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-15T18:18:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 27.15 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -1737,6 +1777,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Columbia Shuswap Regional District | 3 | 2 | 3 |
 | Cowichan Valley Regional District | 3 | 3 | 2 |
 | Stikine School District | 3 | 2 | 3 |
+| Telkwa | 3 | 2 | 3 |
 | Terrace | 3 | 2 | 3 |
 | Vancouver School District | 3 | 3 | 3 |
 | Williams Lake | 3 | 1 | 3 |
@@ -1747,6 +1788,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Central Okanagan School District | 2 | 2 | 2 |
 | Comox | 2 | 1 | 1 |
 | Fort St. John | 2 | 2 | 2 |
+| Gibsons | 2 | 2 | 1 |
 | Highlands | 2 | 1 | 2 |
 | Islands Trust | 2 | 1 | 2 |
 | Lake Country | 2 | 2 | 2 |
@@ -1782,7 +1824,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Esquimalt | 1 | 1 | 1 |
 | Fort Nelson School District | 1 | 1 | 1 |
 | Fraser Lake | 1 | 1 | 1 |
-| Gibsons | 1 | 1 | 1 |
 | Gold River | 1 | 1 | 1 |
 | Greater Victoria School District | 1 | 1 | 1 |
 | Kootenay Boundary Regional District | 1 | 1 | 1 |
@@ -1823,7 +1864,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Summerland | 1 | 1 | 1 |
 | Surrey School District | 1 | 1 | 1 |
 | Taylor | 1 | 1 | 1 |
-| Telkwa | 1 | 1 | 1 |
 | Thompson-Nicola Regional District | 1 | 1 | 1 |
 | Ucluelet | 1 | 1 | 1 |
 | Vanderhoof | 1 | 1 | 1 |

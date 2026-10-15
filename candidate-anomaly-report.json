@@ -2863,13 +2863,13 @@
     {
       "atUtc": "2026-10-09T16:12:50Z",
       "revision": 16,
-      "candidateId": "sooke|councillor|brian mchattie",
-      "candidate": "Brian James McHattie",
+      "candidateId": "sooke|councillor|kyra lazzar",
+      "candidate": "Kyra Juliana Lazzar",
       "jurisdiction": "Sooke",
       "office": "Councillor",
       "type": "NAME_CORRECTION",
-      "from": "Brian McHattie",
-      "to": "Brian James McHattie",
+      "from": "Kyra Lazzar",
+      "to": "Kyra Juliana Lazzar",
       "category": "FIELD_CORRECTION",
       "identityLinkInferred": true,
       "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
@@ -2902,13 +2902,13 @@
     {
       "atUtc": "2026-10-09T16:12:50Z",
       "revision": 16,
-      "candidateId": "sooke|councillor|kyra lazzar",
-      "candidate": "Kyra Juliana Lazzar",
+      "candidateId": "sooke|councillor|brian mchattie",
+      "candidate": "Brian James McHattie",
       "jurisdiction": "Sooke",
       "office": "Councillor",
       "type": "NAME_CORRECTION",
-      "from": "Kyra Lazzar",
-      "to": "Kyra Juliana Lazzar",
+      "from": "Brian McHattie",
+      "to": "Brian James McHattie",
       "category": "FIELD_CORRECTION",
       "identityLinkInferred": true,
       "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
@@ -3044,6 +3044,76 @@
           "indicator": "Cause of change",
           "direction": "UNKNOWN",
           "basis": "Observed source revisions do not explain why."
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-15T18:18:42Z",
+      "revision": 21,
+      "candidateId": "telkwa|councillor|grace utz",
+      "candidate": "Grace Utz",
+      "jurisdiction": "Telkwa",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-15T18:18:42Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-15T18:18:42Z",
+      "revision": 21,
+      "candidateId": "gibsons|councillor|todd hodgins",
+      "candidate": "Todd Hodgins",
+      "jurisdiction": "Gibsons",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-14T15:09:52Z",
+      "absentHoursApprox": 27.15,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-15T18:18:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 27.15 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
         }
       ],
       "unresolved": [
@@ -5289,12 +5359,12 @@
       ],
       "candidates": [
         {
-          "candidate": "Brian James McHattie",
+          "candidate": "Kyra Juliana Lazzar",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
         {
-          "candidate": "Kyra Juliana Lazzar",
+          "candidate": "Brian James McHattie",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
@@ -5325,12 +5395,12 @@
       ],
       "candidates": [
         {
-          "candidate": "Brian James McHattie",
+          "candidate": "Kyra Juliana Lazzar",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
         {
-          "candidate": "Kyra Juliana Lazzar",
+          "candidate": "Brian James McHattie",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
@@ -5399,6 +5469,54 @@
           "type": "NEW"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-15T18:18:42Z",
+      "revision": 21,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 3,
+      "jurisdictions": [
+        "Gibsons",
+        "Telkwa"
+      ],
+      "candidates": [
+        {
+          "candidate": "Grace Utz",
+          "jurisdiction": "Telkwa",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Todd Hodgins",
+          "jurisdiction": "Gibsons",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Grace Francis",
+          "jurisdiction": "Telkwa",
+          "type": "NEW"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-15T18:18:42Z",
+      "revision": 21,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Telkwa"
+      ],
+      "candidates": [
+        {
+          "candidate": "Grace Utz",
+          "jurisdiction": "Telkwa",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Grace Francis",
+          "jurisdiction": "Telkwa",
+          "type": "NEW"
+        }
+      ]
     }
   ],
   "timing": {
@@ -5419,7 +5537,8 @@
       "2026-10-08T15": 7,
       "2026-10-09T16": 5,
       "2026-10-10T18": 4,
-      "2026-10-14T15": 1
+      "2026-10-14T15": 1,
+      "2026-10-15T18": 3
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -5437,7 +5556,8 @@
       "2026-10-08": 7,
       "2026-10-09": 5,
       "2026-10-10": 4,
-      "2026-10-14": 1
+      "2026-10-14": 1,
+      "2026-10-15": 3
     },
     "revisions": [
       {
@@ -5749,6 +5869,16 @@
         "jurisdictionsAffected": 1,
         "jurisdictions": [
           "Gibsons"
+        ]
+      },
+      {
+        "atUtc": "2026-10-15T18:18:42Z",
+        "sourceHash": "beb2cc13c579b7fafd41081e5b3db8d7a8bd40933b53e5e20a8fc36d7e27b931",
+        "candidateChanges": 3,
+        "jurisdictionsAffected": 2,
+        "jurisdictions": [
+          "Gibsons",
+          "Telkwa"
         ]
       }
     ],
