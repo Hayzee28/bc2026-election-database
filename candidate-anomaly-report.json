@@ -5880,6 +5880,13 @@
           "Gibsons",
           "Telkwa"
         ]
+      },
+      {
+        "atUtc": "2026-10-16T17:24:25Z",
+        "sourceHash": "b72d2da66f206966ff72bd5bbc72bd644a535217dd85bd74db02b2c00f2db066",
+        "candidateChanges": 0,
+        "jurisdictionsAffected": 0,
+        "jurisdictions": []
       }
     ],
     "milestones": [
