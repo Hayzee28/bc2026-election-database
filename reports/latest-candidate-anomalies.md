@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 23 observed/reconstructed source revisions. Times are UTC.
+Generated from 24 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -30,6 +30,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-14T15:09:52Z | 3546 | 251 | 0 | 1 | 0 | 0 | 2fdb1dbe31e906525fa3f7081120429a0ce3a8c28e05dd7ff800a9ab7fa54fac |
 | 2026-10-15T18:18:42Z | 3547 | 251 | 2 | 1 | 0 | 0 | beb2cc13c579b7fafd41081e5b3db8d7a8bd40933b53e5e20a8fc36d7e27b931 |
 | 2026-10-16T17:24:25Z | 3547 | 251 | 0 | 0 | 0 | 0 | b72d2da66f206966ff72bd5bbc72bd644a535217dd85bd74db02b2c00f2db066 |
+| 2026-10-17T17:10:44Z | 3547 | 251 | 0 | 0 | 1 | 0 | a98b7386cdde93540920694ff6b91ae3088e543c5f965a593e376698502bb8db |
 
 ## Candidate observations
 
@@ -1755,6 +1756,24 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Sally Mole (Withdrawn) — Ucluelet (Councillor)
+
+Pattern: WITHDRAWN; observed 2026-10-17T17:10:44Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-17T17:10:44Z: WITHDRAWN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Status update — Elections BC marked the record Withdrawn.
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -1804,6 +1823,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Salmon Arm | 2 | 2 | 2 |
 | Sidney | 2 | 1 | 2 |
 | Surrey | 2 | 2 | 2 |
+| Ucluelet | 2 | 2 | 2 |
 | Warfield | 2 | 2 | 1 |
 | West Vancouver | 2 | 2 | 2 |
 | Whistler | 2 | 1 | 1 |
@@ -1866,7 +1886,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Surrey School District | 1 | 1 | 1 |
 | Taylor | 1 | 1 | 1 |
 | Thompson-Nicola Regional District | 1 | 1 | 1 |
-| Ucluelet | 1 | 1 | 1 |
 | Vanderhoof | 1 | 1 | 1 |
 | Vernon School District | 1 | 1 | 1 |
 | View Royal | 1 | 1 | 1 |
