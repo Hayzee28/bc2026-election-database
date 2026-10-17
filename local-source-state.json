@@ -1,10 +1,10 @@
 {
   "Richmond": {
-    "checkedAtUtc": "2026-10-16T17:42:00Z",
+    "checkedAtUtc": "2026-10-17T16:39:31Z",
     "sourceUrl": "https://www.richmond.ca/city-hall/elections/candidateslist.htm",
     "sourceHash": "16072ac923d60c735a7ff2bb85756326122a76993b374e6cae7ac0de7e9a6b2a",
     "sourceType": "HTML",
-    "sourceChanged": true,
+    "sourceChanged": false,
     "candidateNames": [
       "Adam Dobrer",
       "Adil Awan",
