@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 24 observed/reconstructed source revisions. Times are UTC.
+Generated from 25 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -31,6 +31,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-15T18:18:42Z | 3547 | 251 | 2 | 1 | 0 | 0 | beb2cc13c579b7fafd41081e5b3db8d7a8bd40933b53e5e20a8fc36d7e27b931 |
 | 2026-10-16T17:24:25Z | 3547 | 251 | 0 | 0 | 0 | 0 | b72d2da66f206966ff72bd5bbc72bd644a535217dd85bd74db02b2c00f2db066 |
 | 2026-10-17T17:10:44Z | 3547 | 251 | 0 | 0 | 1 | 0 | a98b7386cdde93540920694ff6b91ae3088e543c5f965a593e376698502bb8db |
+| 2026-10-19T19:57:02Z | 3547 | 251 | 0 | 0 | 0 | 0 | 9dba69dacefa6529008d55d7588ab149947331c432ff704ea0c7621fbcea869c |
 
 ## Candidate observations
 
@@ -1607,7 +1608,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Kyra Juliana Lazzar — Sooke (Councillor)
+### Brian James McHattie — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -1626,7 +1627,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Brian James McHattie — Sooke (Councillor)
+### Kyra Juliana Lazzar — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
