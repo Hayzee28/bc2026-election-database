@@ -2550,5 +2550,439 @@
     ],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-10-21T18:40:01Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "5c6b5b8b61dc1e75eac89446c07848135743a0250a2b1ed31414a0a39c6c4d01",
+    "previousSourceSha256": "6faf14d7737b4dcd04111fa71e22e62b0683d6c46211f944c0bc5253e34800e4",
+    "pageCount": 197,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3519,
+    "candidateCount": 3529,
+    "netCandidateDelta": 10,
+    "added": [
+      {
+        "jurisdiction": "Campbell River School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Craig Gillis",
+        "affiliation": "",
+        "financialAgent": "Craig Gillis",
+        "sourcePage": 17
+      },
+      {
+        "jurisdiction": "Campbell River School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Daryl Hagen",
+        "affiliation": "",
+        "financialAgent": "Daryl Hagen",
+        "sourcePage": 17
+      },
+      {
+        "jurisdiction": "Campbell River School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Hannah Clausen",
+        "affiliation": "",
+        "financialAgent": "Hannah Clausen",
+        "sourcePage": 16
+      },
+      {
+        "jurisdiction": "Campbell River School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Joyce McMann",
+        "affiliation": "",
+        "financialAgent": "Joyce McMann",
+        "sourcePage": 17
+      },
+      {
+        "jurisdiction": "Campbell River School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kat Eddy",
+        "affiliation": "",
+        "financialAgent": "Kat Eddy",
+        "sourcePage": 17
+      },
+      {
+        "jurisdiction": "Campbell River School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Rachel Balabuch",
+        "affiliation": "",
+        "financialAgent": "Rachel Balabuch",
+        "sourcePage": 16
+      },
+      {
+        "jurisdiction": "East Kootenay Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Nowell Berg",
+        "affiliation": "",
+        "financialAgent": "Nowell Berg",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "East Kootenay Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Susan Clovechok",
+        "affiliation": "",
+        "financialAgent": "Gayle Dougall",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "Golden",
+        "office": "Councillor",
+        "candidate": "Calvin Beauchesne",
+        "affiliation": "",
+        "financialAgent": "Calvin Beauchesne",
+        "sourcePage": 56
+      },
+      {
+        "jurisdiction": "Golden",
+        "office": "Councillor",
+        "candidate": "David Ratzlaff",
+        "affiliation": "",
+        "financialAgent": "Heather Ratzlaff",
+        "sourcePage": 57
+      },
+      {
+        "jurisdiction": "Golden",
+        "office": "Councillor",
+        "candidate": "Janet Crandall",
+        "affiliation": "",
+        "financialAgent": "Janet Crandall",
+        "sourcePage": 56
+      },
+      {
+        "jurisdiction": "Golden",
+        "office": "Councillor",
+        "candidate": "Justin Baun",
+        "affiliation": "",
+        "financialAgent": "Justin Baun",
+        "sourcePage": 56
+      },
+      {
+        "jurisdiction": "Golden",
+        "office": "Councillor",
+        "candidate": "Ron Oszust",
+        "affiliation": "",
+        "financialAgent": "Ron Oszust",
+        "sourcePage": 56
+      },
+      {
+        "jurisdiction": "Golden",
+        "office": "Councillor",
+        "candidate": "Stuart Angus",
+        "affiliation": "",
+        "financialAgent": "Stuart Angus",
+        "sourcePage": 56
+      },
+      {
+        "jurisdiction": "Golden",
+        "office": "Mayor",
+        "candidate": "Kristi Cooper",
+        "affiliation": "",
+        "financialAgent": "Kristi Cooper",
+        "sourcePage": 57
+      },
+      {
+        "jurisdiction": "Nelson",
+        "office": "Councillor",
+        "candidate": "Jesse Pineiro",
+        "affiliation": "",
+        "financialAgent": "Jesse Pineiro",
+        "sourcePage": 102
+      },
+      {
+        "jurisdiction": "Parksville",
+        "office": "Councillor",
+        "candidate": "Adam Fras",
+        "affiliation": "",
+        "financialAgent": "Adam Fras",
+        "sourcePage": 118
+      },
+      {
+        "jurisdiction": "Port Clements",
+        "office": "Councillor",
+        "candidate": "Amber Bellis",
+        "affiliation": "",
+        "financialAgent": "Amber Bellis",
+        "sourcePage": 125
+      },
+      {
+        "jurisdiction": "Port Clements",
+        "office": "Councillor",
+        "candidate": "Brigid Cumming",
+        "affiliation": "",
+        "financialAgent": "Brigid Cumming",
+        "sourcePage": 125
+      },
+      {
+        "jurisdiction": "Port Clements",
+        "office": "Councillor",
+        "candidate": "Jasmine Beachy",
+        "affiliation": "",
+        "financialAgent": "Jasmine Beachy",
+        "sourcePage": 125
+      },
+      {
+        "jurisdiction": "Port Clements",
+        "office": "Councillor",
+        "candidate": "Norman Gould",
+        "affiliation": "",
+        "financialAgent": "Norman Gould",
+        "sourcePage": 125
+      },
+      {
+        "jurisdiction": "Port Clements",
+        "office": "Mayor",
+        "candidate": "Scott Cabianca",
+        "affiliation": "",
+        "financialAgent": "Scott Cabianca",
+        "sourcePage": 126
+      },
+      {
+        "jurisdiction": "Prince George School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Lianne Abbott",
+        "affiliation": "",
+        "financialAgent": "Lianne Abbott",
+        "sourcePage": 133
+      },
+      {
+        "jurisdiction": "Radium Hot Springs",
+        "office": "Councillor",
+        "candidate": "Carey Collin",
+        "affiliation": "",
+        "financialAgent": "Carey Collin",
+        "sourcePage": 140
+      },
+      {
+        "jurisdiction": "Radium Hot Springs",
+        "office": "Councillor",
+        "candidate": "Dale Shudra",
+        "affiliation": "",
+        "financialAgent": "Dale Shudra",
+        "sourcePage": 140
+      },
+      {
+        "jurisdiction": "Radium Hot Springs",
+        "office": "Councillor",
+        "candidate": "Jessica Hill",
+        "affiliation": "",
+        "financialAgent": "Jessica Hill",
+        "sourcePage": 140
+      },
+      {
+        "jurisdiction": "Radium Hot Springs",
+        "office": "Councillor",
+        "candidate": "Jessie Blakley",
+        "affiliation": "",
+        "financialAgent": "Jessie Blakley",
+        "sourcePage": 140
+      },
+      {
+        "jurisdiction": "Radium Hot Springs",
+        "office": "Mayor",
+        "candidate": "Cris Leonard",
+        "affiliation": "",
+        "financialAgent": "Cris Leonard",
+        "sourcePage": 140
+      },
+      {
+        "jurisdiction": "Rocky Mountain School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Amber Byklum",
+        "affiliation": "",
+        "financialAgent": "Amber Byklum",
+        "sourcePage": 146
+      },
+      {
+        "jurisdiction": "Strathcona Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "John Rice",
+        "affiliation": "",
+        "financialAgent": "Jacqueline Rice",
+        "sourcePage": 163
+      },
+      {
+        "jurisdiction": "Strathcona Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Mark Vonesch",
+        "affiliation": "",
+        "financialAgent": "Mark Vonesch",
+        "sourcePage": 163
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Ashcroft",
+        "office": "Councillor",
+        "candidate": "Jessica Clement",
+        "affiliation": "",
+        "financialAgent": "Jessica Clement",
+        "sourcePage": 7
+      },
+      {
+        "jurisdiction": "Ashcroft",
+        "office": "Councillor",
+        "candidate": "Jonah Anstett",
+        "affiliation": "",
+        "financialAgent": "Jonah Anstett",
+        "sourcePage": 7
+      },
+      {
+        "jurisdiction": "Ashcroft",
+        "office": "Councillor",
+        "candidate": "Nadine Davenport",
+        "affiliation": "",
+        "financialAgent": "Nadine Davenport",
+        "sourcePage": 7
+      },
+      {
+        "jurisdiction": "Ashcroft",
+        "office": "Councillor",
+        "candidate": "Warren Wall",
+        "affiliation": "",
+        "financialAgent": "Warren Wall",
+        "sourcePage": 8
+      },
+      {
+        "jurisdiction": "Ashcroft",
+        "office": "Mayor",
+        "candidate": "Barbara Roden",
+        "affiliation": "",
+        "financialAgent": "Barbara Roden",
+        "sourcePage": 8
+      },
+      {
+        "jurisdiction": "Cache Creek",
+        "office": "Councillor",
+        "candidate": "Carmen Ranta",
+        "affiliation": "",
+        "financialAgent": "Carmen Ranta",
+        "sourcePage": 16
+      },
+      {
+        "jurisdiction": "Cache Creek",
+        "office": "Councillor",
+        "candidate": "David Dubois",
+        "affiliation": "",
+        "financialAgent": "David Dubois",
+        "sourcePage": 16
+      },
+      {
+        "jurisdiction": "Cache Creek",
+        "office": "Councillor",
+        "candidate": "Kelly Debert",
+        "affiliation": "",
+        "financialAgent": "Kelly Debert",
+        "sourcePage": 15
+      },
+      {
+        "jurisdiction": "Cache Creek",
+        "office": "Councillor",
+        "candidate": "Sue Peters",
+        "affiliation": "",
+        "financialAgent": "Sue Peters",
+        "sourcePage": 16
+      },
+      {
+        "jurisdiction": "Cache Creek",
+        "office": "Mayor",
+        "candidate": "Wendy Coomber",
+        "affiliation": "",
+        "financialAgent": "Wendy Coomber",
+        "sourcePage": 16
+      },
+      {
+        "jurisdiction": "Daajing Giids",
+        "office": "Councillor",
+        "candidate": "Bill Beamish",
+        "affiliation": "",
+        "financialAgent": "Bill Beamish",
+        "sourcePage": 42
+      },
+      {
+        "jurisdiction": "Daajing Giids",
+        "office": "Councillor",
+        "candidate": "Hayl Zacks",
+        "affiliation": "",
+        "financialAgent": "Hayl Zacks",
+        "sourcePage": 43
+      },
+      {
+        "jurisdiction": "Daajing Giids",
+        "office": "Councillor",
+        "candidate": "Jennifer Rutt",
+        "affiliation": "",
+        "financialAgent": "Jennifer Rutt",
+        "sourcePage": 43
+      },
+      {
+        "jurisdiction": "Daajing Giids",
+        "office": "Councillor",
+        "candidate": "Kim Claggett",
+        "affiliation": "",
+        "financialAgent": "Kim Claggett",
+        "sourcePage": 42
+      },
+      {
+        "jurisdiction": "Daajing Giids",
+        "office": "Mayor",
+        "candidate": "Kris Olsen",
+        "affiliation": "",
+        "financialAgent": "Kris Olsen",
+        "sourcePage": 43
+      },
+      {
+        "jurisdiction": "Granisle",
+        "office": "Councillor",
+        "candidate": "Jane McQueen",
+        "affiliation": "",
+        "financialAgent": "Jane McQueen",
+        "sourcePage": 58
+      },
+      {
+        "jurisdiction": "Granisle",
+        "office": "Councillor",
+        "candidate": "Karen Barber",
+        "affiliation": "",
+        "financialAgent": "Karen Barber",
+        "sourcePage": 57
+      },
+      {
+        "jurisdiction": "Granisle",
+        "office": "Councillor",
+        "candidate": "Nicholas Kitras",
+        "affiliation": "",
+        "financialAgent": "Nicholas Kitras",
+        "sourcePage": 58
+      },
+      {
+        "jurisdiction": "Granisle",
+        "office": "Councillor",
+        "candidate": "Ron Bedard",
+        "affiliation": "",
+        "financialAgent": "Kathy Bedard",
+        "sourcePage": 57
+      },
+      {
+        "jurisdiction": "Granisle",
+        "office": "Mayor",
+        "candidate": "Linda McGuire",
+        "affiliation": "",
+        "financialAgent": "Linda McGuire",
+        "sourcePage": 58
+      },
+      {
+        "jurisdiction": "Whistler",
+        "office": "Councillor",
+        "candidate": "Mandy Rousseau",
+        "affiliation": "",
+        "financialAgent": "Mandy Rousseau",
+        "sourcePage": 193
+      }
+    ],
+    "statusChanges": [],
+    "modified": []
   }
 ]
