@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 27 observed/reconstructed source revisions. Times are UTC.
+Generated from 28 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -34,6 +34,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-19T19:57:02Z | 3547 | 251 | 0 | 0 | 0 | 0 | 9dba69dacefa6529008d55d7588ab149947331c432ff704ea0c7621fbcea869c |
 | 2026-10-20T15:06:11Z | 3519 | 251 | 0 | 28 | 0 | 0 | 6faf14d7737b4dcd04111fa71e22e62b0683d6c46211f944c0bc5253e34800e4 |
 | 2026-10-21T18:40:01Z | 3529 | 251 | 31 | 21 | 0 | 0 | 5c6b5b8b61dc1e75eac89446c07848135743a0250a2b1ed31414a0a39c6c4d01 |
+| 2026-10-22T18:33:22Z | 3533 | 251 | 17 | 13 | 0 | 0 | 29097030175920d5c95db2d4efbcc7da1444775bf4ed31eff50ef279661386ef |
 
 ## Candidate observations
 
@@ -1610,7 +1611,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Brian James McHattie — Sooke (Councillor)
+### Kyra Juliana Lazzar — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -1629,7 +1630,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Kyra Juliana Lazzar — Sooke (Councillor)
+### Brian James McHattie — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -3247,6 +3248,597 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Michael Henshall — Cariboo Chilcotin School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Miguel Godau — Castlegar (Councillor)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Arzeena Hamir — Comox Valley Regional District (Electoral Area Director)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Norm McPhail — Comox Valley Regional District (Electoral Area Director)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Andrea Boardman — Esquimalt (Councillor)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### April Lewis — Islands Trust (Islands Trust Local Trust Area Trustee)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jeffrey Rabena — Islands Trust (Islands Trust Local Trust Area Trustee)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Noah Ross — Islands Trust (Islands Trust Local Trust Area Trustee)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sam Borthwick — Islands Trust (Islands Trust Local Trust Area Trustee)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Duane Post — Kent (Councillor)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jed Koning — Kent (Councillor)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kerstin Schwichtenberg — Kent (Councillor)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Stan Watchorn — Kent (Councillor)
+
+Pattern: REMOVED; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jessica Clement — Ashcroft (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jonah Anstett — Ashcroft (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Nadine Davenport — Ashcroft (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Warren Wall — Ashcroft (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Carmen Ranta — Cache Creek (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### David Dubois — Cache Creek (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kelly Debert — Cache Creek (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sue Peters — Cache Creek (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Wendy Coomber — Cache Creek (Mayor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Bill Beamish — Daajing Giids (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Hayl Zacks — Daajing Giids (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jennifer Rutt — Daajing Giids (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kris Olsen — Daajing Giids (Mayor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jane McQueen — Granisle (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Karen Barber — Granisle (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Nicholas Kitras — Granisle (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Linda McGuire — Granisle (Mayor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-22T18:33:22Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-22T18:33:22Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.89 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -3256,27 +3848,30 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Port Clements | 11 | 3 | 6 |
 | Radium Hot Springs | 11 | 3 | 5 |
 | Vancouver | 11 | 4 | 10 |
+| Cache Creek | 10 | 2 | 5 |
+| Daajing Giids | 10 | 3 | 6 |
+| Ashcroft | 9 | 2 | 5 |
+| Granisle | 9 | 2 | 5 |
 | Abbotsford | 8 | 2 | 7 |
 | Delta | 8 | 2 | 7 |
 | Delta School District | 7 | 1 | 7 |
 | Grand Forks | 7 | 4 | 7 |
 | Central Kootenay Regional District | 6 | 2 | 6 |
 | Cranbrook | 6 | 2 | 6 |
-| Daajing Giids | 6 | 2 | 6 |
-| Ashcroft | 5 | 1 | 5 |
-| Cache Creek | 5 | 1 | 5 |
-| Granisle | 5 | 1 | 5 |
+| Islands Trust | 6 | 2 | 6 |
 | Prince George School District | 5 | 3 | 4 |
+| Cariboo Chilcotin School District | 4 | 3 | 3 |
 | Comox Valley School District | 4 | 3 | 4 |
 | East Kootenay Regional District | 4 | 2 | 2 |
+| Kent | 4 | 1 | 4 |
 | Lillooet | 4 | 2 | 3 |
 | Pacific Rim School District | 4 | 3 | 4 |
 | Sooke | 4 | 1 | 4 |
 | Strathcona Regional District | 4 | 2 | 2 |
 | Abbotsford School District | 3 | 1 | 3 |
 | Campbell River | 3 | 2 | 2 |
-| Cariboo Chilcotin School District | 3 | 2 | 3 |
 | Columbia Shuswap Regional District | 3 | 2 | 3 |
+| Comox Valley Regional District | 3 | 2 | 3 |
 | Cowichan Valley Regional District | 3 | 3 | 2 |
 | Stikine School District | 3 | 2 | 3 |
 | Telkwa | 3 | 2 | 3 |
@@ -3290,10 +3885,10 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Burns Lake | 2 | 1 | 2 |
 | Central Okanagan School District | 2 | 2 | 2 |
 | Comox | 2 | 1 | 1 |
+| Esquimalt | 2 | 2 | 2 |
 | Fort St. John | 2 | 2 | 2 |
 | Gibsons | 2 | 2 | 1 |
 | Highlands | 2 | 1 | 2 |
-| Islands Trust | 2 | 1 | 2 |
 | Lake Country | 2 | 2 | 2 |
 | Mackenzie | 2 | 1 | 2 |
 | Nechako Lakes School District | 2 | 1 | 2 |
@@ -3318,15 +3913,14 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Burnaby | 1 | 1 | 1 |
 | Capital Regional District | 1 | 1 | 1 |
 | Cariboo Regional District | 1 | 1 | 1 |
+| Castlegar | 1 | 1 | 1 |
 | Central Saanich | 1 | 1 | 1 |
 | Chilliwack | 1 | 1 | 1 |
 | Coldstream | 1 | 1 | 1 |
-| Comox Valley Regional District | 1 | 1 | 1 |
 | Conseil Scolaire Francophone School District | 1 | 1 | 1 |
 | Courtenay | 1 | 1 | 1 |
 | Cultus Lake Park Board | 1 | 1 | 1 |
 | Elkford | 1 | 1 | 1 |
-| Esquimalt | 1 | 1 | 1 |
 | Fort Nelson School District | 1 | 1 | 1 |
 | Fraser Lake | 1 | 1 | 1 |
 | Gold River | 1 | 1 | 1 |

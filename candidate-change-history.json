@@ -2984,5 +2984,263 @@
     ],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-10-22T18:33:22Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "29097030175920d5c95db2d4efbcc7da1444775bf4ed31eff50ef279661386ef",
+    "previousSourceSha256": "5c6b5b8b61dc1e75eac89446c07848135743a0250a2b1ed31414a0a39c6c4d01",
+    "pageCount": 197,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3529,
+    "candidateCount": 3533,
+    "netCandidateDelta": 4,
+    "added": [
+      {
+        "jurisdiction": "Ashcroft",
+        "office": "Councillor",
+        "candidate": "Jessica Clement",
+        "affiliation": "",
+        "financialAgent": "Jessica Clement",
+        "sourcePage": 7
+      },
+      {
+        "jurisdiction": "Ashcroft",
+        "office": "Councillor",
+        "candidate": "Jonah Anstett",
+        "affiliation": "",
+        "financialAgent": "Jonah Anstett",
+        "sourcePage": 7
+      },
+      {
+        "jurisdiction": "Ashcroft",
+        "office": "Councillor",
+        "candidate": "Nadine Davenport",
+        "affiliation": "",
+        "financialAgent": "Nadine Davenport",
+        "sourcePage": 7
+      },
+      {
+        "jurisdiction": "Ashcroft",
+        "office": "Councillor",
+        "candidate": "Warren Wall",
+        "affiliation": "",
+        "financialAgent": "Warren Wall",
+        "sourcePage": 8
+      },
+      {
+        "jurisdiction": "Cache Creek",
+        "office": "Councillor",
+        "candidate": "Carmen Ranta",
+        "affiliation": "",
+        "financialAgent": "Carmen Ranta",
+        "sourcePage": 16
+      },
+      {
+        "jurisdiction": "Cache Creek",
+        "office": "Councillor",
+        "candidate": "David Dubois",
+        "affiliation": "",
+        "financialAgent": "David Dubois",
+        "sourcePage": 15
+      },
+      {
+        "jurisdiction": "Cache Creek",
+        "office": "Councillor",
+        "candidate": "Kelly Debert",
+        "affiliation": "",
+        "financialAgent": "Kelly Debert",
+        "sourcePage": 15
+      },
+      {
+        "jurisdiction": "Cache Creek",
+        "office": "Councillor",
+        "candidate": "Sue Peters",
+        "affiliation": "",
+        "financialAgent": "Sue Peters",
+        "sourcePage": 16
+      },
+      {
+        "jurisdiction": "Cache Creek",
+        "office": "Mayor",
+        "candidate": "Wendy Coomber",
+        "affiliation": "",
+        "financialAgent": "Wendy Coomber",
+        "sourcePage": 16
+      },
+      {
+        "jurisdiction": "Daajing Giids",
+        "office": "Councillor",
+        "candidate": "Bill Beamish",
+        "affiliation": "",
+        "financialAgent": "Bill Beamish",
+        "sourcePage": 42
+      },
+      {
+        "jurisdiction": "Daajing Giids",
+        "office": "Councillor",
+        "candidate": "Hayl Zacks",
+        "affiliation": "",
+        "financialAgent": "Hayl Zacks",
+        "sourcePage": 43
+      },
+      {
+        "jurisdiction": "Daajing Giids",
+        "office": "Councillor",
+        "candidate": "Jennifer Rutt",
+        "affiliation": "",
+        "financialAgent": "Jennifer Rutt",
+        "sourcePage": 43
+      },
+      {
+        "jurisdiction": "Daajing Giids",
+        "office": "Mayor",
+        "candidate": "Kris Olsen",
+        "affiliation": "",
+        "financialAgent": "Kris Olsen",
+        "sourcePage": 43
+      },
+      {
+        "jurisdiction": "Granisle",
+        "office": "Councillor",
+        "candidate": "Jane McQueen",
+        "affiliation": "",
+        "financialAgent": "Jane McQueen",
+        "sourcePage": 58
+      },
+      {
+        "jurisdiction": "Granisle",
+        "office": "Councillor",
+        "candidate": "Karen Barber",
+        "affiliation": "",
+        "financialAgent": "Karen Barber",
+        "sourcePage": 58
+      },
+      {
+        "jurisdiction": "Granisle",
+        "office": "Councillor",
+        "candidate": "Nicholas Kitras",
+        "affiliation": "",
+        "financialAgent": "Nicholas Kitras",
+        "sourcePage": 58
+      },
+      {
+        "jurisdiction": "Granisle",
+        "office": "Mayor",
+        "candidate": "Linda McGuire",
+        "affiliation": "",
+        "financialAgent": "Linda McGuire",
+        "sourcePage": 58
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Cariboo Chilcotin School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Michael Henshall",
+        "affiliation": "",
+        "financialAgent": "Michael Henshall",
+        "sourcePage": 19
+      },
+      {
+        "jurisdiction": "Castlegar",
+        "office": "Councillor",
+        "candidate": "Miguel Godau",
+        "affiliation": "",
+        "financialAgent": "Miguel Godau",
+        "sourcePage": 21
+      },
+      {
+        "jurisdiction": "Comox Valley Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Arzeena Hamir",
+        "affiliation": "",
+        "financialAgent": "Arzeena Hamir",
+        "sourcePage": 33
+      },
+      {
+        "jurisdiction": "Comox Valley Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Norm McPhail",
+        "affiliation": "",
+        "financialAgent": "Curtis Scoville",
+        "sourcePage": 33
+      },
+      {
+        "jurisdiction": "Esquimalt",
+        "office": "Councillor",
+        "candidate": "Andrea Boardman",
+        "affiliation": "",
+        "financialAgent": "Andrea Boardman",
+        "sourcePage": 48
+      },
+      {
+        "jurisdiction": "Islands Trust",
+        "office": "Islands Trust Local Trust Area Trustee",
+        "candidate": "April Lewis",
+        "affiliation": "",
+        "financialAgent": "April Lewis",
+        "sourcePage": 66
+      },
+      {
+        "jurisdiction": "Islands Trust",
+        "office": "Islands Trust Local Trust Area Trustee",
+        "candidate": "Jeffrey Rabena",
+        "affiliation": "",
+        "financialAgent": "Jeffrey Rabena",
+        "sourcePage": 67
+      },
+      {
+        "jurisdiction": "Islands Trust",
+        "office": "Islands Trust Local Trust Area Trustee",
+        "candidate": "Noah Ross",
+        "affiliation": "",
+        "financialAgent": "Noah Ross",
+        "sourcePage": 67
+      },
+      {
+        "jurisdiction": "Islands Trust",
+        "office": "Islands Trust Local Trust Area Trustee",
+        "candidate": "Sam Borthwick",
+        "affiliation": "",
+        "financialAgent": "Sam Borthwick",
+        "sourcePage": 65
+      },
+      {
+        "jurisdiction": "Kent",
+        "office": "Councillor",
+        "candidate": "Duane Post",
+        "affiliation": "",
+        "financialAgent": "Duane Post",
+        "sourcePage": 74
+      },
+      {
+        "jurisdiction": "Kent",
+        "office": "Councillor",
+        "candidate": "Jed Koning",
+        "affiliation": "",
+        "financialAgent": "Jed Koning",
+        "sourcePage": 74
+      },
+      {
+        "jurisdiction": "Kent",
+        "office": "Councillor",
+        "candidate": "Kerstin Schwichtenberg",
+        "affiliation": "",
+        "financialAgent": "Kerstin Schwichtenberg",
+        "sourcePage": 74
+      },
+      {
+        "jurisdiction": "Kent",
+        "office": "Councillor",
+        "candidate": "Stan Watchorn",
+        "affiliation": "",
+        "financialAgent": "Stan Watchorn",
+        "sourcePage": 74
+      }
+    ],
+    "statusChanges": [],
+    "modified": []
   }
 ]
