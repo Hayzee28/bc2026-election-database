@@ -7,6 +7,12 @@
       "requiresRecipeReview": true
     },
     {
+      "title": "2026 Election Results by Polling Station",
+      "url": "https://www.richmond.ca/__shared/assets/2026_Election_Results_Poll_by_Poll_Candidate79915.pdf",
+      "verifiedHostOnly": true,
+      "requiresRecipeReview": true
+    },
+    {
       "title": "Candidates",
       "url": "https://www.richmond.ca/city-hall/elections/candidateslist.htm?PageMode=HTML",
       "verifiedHostOnly": true,
