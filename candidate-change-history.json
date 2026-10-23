@@ -3242,5 +3242,239 @@
     ],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-10-23T18:21:45Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "6e8288d458b6d300ea91bf8e3c3cf77da9d981af91c33bd06c9c2b7bc284f00d",
+    "previousSourceSha256": "29097030175920d5c95db2d4efbcc7da1444775bf4ed31eff50ef279661386ef",
+    "pageCount": 196,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3533,
+    "candidateCount": 3520,
+    "netCandidateDelta": -13,
+    "added": [
+      {
+        "jurisdiction": "Cariboo Chilcotin School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Michael Henshall",
+        "affiliation": "",
+        "financialAgent": "Michael Henshall",
+        "sourcePage": 19
+      },
+      {
+        "jurisdiction": "Comox Valley Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Arzeena Hamir",
+        "affiliation": "",
+        "financialAgent": "Arzeena Hamir",
+        "sourcePage": 33
+      },
+      {
+        "jurisdiction": "Comox Valley Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Norm McPhail",
+        "affiliation": "",
+        "financialAgent": "Curtis Scoville",
+        "sourcePage": 33
+      },
+      {
+        "jurisdiction": "Kent",
+        "office": "Councillor",
+        "candidate": "Duane Post",
+        "affiliation": "",
+        "financialAgent": "Duane Post",
+        "sourcePage": 73
+      },
+      {
+        "jurisdiction": "Kent",
+        "office": "Councillor",
+        "candidate": "Jed Koning",
+        "affiliation": "",
+        "financialAgent": "Jed Koning",
+        "sourcePage": 73
+      },
+      {
+        "jurisdiction": "Kent",
+        "office": "Councillor",
+        "candidate": "Kerstin Schwichtenberg",
+        "affiliation": "",
+        "financialAgent": "Kerstin Schwichtenberg",
+        "sourcePage": 73
+      },
+      {
+        "jurisdiction": "Kent",
+        "office": "Councillor",
+        "candidate": "Stan Watchorn",
+        "affiliation": "",
+        "financialAgent": "Stan Watchorn",
+        "sourcePage": 74
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Alberni-Clayoquot Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Max Salamon",
+        "affiliation": "",
+        "financialAgent": "Max Salamon",
+        "sourcePage": 4
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Alexander Fischer",
+        "affiliation": "Delta First",
+        "financialAgent": "Joan Hansen",
+        "sourcePage": 44
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Alicia Guichon",
+        "affiliation": "Achieving for Delta",
+        "financialAgent": "Harvinder Sidhu",
+        "sourcePage": 44
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Daniel Boisvert",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 44
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Jat Puri",
+        "affiliation": "Delta First",
+        "financialAgent": "Joan Hansen",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Sylvia Bishop",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 44
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Tammy Hansen",
+        "affiliation": "Delta First",
+        "financialAgent": "Joan Hansen",
+        "sourcePage": 44
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Mayor",
+        "candidate": "Melissa Granum",
+        "affiliation": "Delta First",
+        "financialAgent": "Joan Hansen",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Ammen Dhillon",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Erica Beard",
+        "affiliation": "Achieving for Delta",
+        "financialAgent": "Harvinder Sidhu",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jesse Bierman",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Joe Muego",
+        "affiliation": "Achieving for Delta",
+        "financialAgent": "Harvinder Sidhu",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Masako Gooch",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Tamara Bissett-Laza",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Val Windsor",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "Lions Bay",
+        "office": "Councillor",
+        "candidate": "Adam Solheim",
+        "affiliation": "",
+        "financialAgent": "Adam Solheim",
+        "sourcePage": 87
+      },
+      {
+        "jurisdiction": "Lions Bay",
+        "office": "Councillor",
+        "candidate": "Ehsan Monfared",
+        "affiliation": "",
+        "financialAgent": "Ehsan Monfared",
+        "sourcePage": 86
+      },
+      {
+        "jurisdiction": "Lions Bay",
+        "office": "Councillor",
+        "candidate": "Leslie Nolin",
+        "affiliation": "",
+        "financialAgent": "Mohammed Kassam",
+        "sourcePage": 87
+      },
+      {
+        "jurisdiction": "Lions Bay",
+        "office": "Councillor",
+        "candidate": "Neville Abbott",
+        "affiliation": "",
+        "financialAgent": "Neville Abbott",
+        "sourcePage": 86
+      },
+      {
+        "jurisdiction": "Lions Bay",
+        "office": "Mayor",
+        "candidate": "Ron McLaughlin",
+        "affiliation": "",
+        "financialAgent": "Mary McLaughlin",
+        "sourcePage": 87
+      }
+    ],
+    "statusChanges": [],
+    "modified": []
   }
 ]

@@ -6826,6 +6826,878 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "alberni-clayoquot regional district|electoral area director|max salamon",
+      "candidate": "Max Salamon",
+      "jurisdiction": "Alberni-Clayoquot Regional District",
+      "office": "Electoral Area Director",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta|councillor|alexander fischer",
+      "candidate": "Alexander Fischer",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta|councillor|alicia guichon",
+      "candidate": "Alicia Guichon",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta|councillor|daniel boisvert",
+      "candidate": "Daniel Boisvert",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta|councillor|jat puri",
+      "candidate": "Jat Puri",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta|councillor|sylvia bishop",
+      "candidate": "Sylvia Bishop",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta|councillor|tammy hansen",
+      "candidate": "Tammy Hansen",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta|mayor|melissa granum",
+      "candidate": "Melissa Granum",
+      "jurisdiction": "Delta",
+      "office": "Mayor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta school district|board of education trustee|ammen dhillon",
+      "candidate": "Ammen Dhillon",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta school district|board of education trustee|erica beard",
+      "candidate": "Erica Beard",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta school district|board of education trustee|jesse bierman",
+      "candidate": "Jesse Bierman",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta school district|board of education trustee|joe muego",
+      "candidate": "Joe Muego",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta school district|board of education trustee|masako gooch",
+      "candidate": "Masako Gooch",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta school district|board of education trustee|tamara bissett-laza",
+      "candidate": "Tamara Bissett-Laza",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "delta school district|board of education trustee|val windsor",
+      "candidate": "Val Windsor",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "lions bay|councillor|adam solheim",
+      "candidate": "Adam Solheim",
+      "jurisdiction": "Lions Bay",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "lions bay|councillor|ehsan monfared",
+      "candidate": "Ehsan Monfared",
+      "jurisdiction": "Lions Bay",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "lions bay|councillor|leslie nolin",
+      "candidate": "Leslie Nolin",
+      "jurisdiction": "Lions Bay",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "lions bay|councillor|neville abbott",
+      "candidate": "Neville Abbott",
+      "jurisdiction": "Lions Bay",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "lions bay|mayor|ron mclaughlin",
+      "candidate": "Ron McLaughlin",
+      "jurisdiction": "Lions Bay",
+      "office": "Mayor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "cariboo chilcotin school district|board of education trustee|michael henshall",
+      "candidate": "Michael Henshall",
+      "jurisdiction": "Cariboo Chilcotin School District",
+      "office": "Board of Education Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-22T18:33:22Z",
+      "absentHoursApprox": 23.81,
+      "firstPresentAtUtc": "2026-10-02T15:49:34Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.81 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "comox valley regional district|electoral area director|arzeena hamir",
+      "candidate": "Arzeena Hamir",
+      "jurisdiction": "Comox Valley Regional District",
+      "office": "Electoral Area Director",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-22T18:33:22Z",
+      "absentHoursApprox": 23.81,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.81 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "comox valley regional district|electoral area director|norm mcphail",
+      "candidate": "Norm McPhail",
+      "jurisdiction": "Comox Valley Regional District",
+      "office": "Electoral Area Director",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-22T18:33:22Z",
+      "absentHoursApprox": 23.81,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.81 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "kent|councillor|duane post",
+      "candidate": "Duane Post",
+      "jurisdiction": "Kent",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-22T18:33:22Z",
+      "absentHoursApprox": 23.81,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.81 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "kent|councillor|jed koning",
+      "candidate": "Jed Koning",
+      "jurisdiction": "Kent",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-22T18:33:22Z",
+      "absentHoursApprox": 23.81,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.81 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "kent|councillor|kerstin schwichtenberg",
+      "candidate": "Kerstin Schwichtenberg",
+      "jurisdiction": "Kent",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-22T18:33:22Z",
+      "absentHoursApprox": 23.81,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.81 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "candidateId": "kent|councillor|stan watchorn",
+      "candidate": "Stan Watchorn",
+      "jurisdiction": "Kent",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-22T18:33:22Z",
+      "absentHoursApprox": 23.81,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-23T18:21:45Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.81 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -10586,6 +11458,338 @@
           "type": "REMOVED"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "type": "CENTRAL_WIDE_UPDATE",
+      "candidateChanges": 27,
+      "jurisdictions": [
+        "Alberni-Clayoquot Regional District",
+        "Cariboo Chilcotin School District",
+        "Comox Valley Regional District",
+        "Delta",
+        "Delta School District",
+        "Kent",
+        "Lions Bay"
+      ],
+      "candidates": [
+        {
+          "candidate": "Max Salamon",
+          "jurisdiction": "Alberni-Clayoquot Regional District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Alexander Fischer",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Alicia Guichon",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Daniel Boisvert",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Jat Puri",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Sylvia Bishop",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Tammy Hansen",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Melissa Granum",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Ammen Dhillon",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Erica Beard",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Jesse Bierman",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Joe Muego",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Masako Gooch",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Tamara Bissett-Laza",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Val Windsor",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Adam Solheim",
+          "jurisdiction": "Lions Bay",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Ehsan Monfared",
+          "jurisdiction": "Lions Bay",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Leslie Nolin",
+          "jurisdiction": "Lions Bay",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Neville Abbott",
+          "jurisdiction": "Lions Bay",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Ron McLaughlin",
+          "jurisdiction": "Lions Bay",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Michael Henshall",
+          "jurisdiction": "Cariboo Chilcotin School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Arzeena Hamir",
+          "jurisdiction": "Comox Valley Regional District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Norm McPhail",
+          "jurisdiction": "Comox Valley Regional District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Duane Post",
+          "jurisdiction": "Kent",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jed Koning",
+          "jurisdiction": "Kent",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Kerstin Schwichtenberg",
+          "jurisdiction": "Kent",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Stan Watchorn",
+          "jurisdiction": "Kent",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Comox Valley Regional District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Arzeena Hamir",
+          "jurisdiction": "Comox Valley Regional District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Norm McPhail",
+          "jurisdiction": "Comox Valley Regional District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Delta"
+      ],
+      "candidates": [
+        {
+          "candidate": "Alexander Fischer",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Alicia Guichon",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Daniel Boisvert",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Jat Puri",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Sylvia Bishop",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Tammy Hansen",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Melissa Granum",
+          "jurisdiction": "Delta",
+          "type": "REMOVED"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Delta School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Ammen Dhillon",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Erica Beard",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Jesse Bierman",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Joe Muego",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Masako Gooch",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Tamara Bissett-Laza",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Val Windsor",
+          "jurisdiction": "Delta School District",
+          "type": "REMOVED"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 4,
+      "jurisdictions": [
+        "Kent"
+      ],
+      "candidates": [
+        {
+          "candidate": "Duane Post",
+          "jurisdiction": "Kent",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jed Koning",
+          "jurisdiction": "Kent",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Kerstin Schwichtenberg",
+          "jurisdiction": "Kent",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Stan Watchorn",
+          "jurisdiction": "Kent",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-23T18:21:45Z",
+      "revision": 28,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 5,
+      "jurisdictions": [
+        "Lions Bay"
+      ],
+      "candidates": [
+        {
+          "candidate": "Adam Solheim",
+          "jurisdiction": "Lions Bay",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Ehsan Monfared",
+          "jurisdiction": "Lions Bay",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Leslie Nolin",
+          "jurisdiction": "Lions Bay",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Neville Abbott",
+          "jurisdiction": "Lions Bay",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Ron McLaughlin",
+          "jurisdiction": "Lions Bay",
+          "type": "REMOVED"
+        }
+      ]
     }
   ],
   "timing": {
@@ -10611,7 +11815,8 @@
       "2026-10-17T17": 1,
       "2026-10-20T15": 28,
       "2026-10-21T18": 52,
-      "2026-10-22T18": 30
+      "2026-10-22T18": 30,
+      "2026-10-23T18": 27
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -10634,7 +11839,8 @@
       "2026-10-17": 1,
       "2026-10-20": 28,
       "2026-10-21": 52,
-      "2026-10-22": 30
+      "2026-10-22": 30,
+      "2026-10-23": 27
     },
     "revisions": [
       {
@@ -11037,6 +12243,21 @@
           "Granisle",
           "Islands Trust",
           "Kent"
+        ]
+      },
+      {
+        "atUtc": "2026-10-23T18:21:45Z",
+        "sourceHash": "6e8288d458b6d300ea91bf8e3c3cf77da9d981af91c33bd06c9c2b7bc284f00d",
+        "candidateChanges": 27,
+        "jurisdictionsAffected": 7,
+        "jurisdictions": [
+          "Alberni-Clayoquot Regional District",
+          "Cariboo Chilcotin School District",
+          "Comox Valley Regional District",
+          "Delta",
+          "Delta School District",
+          "Kent",
+          "Lions Bay"
         ]
       }
     ],
