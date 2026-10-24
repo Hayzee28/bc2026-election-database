@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 29 observed/reconstructed source revisions. Times are UTC.
+Generated from 30 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -36,6 +36,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-21T18:40:01Z | 3529 | 251 | 31 | 21 | 0 | 0 | 5c6b5b8b61dc1e75eac89446c07848135743a0250a2b1ed31414a0a39c6c4d01 |
 | 2026-10-22T18:33:22Z | 3533 | 251 | 17 | 13 | 0 | 0 | 29097030175920d5c95db2d4efbcc7da1444775bf4ed31eff50ef279661386ef |
 | 2026-10-23T18:21:45Z | 3520 | 251 | 7 | 20 | 0 | 0 | 6e8288d458b6d300ea91bf8e3c3cf77da9d981af91c33bd06c9c2b7bc284f00d |
+| 2026-10-24T18:09:27Z | 3539 | 251 | 19 | 0 | 0 | 0 | 6619aad5921a9895d0ce4545f9fee5b02bd4ca575dc339587f4d37dee1823422 |
 
 ## Candidate observations
 
@@ -1612,7 +1613,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Brian James McHattie — Sooke (Councillor)
+### Kyra Juliana Lazzar — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -1631,7 +1632,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Kyra Juliana Lazzar — Sooke (Councillor)
+### Brian James McHattie — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -4347,12 +4348,411 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Alexander Fischer — Delta (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Alicia Guichon — Delta (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Daniel Boisvert — Delta (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jat Puri — Delta (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sylvia Bishop — Delta (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Tammy Hansen — Delta (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Melissa Granum — Delta (Mayor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Ammen Dhillon — Delta School District (Board of Education Trustee)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Erica Beard — Delta School District (Board of Education Trustee)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jesse Bierman — Delta School District (Board of Education Trustee)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Joe Muego — Delta School District (Board of Education Trustee)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Masako Gooch — Delta School District (Board of Education Trustee)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Tamara Bissett-Laza — Delta School District (Board of Education Trustee)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Val Windsor — Delta School District (Board of Education Trustee)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.8 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### April Lewis — Islands Trust (Islands Trust Local Trust Area Trustee)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 47.6 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jeffrey Rabena — Islands Trust (Islands Trust Local Trust Area Trustee)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 47.6 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Noah Ross — Islands Trust (Islands Trust Local Trust Area Trustee)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 47.6 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sam Borthwick — Islands Trust (Islands Trust Local Trust Area Trustee)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 47.6 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Mandy Rousseau — Whistler (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-24T18:09:27Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 71.49 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
 |---|---:|---:|---:|
-| Delta | 15 | 3 | 13 |
-| Delta School District | 14 | 2 | 12 |
+| Delta | 22 | 4 | 13 |
+| Delta School District | 21 | 3 | 12 |
 | Golden | 14 | 2 | 7 |
 | Campbell River School District | 13 | 3 | 8 |
 | Port Clements | 11 | 3 | 6 |
@@ -4360,6 +4760,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Vancouver | 11 | 4 | 10 |
 | Cache Creek | 10 | 2 | 5 |
 | Daajing Giids | 10 | 3 | 6 |
+| Islands Trust | 10 | 3 | 6 |
 | Ashcroft | 9 | 2 | 5 |
 | Granisle | 9 | 2 | 5 |
 | Abbotsford | 8 | 2 | 7 |
@@ -4367,7 +4768,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Grand Forks | 7 | 4 | 7 |
 | Central Kootenay Regional District | 6 | 2 | 6 |
 | Cranbrook | 6 | 2 | 6 |
-| Islands Trust | 6 | 2 | 6 |
 | Cariboo Chilcotin School District | 5 | 4 | 3 |
 | Comox Valley Regional District | 5 | 3 | 3 |
 | Lions Bay | 5 | 1 | 5 |
@@ -4378,6 +4778,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Pacific Rim School District | 4 | 3 | 4 |
 | Sooke | 4 | 1 | 4 |
 | Strathcona Regional District | 4 | 2 | 2 |
+| Whistler | 4 | 3 | 2 |
 | Abbotsford School District | 3 | 1 | 3 |
 | Alberni-Clayoquot Regional District | 3 | 3 | 3 |
 | Campbell River | 3 | 2 | 2 |
@@ -4387,7 +4788,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Telkwa | 3 | 2 | 3 |
 | Terrace | 3 | 2 | 3 |
 | Vancouver School District | 3 | 3 | 3 |
-| Whistler | 3 | 2 | 2 |
 | Williams Lake | 3 | 1 | 3 |
 | Anmore | 2 | 1 | 2 |
 | Bulkley Valley School District | 2 | 1 | 2 |

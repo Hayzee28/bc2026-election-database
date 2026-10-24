@@ -2863,13 +2863,13 @@
     {
       "atUtc": "2026-10-09T16:12:50Z",
       "revision": 16,
-      "candidateId": "sooke|councillor|brian mchattie",
-      "candidate": "Brian James McHattie",
+      "candidateId": "sooke|councillor|kyra lazzar",
+      "candidate": "Kyra Juliana Lazzar",
       "jurisdiction": "Sooke",
       "office": "Councillor",
       "type": "NAME_CORRECTION",
-      "from": "Brian McHattie",
-      "to": "Brian James McHattie",
+      "from": "Kyra Lazzar",
+      "to": "Kyra Juliana Lazzar",
       "category": "FIELD_CORRECTION",
       "identityLinkInferred": true,
       "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
@@ -2902,13 +2902,13 @@
     {
       "atUtc": "2026-10-09T16:12:50Z",
       "revision": 16,
-      "candidateId": "sooke|councillor|kyra lazzar",
-      "candidate": "Kyra Juliana Lazzar",
+      "candidateId": "sooke|councillor|brian mchattie",
+      "candidate": "Brian James McHattie",
       "jurisdiction": "Sooke",
       "office": "Councillor",
       "type": "NAME_CORRECTION",
-      "from": "Kyra Lazzar",
-      "to": "Kyra Juliana Lazzar",
+      "from": "Brian McHattie",
+      "to": "Brian James McHattie",
       "category": "FIELD_CORRECTION",
       "identityLinkInferred": true,
       "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
@@ -7698,6 +7698,803 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta|councillor|alexander fischer",
+      "candidate": "Alexander Fischer",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta|councillor|alicia guichon",
+      "candidate": "Alicia Guichon",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta|councillor|daniel boisvert",
+      "candidate": "Daniel Boisvert",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta|councillor|jat puri",
+      "candidate": "Jat Puri",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta|councillor|sylvia bishop",
+      "candidate": "Sylvia Bishop",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta|councillor|tammy hansen",
+      "candidate": "Tammy Hansen",
+      "jurisdiction": "Delta",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta|mayor|melissa granum",
+      "candidate": "Melissa Granum",
+      "jurisdiction": "Delta",
+      "office": "Mayor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta school district|board of education trustee|ammen dhillon",
+      "candidate": "Ammen Dhillon",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta school district|board of education trustee|erica beard",
+      "candidate": "Erica Beard",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta school district|board of education trustee|jesse bierman",
+      "candidate": "Jesse Bierman",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta school district|board of education trustee|joe muego",
+      "candidate": "Joe Muego",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta school district|board of education trustee|masako gooch",
+      "candidate": "Masako Gooch",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta school district|board of education trustee|tamara bissett-laza",
+      "candidate": "Tamara Bissett-Laza",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "delta school district|board of education trustee|val windsor",
+      "candidate": "Val Windsor",
+      "jurisdiction": "Delta School District",
+      "office": "Board of Education Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-23T18:21:45Z",
+      "absentHoursApprox": 23.8,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 23.8 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "islands trust|islands trust local trust area trustee|april lewis",
+      "candidate": "April Lewis",
+      "jurisdiction": "Islands Trust",
+      "office": "Islands Trust Local Trust Area Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-22T18:33:22Z",
+      "absentHoursApprox": 47.6,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 47.6 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "islands trust|islands trust local trust area trustee|jeffrey rabena",
+      "candidate": "Jeffrey Rabena",
+      "jurisdiction": "Islands Trust",
+      "office": "Islands Trust Local Trust Area Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-22T18:33:22Z",
+      "absentHoursApprox": 47.6,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 47.6 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "islands trust|islands trust local trust area trustee|noah ross",
+      "candidate": "Noah Ross",
+      "jurisdiction": "Islands Trust",
+      "office": "Islands Trust Local Trust Area Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-22T18:33:22Z",
+      "absentHoursApprox": 47.6,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 47.6 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "islands trust|islands trust local trust area trustee|sam borthwick",
+      "candidate": "Sam Borthwick",
+      "jurisdiction": "Islands Trust",
+      "office": "Islands Trust Local Trust Area Trustee",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-22T18:33:22Z",
+      "absentHoursApprox": 47.6,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 47.6 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "candidateId": "whistler|councillor|mandy rousseau",
+      "candidate": "Mandy Rousseau",
+      "jurisdiction": "Whistler",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-21T18:40:01Z",
+      "absentHoursApprox": 71.49,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-24T18:09:27Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 71.49 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -9938,12 +10735,12 @@
       ],
       "candidates": [
         {
-          "candidate": "Brian James McHattie",
+          "candidate": "Kyra Juliana Lazzar",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
         {
-          "candidate": "Kyra Juliana Lazzar",
+          "candidate": "Brian James McHattie",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
@@ -9974,12 +10771,12 @@
       ],
       "candidates": [
         {
-          "candidate": "Brian James McHattie",
+          "candidate": "Kyra Juliana Lazzar",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
         {
-          "candidate": "Kyra Juliana Lazzar",
+          "candidate": "Brian James McHattie",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
@@ -11790,6 +12587,238 @@
           "type": "REMOVED"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 19,
+      "jurisdictions": [
+        "Delta",
+        "Delta School District",
+        "Islands Trust",
+        "Whistler"
+      ],
+      "candidates": [
+        {
+          "candidate": "Alexander Fischer",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Alicia Guichon",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Daniel Boisvert",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jat Puri",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Sylvia Bishop",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Tammy Hansen",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Melissa Granum",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Ammen Dhillon",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Erica Beard",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jesse Bierman",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Joe Muego",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Masako Gooch",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Tamara Bissett-Laza",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Val Windsor",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "April Lewis",
+          "jurisdiction": "Islands Trust",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jeffrey Rabena",
+          "jurisdiction": "Islands Trust",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Noah Ross",
+          "jurisdiction": "Islands Trust",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Sam Borthwick",
+          "jurisdiction": "Islands Trust",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Mandy Rousseau",
+          "jurisdiction": "Whistler",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Delta"
+      ],
+      "candidates": [
+        {
+          "candidate": "Alexander Fischer",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Alicia Guichon",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Daniel Boisvert",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jat Puri",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Sylvia Bishop",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Tammy Hansen",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Melissa Granum",
+          "jurisdiction": "Delta",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Delta School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Ammen Dhillon",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Erica Beard",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jesse Bierman",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Joe Muego",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Masako Gooch",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Tamara Bissett-Laza",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Val Windsor",
+          "jurisdiction": "Delta School District",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-24T18:09:27Z",
+      "revision": 29,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 4,
+      "jurisdictions": [
+        "Islands Trust"
+      ],
+      "candidates": [
+        {
+          "candidate": "April Lewis",
+          "jurisdiction": "Islands Trust",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jeffrey Rabena",
+          "jurisdiction": "Islands Trust",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Noah Ross",
+          "jurisdiction": "Islands Trust",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Sam Borthwick",
+          "jurisdiction": "Islands Trust",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
     }
   ],
   "timing": {
@@ -11816,7 +12845,8 @@
       "2026-10-20T15": 28,
       "2026-10-21T18": 52,
       "2026-10-22T18": 30,
-      "2026-10-23T18": 27
+      "2026-10-23T18": 27,
+      "2026-10-24T18": 19
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -11840,7 +12870,8 @@
       "2026-10-20": 28,
       "2026-10-21": 52,
       "2026-10-22": 30,
-      "2026-10-23": 27
+      "2026-10-23": 27,
+      "2026-10-24": 19
     },
     "revisions": [
       {
@@ -12258,6 +13289,18 @@
           "Delta School District",
           "Kent",
           "Lions Bay"
+        ]
+      },
+      {
+        "atUtc": "2026-10-24T18:09:27Z",
+        "sourceHash": "6619aad5921a9895d0ce4545f9fee5b02bd4ca575dc339587f4d37dee1823422",
+        "candidateChanges": 19,
+        "jurisdictionsAffected": 4,
+        "jurisdictions": [
+          "Delta",
+          "Delta School District",
+          "Islands Trust",
+          "Whistler"
         ]
       }
     ],

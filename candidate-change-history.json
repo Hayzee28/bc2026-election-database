@@ -3476,5 +3476,174 @@
     ],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-10-24T18:09:27Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "6619aad5921a9895d0ce4545f9fee5b02bd4ca575dc339587f4d37dee1823422",
+    "previousSourceSha256": "6e8288d458b6d300ea91bf8e3c3cf77da9d981af91c33bd06c9c2b7bc284f00d",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3520,
+    "candidateCount": 3539,
+    "netCandidateDelta": 19,
+    "added": [
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Alexander Fischer",
+        "affiliation": "Delta First",
+        "financialAgent": "Joan Hansen",
+        "sourcePage": 44
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Alicia Guichon",
+        "affiliation": "Achieving for Delta",
+        "financialAgent": "Harvinder Sidhu",
+        "sourcePage": 44
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Daniel Boisvert",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 44
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Jat Puri",
+        "affiliation": "Delta First",
+        "financialAgent": "Joan Hansen",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Sylvia Bishop",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 44
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Councillor",
+        "candidate": "Tammy Hansen",
+        "affiliation": "Delta First",
+        "financialAgent": "Joan Hansen",
+        "sourcePage": 44
+      },
+      {
+        "jurisdiction": "Delta",
+        "office": "Mayor",
+        "candidate": "Melissa Granum",
+        "affiliation": "Delta First",
+        "financialAgent": "Joan Hansen",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Ammen Dhillon",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Erica Beard",
+        "affiliation": "Achieving for Delta",
+        "financialAgent": "Harvinder Sidhu",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jesse Bierman",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Joe Muego",
+        "affiliation": "Achieving for Delta",
+        "financialAgent": "Harvinder Sidhu",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Masako Gooch",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Tamara Bissett-Laza",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 45
+      },
+      {
+        "jurisdiction": "Delta School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Val Windsor",
+        "affiliation": "One Delta",
+        "financialAgent": "Linda Kreutz",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "Islands Trust",
+        "office": "Islands Trust Local Trust Area Trustee",
+        "candidate": "April Lewis",
+        "affiliation": "",
+        "financialAgent": "April Lewis",
+        "sourcePage": 67
+      },
+      {
+        "jurisdiction": "Islands Trust",
+        "office": "Islands Trust Local Trust Area Trustee",
+        "candidate": "Jeffrey Rabena",
+        "affiliation": "",
+        "financialAgent": "Jeffrey Rabena",
+        "sourcePage": 68
+      },
+      {
+        "jurisdiction": "Islands Trust",
+        "office": "Islands Trust Local Trust Area Trustee",
+        "candidate": "Noah Ross",
+        "affiliation": "",
+        "financialAgent": "Noah Ross",
+        "sourcePage": 68
+      },
+      {
+        "jurisdiction": "Islands Trust",
+        "office": "Islands Trust Local Trust Area Trustee",
+        "candidate": "Sam Borthwick",
+        "affiliation": "",
+        "financialAgent": "Sam Borthwick",
+        "sourcePage": 66
+      },
+      {
+        "jurisdiction": "Whistler",
+        "office": "Councillor",
+        "candidate": "Mandy Rousseau",
+        "affiliation": "",
+        "financialAgent": "Mandy Rousseau",
+        "sourcePage": 195
+      }
+    ],
+    "removed": [],
+    "statusChanges": [],
+    "modified": []
   }
 ]
