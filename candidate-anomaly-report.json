@@ -8495,6 +8495,62 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-10-28T21:04:51Z",
+      "revision": 31,
+      "candidateId": "princeton|councillor|tyler willis",
+      "candidate": "Tyler Willis",
+      "jurisdiction": "Princeton",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-28T21:04:51Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-10-28T21:04:51Z",
+      "revision": 31,
+      "candidateId": "vancouver|councillor|sean orr",
+      "candidate": "Sean Orr",
+      "jurisdiction": "Vancouver",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-10-28T21:04:51Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -12819,6 +12875,182 @@
           "type": "RESTORED_AFTER_ABSENCE"
         }
       ]
+    },
+    {
+      "atUtc": "2026-10-28T21:04:51Z",
+      "revision": 31,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 15,
+      "jurisdictions": [
+        "Princeton",
+        "Richmond",
+        "Richmond School District",
+        "Vancouver"
+      ],
+      "candidates": [
+        {
+          "candidate": "Tyler Willis",
+          "jurisdiction": "Princeton",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Sean Orr",
+          "jurisdiction": "Vancouver",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Gary Law",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Grace Tsang",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Jizhou William Wang",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Kevin Lai",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Sam Wang",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Sheldon Starrett",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Wallace Pong",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Danny Chang",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Dean Billings",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Phyllis Tang",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Rod Belleza",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Sophia Woo",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Willy Sinconegue",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-28T21:04:51Z",
+      "revision": 31,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Richmond"
+      ],
+      "candidates": [
+        {
+          "candidate": "Gary Law",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Grace Tsang",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Jizhou William Wang",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Kevin Lai",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Sam Wang",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Sheldon Starrett",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Wallace Pong",
+          "jurisdiction": "Richmond",
+          "type": "AFFILIATION_CHANGE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-10-28T21:04:51Z",
+      "revision": 31,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 6,
+      "jurisdictions": [
+        "Richmond School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Danny Chang",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Dean Billings",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Phyllis Tang",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Rod Belleza",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Sophia Woo",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        },
+        {
+          "candidate": "Willy Sinconegue",
+          "jurisdiction": "Richmond School District",
+          "type": "AFFILIATION_CHANGE"
+        }
+      ]
     }
   ],
   "timing": {
@@ -12846,7 +13078,8 @@
       "2026-10-21T18": 52,
       "2026-10-22T18": 30,
       "2026-10-23T18": 27,
-      "2026-10-24T18": 19
+      "2026-10-24T18": 19,
+      "2026-10-28T21": 15
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -12871,7 +13104,8 @@
       "2026-10-21": 52,
       "2026-10-22": 30,
       "2026-10-23": 27,
-      "2026-10-24": 19
+      "2026-10-24": 19,
+      "2026-10-28": 15
     },
     "revisions": [
       {
@@ -13309,6 +13543,18 @@
         "candidateChanges": 0,
         "jurisdictionsAffected": 0,
         "jurisdictions": []
+      },
+      {
+        "atUtc": "2026-10-28T21:04:51Z",
+        "sourceHash": "94f4127211d12228f7759e542bc65d0438a64d0138f6c5c5ebca1bf21b47418a",
+        "candidateChanges": 15,
+        "jurisdictionsAffected": 4,
+        "jurisdictions": [
+          "Princeton",
+          "Richmond",
+          "Richmond School District",
+          "Vancouver"
+        ]
       }
     ],
     "milestones": [

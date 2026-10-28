@@ -3661,5 +3661,182 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-10-28T21:04:51Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "94f4127211d12228f7759e542bc65d0438a64d0138f6c5c5ebca1bf21b47418a",
+    "previousSourceSha256": "c2736be9e5f3e635bc91dc51cd9d92dfa260bb81bd142b55d48a9271a90ece09",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3539,
+    "candidateCount": 3537,
+    "netCandidateDelta": -2,
+    "added": [],
+    "removed": [
+      {
+        "jurisdiction": "Princeton",
+        "office": "Councillor",
+        "candidate": "Tyler Willis",
+        "affiliation": "",
+        "financialAgent": "Tyler Willis",
+        "sourcePage": 136
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Sean Orr",
+        "affiliation": "COPE",
+        "financialAgent": "Nate Stanley",
+        "sourcePage": 179
+      }
+    ],
+    "statusChanges": [],
+    "modified": [
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Gary Law",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Grace Tsang",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Jizhou William Wang",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Kevin Lai",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Sam Wang",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Sheldon Starrett",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Wallace Pong",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Danny Chang",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Dean Billings",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Phyllis Tang",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Rod Belleza",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Sophia Woo",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      },
+      {
+        "jurisdiction": "Richmond School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Willy Sinconegue",
+        "changes": {
+          "affiliation": {
+            "from": "Advance Richmond",
+            "to": "ARCA Advance Richmond Community Association"
+          }
+        }
+      }
+    ]
   }
 ]

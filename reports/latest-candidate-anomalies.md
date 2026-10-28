@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 31 observed/reconstructed source revisions. Times are UTC.
+Generated from 32 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -38,6 +38,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-23T18:21:45Z | 3520 | 251 | 7 | 20 | 0 | 0 | 6e8288d458b6d300ea91bf8e3c3cf77da9d981af91c33bd06c9c2b7bc284f00d |
 | 2026-10-24T18:09:27Z | 3539 | 251 | 19 | 0 | 0 | 0 | 6619aad5921a9895d0ce4545f9fee5b02bd4ca575dc339587f4d37dee1823422 |
 | 2026-10-26T19:19:33Z | 3539 | 251 | 0 | 0 | 0 | 0 | c2736be9e5f3e635bc91dc51cd9d92dfa260bb81bd142b55d48a9271a90ece09 |
+| 2026-10-28T21:04:51Z | 3537 | 251 | 0 | 2 | 0 | 13 | 94f4127211d12228f7759e542bc65d0438a64d0138f6c5c5ebca1bf21b47418a |
 
 ## Candidate observations
 
@@ -4748,6 +4749,42 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Tyler Willis — Princeton (Councillor)
+
+Pattern: REMOVED; observed 2026-10-28T21:04:51Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-28T21:04:51Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sean Orr — Vancouver (Councillor)
+
+Pattern: REMOVED; observed 2026-10-28T21:04:51Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-28T21:04:51Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -4756,9 +4793,9 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Delta School District | 21 | 3 | 12 |
 | Golden | 14 | 2 | 7 |
 | Campbell River School District | 13 | 3 | 8 |
+| Vancouver | 12 | 5 | 11 |
 | Port Clements | 11 | 3 | 6 |
 | Radium Hot Springs | 11 | 3 | 5 |
-| Vancouver | 11 | 4 | 10 |
 | Cache Creek | 10 | 2 | 5 |
 | Daajing Giids | 10 | 3 | 6 |
 | Islands Trust | 10 | 3 | 6 |
@@ -4766,6 +4803,8 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Granisle | 9 | 2 | 5 |
 | Abbotsford | 8 | 2 | 7 |
 | Kent | 8 | 2 | 4 |
+| Richmond | 8 | 2 | 8 |
+| Richmond School District | 8 | 2 | 8 |
 | Grand Forks | 7 | 4 | 7 |
 | Central Kootenay Regional District | 6 | 2 | 6 |
 | Cranbrook | 6 | 2 | 6 |
@@ -4809,7 +4848,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Parksville | 2 | 2 | 1 |
 | Peace River North School District | 2 | 2 | 1 |
 | Port Edward | 2 | 1 | 2 |
-| Richmond School District | 2 | 1 | 2 |
 | Rocky Mountain School District | 2 | 2 | 1 |
 | Salmon Arm | 2 | 2 | 2 |
 | Sidney | 2 | 1 | 2 |
@@ -4859,10 +4897,10 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Port Moody | 1 | 1 | 1 |
 | Powell River | 1 | 1 | 1 |
 | Prince George | 1 | 1 | 1 |
+| Princeton | 1 | 1 | 1 |
 | Qualicum School District | 1 | 1 | 1 |
 | Quesnel School District | 1 | 1 | 1 |
 | Revelstoke | 1 | 1 | 1 |
-| Richmond | 1 | 1 | 1 |
 | Saanich School District | 1 | 1 | 1 |
 | Salmo | 1 | 1 | 1 |
 | Southeast Kootenay School District | 1 | 1 | 1 |
