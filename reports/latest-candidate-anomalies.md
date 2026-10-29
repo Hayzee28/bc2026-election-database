@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 32 observed/reconstructed source revisions. Times are UTC.
+Generated from 33 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -39,6 +39,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-24T18:09:27Z | 3539 | 251 | 19 | 0 | 0 | 0 | 6619aad5921a9895d0ce4545f9fee5b02bd4ca575dc339587f4d37dee1823422 |
 | 2026-10-26T19:19:33Z | 3539 | 251 | 0 | 0 | 0 | 0 | c2736be9e5f3e635bc91dc51cd9d92dfa260bb81bd142b55d48a9271a90ece09 |
 | 2026-10-28T21:04:51Z | 3537 | 251 | 0 | 2 | 0 | 13 | 94f4127211d12228f7759e542bc65d0438a64d0138f6c5c5ebca1bf21b47418a |
+| 2026-10-29T20:18:00Z | 3385 | 248 | 1 | 153 | 0 | 0 | c8f91716a703e485670fa90084ab2e88046b5986b1594d84c5be639171caa745 |
 
 ## Candidate observations
 
@@ -4785,45 +4786,2842 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Cary Moore — Chilliwack School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### David Swankey — Chilliwack School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Katie Bartel — Chilliwack School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Leah Kelley — Chilliwack School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Margaret Reid — Chilliwack School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Michael Carter — Chilliwack School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Willow Reichelt — Chilliwack School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Chelsea McCannel-Keene — Comox Valley School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kendall Packham — Comox Valley School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Shannon Aldinger — Comox Valley School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Blaire West — Coquitlam School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Candace Knoll — Coquitlam School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Christine Pollock — Coquitlam School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Chuck Denison — Coquitlam School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Craig Woods — Coquitlam School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jatinder Manhas — Coquitlam School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jessica Morrison — Coquitlam School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Tracy Green — Coquitlam School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Bert Schalekamp — Elkford (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Duncan McDonald — Elkford (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Dustin Murray — Elkford (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jason Meldrum — Elkford (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### John Baher — Elkford (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Len Gostick — Elkford (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Mandy McGregor — Elkford (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Josh Gawryluk — Fernie (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kathleen Dolan — Fernie (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Phil Iddon — Fernie (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Scott Tibballs — Fernie (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Ted Shoesmith — Fernie (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Tracey Audia Kelly — Fernie (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Harshan Ramadass — Fernie (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Brenda Gouglas — Fort St. James (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jana Gainor — Fort St. James (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jennifer Howell — Fort St. James (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Judith Friesen — Fort St. James (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Martin Elphee — Fort St. James (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Gord Klassen — Fort St. John (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jim Lequiere — Fort St. John (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kevin Stigners — Fort St. John (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Lucas Wuthrich — Fort St. John (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sarah MacDougall — Fort St. John (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Tony Zabinsky — Fort St. John (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Trevor Bolin — Fort St. John (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Andrea Hensen — Fraser Cascade School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Benita Hatt — Fraser Cascade School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Cathy Speth — Fraser Cascade School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Heather Stewin — Fraser Cascade School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Linda Kerr — Fraser Cascade School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Pattie Desjardins — Fraser Cascade School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Wendy Clark — Fraser Cascade School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Carmen Ranta — Gold Trail School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Connor Thomas — Gold Trail School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### John Roberge — Gold Trail School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jordan Lawrence — Gold Trail School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Larry Casper — Gold Trail School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Orra Storkan — Gold Trail School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Valerie Adrian — Gold Trail School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Clare Hoffman — Gulf Islands School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### John Whitelaw — Gulf Islands School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Tisha Boulter — Gulf Islands School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Landry Winkles — Harrison Hot Springs (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Michael Warn — Harrison Hot Springs (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Stewart Pritchard — Harrison Hot Springs (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Susan Galvao — Harrison Hot Springs (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Fred Talen — Harrison Hot Springs (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Drew Roots — Islands Trust (Islands Trust Local Trust Area Trustee)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Ankur Patel — Kitimat (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Gerry Leibel — Kitimat (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Graham Pitzel — Kitimat (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Louise Avery — Kitimat (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Mario Feldhoff — Kitimat (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Michelle Martins — Kitimat (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Philip Germuth — Kitimat (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Bradley Sperling — Peace River Regional District (Electoral Area Director)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Leonard Hiebert — Peace River Regional District (Electoral Area Director)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Maureen Ethier — Peace River Regional District (Electoral Area Director)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Reid Graham — Peace River Regional District (Electoral Area Director)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Barry Cunningham — Prince Rupert (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Aaron Orlando — Revelstoke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Austin Luciow — Revelstoke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Brenda Demone — Revelstoke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Lee Devlin — Revelstoke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Robyn Goldsmith — Revelstoke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sarah Erikson — Revelstoke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Andy Hobbs — Richmond (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Carol Day — Richmond (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Gary Law — Richmond (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kenny Chiu — Richmond (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kevin Lai — Richmond (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Laura Gillanders — Richmond (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Michael Wolfe — Richmond (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sheldon Starrett — Richmond (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Rob Howard — Richmond (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Andy Morel — Rossland (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Daniel Eheler — Rossland (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Mark Godin — Rossland (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Matthew Watkins — Rossland (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Maya Provencal — Rossland (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Lisa Kwiatkowski — Rossland (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### David Gonella — Salmon Arm (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Debbie Cannon — Salmon Arm (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Ian Gray — Salmon Arm (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kari Toliver Wilkinson — Salmon Arm (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Louise Wallace Richmond — Salmon Arm (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Scott Syme — Salmon Arm (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Alan Harrison — Salmon Arm (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Maureen Haslehurst — Sayward (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Michelle Davis — Sayward (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Niel MacDougall — Sayward (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### William Ives — Sayward (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jason Johnson — Sayward (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Carin Amber — shíshálh Nation Government District Advisory Council (Advisory Council Member)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Douglas Stewart — shíshálh Nation Government District Advisory Council (Advisory Council Member)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Miko Steele — shíshálh Nation Government District Advisory Council (Advisory Council Member)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Wes Irwin — shíshálh Nation Government District Advisory Council (Advisory Council Member)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Brendan Murray-Nellis — Slocan (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Dave Fredrickson — Slocan (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Delaine Hird — Slocan (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Katie Strong — Slocan (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jamie Ingram — Slocan (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Calvin Elliott — Smithers (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Frank Wray — Smithers (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Genevieve Paterson — Smithers (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Laura Leonard — Smithers (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sam Raven — Smithers (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Scott Marko — Smithers (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### John Buikema — Smithers (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Curtis Peterec — Sooke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Elliott Lifton — Sooke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Herb Haldane — Sooke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Janet Evans — Sooke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Katherine Strongwind — Sooke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Rob Pearce — Sooke (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kevin Pearson — Sooke (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Andrew Casson — Spallumcheen (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Christine LeMaire — Spallumcheen (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Gerry Popoff — Spallumcheen (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Joe Van Tienhoven — Spallumcheen (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### John Bakker — Spallumcheen (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Todd York — Spallumcheen (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Christine Fraser — Spallumcheen (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Roman Alexander — Stewart (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Brian Gillespie — Sun Peaks (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Dave Burnham — Sun Peaks (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Liz Wilkinson — Sun Peaks (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Robert O'Toole — Sun Peaks (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jason White — Sun Peaks (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Donna Hamilton — Valemount (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Rachel Fraser — Valemount (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Shanon Manahan — Valemount (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Zac Ruttiman — Valemount (Councillor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Owen Torgerson — Valemount (Mayor)
+
+Pattern: REMOVED; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Tyler Willis — Princeton (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-10-29T20:18:00Z
+
+**FACTS**
+
+- Elections BC revision at 2026-10-29T20:18:00Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 23.22 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
 |---|---:|---:|---:|
 | Delta | 22 | 4 | 13 |
 | Delta School District | 21 | 3 | 12 |
+| Richmond | 17 | 3 | 14 |
 | Golden | 14 | 2 | 7 |
 | Campbell River School District | 13 | 3 | 8 |
 | Vancouver | 12 | 5 | 11 |
+| Islands Trust | 11 | 4 | 7 |
 | Port Clements | 11 | 3 | 6 |
 | Radium Hot Springs | 11 | 3 | 5 |
+| Sooke | 11 | 2 | 11 |
 | Cache Creek | 10 | 2 | 5 |
 | Daajing Giids | 10 | 3 | 6 |
-| Islands Trust | 10 | 3 | 6 |
 | Ashcroft | 9 | 2 | 5 |
+| Fort St. John | 9 | 3 | 9 |
 | Granisle | 9 | 2 | 5 |
+| Salmon Arm | 9 | 3 | 8 |
 | Abbotsford | 8 | 2 | 7 |
+| Coquitlam School District | 8 | 1 | 8 |
+| Elkford | 8 | 2 | 8 |
 | Kent | 8 | 2 | 4 |
-| Richmond | 8 | 2 | 8 |
 | Richmond School District | 8 | 2 | 8 |
+| Chilliwack School District | 7 | 1 | 7 |
+| Comox Valley School District | 7 | 4 | 7 |
+| Fernie | 7 | 1 | 7 |
+| Fraser Cascade School District | 7 | 1 | 7 |
+| Gold Trail School District | 7 | 1 | 7 |
 | Grand Forks | 7 | 4 | 7 |
+| Kitimat | 7 | 1 | 7 |
+| Revelstoke | 7 | 2 | 7 |
+| Smithers | 7 | 1 | 7 |
+| Spallumcheen | 7 | 1 | 7 |
 | Central Kootenay Regional District | 6 | 2 | 6 |
 | Cranbrook | 6 | 2 | 6 |
+| Rossland | 6 | 1 | 6 |
 | Cariboo Chilcotin School District | 5 | 4 | 3 |
 | Comox Valley Regional District | 5 | 3 | 3 |
+| Fort St. James | 5 | 1 | 5 |
+| Harrison Hot Springs | 5 | 1 | 5 |
 | Lions Bay | 5 | 1 | 5 |
 | Prince George School District | 5 | 3 | 4 |
-| Comox Valley School District | 4 | 3 | 4 |
+| Sayward | 5 | 1 | 5 |
+| Slocan | 5 | 1 | 5 |
+| Sun Peaks | 5 | 1 | 5 |
+| Valemount | 5 | 1 | 5 |
 | East Kootenay Regional District | 4 | 2 | 2 |
 | Lillooet | 4 | 2 | 3 |
 | Pacific Rim School District | 4 | 3 | 4 |
-| Sooke | 4 | 1 | 4 |
+| Peace River Regional District | 4 | 1 | 4 |
 | Strathcona Regional District | 4 | 2 | 2 |
 | Whistler | 4 | 3 | 2 |
+| shíshálh Nation Government District Advisory Council | 4 | 1 | 4 |
 | Abbotsford School District | 3 | 1 | 3 |
 | Alberni-Clayoquot Regional District | 3 | 3 | 3 |
 | Campbell River | 3 | 2 | 2 |
 | Columbia Shuswap Regional District | 3 | 2 | 3 |
 | Cowichan Valley Regional District | 3 | 3 | 2 |
+| Gulf Islands School District | 3 | 1 | 3 |
 | Stikine School District | 3 | 2 | 3 |
 | Telkwa | 3 | 2 | 3 |
 | Terrace | 3 | 2 | 3 |
@@ -4835,7 +7633,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Central Okanagan School District | 2 | 2 | 2 |
 | Comox | 2 | 1 | 1 |
 | Esquimalt | 2 | 2 | 2 |
-| Fort St. John | 2 | 2 | 2 |
 | Gibsons | 2 | 2 | 1 |
 | Highlands | 2 | 1 | 2 |
 | Lake Country | 2 | 2 | 2 |
@@ -4848,8 +7645,8 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Parksville | 2 | 2 | 1 |
 | Peace River North School District | 2 | 2 | 1 |
 | Port Edward | 2 | 1 | 2 |
+| Princeton | 2 | 2 | 1 |
 | Rocky Mountain School District | 2 | 2 | 1 |
-| Salmon Arm | 2 | 2 | 2 |
 | Sidney | 2 | 1 | 2 |
 | Surrey | 2 | 2 | 2 |
 | Ucluelet | 2 | 2 | 2 |
@@ -4868,7 +7665,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Conseil Scolaire Francophone School District | 1 | 1 | 1 |
 | Courtenay | 1 | 1 | 1 |
 | Cultus Lake Park Board | 1 | 1 | 1 |
-| Elkford | 1 | 1 | 1 |
 | Fort Nelson School District | 1 | 1 | 1 |
 | Fraser Lake | 1 | 1 | 1 |
 | Gold River | 1 | 1 | 1 |
@@ -4897,15 +7693,15 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Port Moody | 1 | 1 | 1 |
 | Powell River | 1 | 1 | 1 |
 | Prince George | 1 | 1 | 1 |
-| Princeton | 1 | 1 | 1 |
+| Prince Rupert | 1 | 1 | 1 |
 | Qualicum School District | 1 | 1 | 1 |
 | Quesnel School District | 1 | 1 | 1 |
-| Revelstoke | 1 | 1 | 1 |
 | Saanich School District | 1 | 1 | 1 |
 | Salmo | 1 | 1 | 1 |
 | Southeast Kootenay School District | 1 | 1 | 1 |
 | Squamish | 1 | 1 | 1 |
 | Squamish-Lillooet Regional District | 1 | 1 | 1 |
+| Stewart | 1 | 1 | 1 |
 | Summerland | 1 | 1 | 1 |
 | Surrey School District | 1 | 1 | 1 |
 | Taylor | 1 | 1 | 1 |
