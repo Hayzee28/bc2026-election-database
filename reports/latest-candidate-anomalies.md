@@ -1616,7 +1616,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Brian James McHattie — Sooke (Councillor)
+### Kyra Juliana Lazzar — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -1635,7 +1635,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Kyra Juliana Lazzar — Sooke (Councillor)
+### Brian James McHattie — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
