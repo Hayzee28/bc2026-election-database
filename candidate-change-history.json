@@ -5088,5 +5088,2247 @@
     ],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-10-30T18:37:50Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "e18f6120282c401587be8e541af2070e36bd0f66f1fa5ebc3a29f759b7d906f9",
+    "previousSourceSha256": "c8f91716a703e485670fa90084ab2e88046b5986b1594d84c5be639171caa745",
+    "pageCount": 182,
+    "jurisdictionCount": 249,
+    "previousCandidateCount": 3385,
+    "candidateCount": 3263,
+    "netCandidateDelta": -122,
+    "added": [
+      {
+        "jurisdiction": "Chilliwack School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Cary Moore",
+        "affiliation": "",
+        "financialAgent": "Cary Moore",
+        "sourcePage": 27
+      },
+      {
+        "jurisdiction": "Chilliwack School District",
+        "office": "Board of Education Trustee",
+        "candidate": "David Swankey",
+        "affiliation": "",
+        "financialAgent": "David Swankey",
+        "sourcePage": 27
+      },
+      {
+        "jurisdiction": "Chilliwack School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Katie Bartel",
+        "affiliation": "",
+        "financialAgent": "Katie Bartel",
+        "sourcePage": 26
+      },
+      {
+        "jurisdiction": "Chilliwack School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Leah Kelley",
+        "affiliation": "",
+        "financialAgent": "Michelle Kelley",
+        "sourcePage": 27
+      },
+      {
+        "jurisdiction": "Chilliwack School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Margaret Reid",
+        "affiliation": "",
+        "financialAgent": "Margaret Reid",
+        "sourcePage": 27
+      },
+      {
+        "jurisdiction": "Chilliwack School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Michael Carter",
+        "affiliation": "",
+        "financialAgent": "Michael Carter",
+        "sourcePage": 26
+      },
+      {
+        "jurisdiction": "Chilliwack School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Willow Reichelt",
+        "affiliation": "",
+        "financialAgent": "Willow Reichelt",
+        "sourcePage": 27
+      },
+      {
+        "jurisdiction": "Comox Valley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Chelsea McCannel-Keene",
+        "affiliation": "",
+        "financialAgent": "Chelsea McCannel-Keene",
+        "sourcePage": 32
+      },
+      {
+        "jurisdiction": "Comox Valley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kendall Packham",
+        "affiliation": "",
+        "financialAgent": "Kendall Packham",
+        "sourcePage": 32
+      },
+      {
+        "jurisdiction": "Comox Valley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Shannon Aldinger",
+        "affiliation": "",
+        "financialAgent": "Shannon Aldinger",
+        "sourcePage": 32
+      },
+      {
+        "jurisdiction": "Coquitlam School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Blaire West",
+        "affiliation": "",
+        "financialAgent": "Blaire West",
+        "sourcePage": 36
+      },
+      {
+        "jurisdiction": "Coquitlam School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Candace Knoll",
+        "affiliation": "",
+        "financialAgent": "Jesse Knoll",
+        "sourcePage": 35
+      },
+      {
+        "jurisdiction": "Coquitlam School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Christine Pollock",
+        "affiliation": "",
+        "financialAgent": "Valerie Bolzan",
+        "sourcePage": 35
+      },
+      {
+        "jurisdiction": "Coquitlam School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Chuck Denison",
+        "affiliation": "",
+        "financialAgent": "Joyce Buckham",
+        "sourcePage": 35
+      },
+      {
+        "jurisdiction": "Coquitlam School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Craig Woods",
+        "affiliation": "",
+        "financialAgent": "Craig Woods",
+        "sourcePage": 36
+      },
+      {
+        "jurisdiction": "Coquitlam School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jatinder Manhas",
+        "affiliation": "",
+        "financialAgent": "Jamie Manchester",
+        "sourcePage": 35
+      },
+      {
+        "jurisdiction": "Coquitlam School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jessica Morrison",
+        "affiliation": "",
+        "financialAgent": "Jessica Morrison",
+        "sourcePage": 35
+      },
+      {
+        "jurisdiction": "Coquitlam School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Tracy Green",
+        "affiliation": "",
+        "financialAgent": "Tracy Green",
+        "sourcePage": 35
+      },
+      {
+        "jurisdiction": "Elkford",
+        "office": "Councillor",
+        "candidate": "Bert Schalekamp",
+        "affiliation": "",
+        "financialAgent": "Bert Schalekamp",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "Elkford",
+        "office": "Councillor",
+        "candidate": "Duncan McDonald",
+        "affiliation": "",
+        "financialAgent": "Duncan McDonald",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "Elkford",
+        "office": "Councillor",
+        "candidate": "Dustin Murray",
+        "affiliation": "",
+        "financialAgent": "Dustin Murray",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "Elkford",
+        "office": "Councillor",
+        "candidate": "Jason Meldrum",
+        "affiliation": "",
+        "financialAgent": "Jason Meldrum",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "Elkford",
+        "office": "Councillor",
+        "candidate": "John Baher",
+        "affiliation": "",
+        "financialAgent": "John Baher",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "Elkford",
+        "office": "Councillor",
+        "candidate": "Len Gostick",
+        "affiliation": "",
+        "financialAgent": "Len Gostick",
+        "sourcePage": 46
+      },
+      {
+        "jurisdiction": "Elkford",
+        "office": "Mayor",
+        "candidate": "Mandy McGregor",
+        "affiliation": "",
+        "financialAgent": "Mandy McGregor",
+        "sourcePage": 47
+      },
+      {
+        "jurisdiction": "Fernie",
+        "office": "Councillor",
+        "candidate": "Josh Gawryluk",
+        "affiliation": "",
+        "financialAgent": "Josh Gawryluk",
+        "sourcePage": 48
+      },
+      {
+        "jurisdiction": "Fernie",
+        "office": "Councillor",
+        "candidate": "Kathleen Dolan",
+        "affiliation": "",
+        "financialAgent": "Joshua Moscoe",
+        "sourcePage": 48
+      },
+      {
+        "jurisdiction": "Fernie",
+        "office": "Councillor",
+        "candidate": "Phil Iddon",
+        "affiliation": "",
+        "financialAgent": "Phil Iddon",
+        "sourcePage": 48
+      },
+      {
+        "jurisdiction": "Fernie",
+        "office": "Councillor",
+        "candidate": "Scott Tibballs",
+        "affiliation": "",
+        "financialAgent": "Scott Tibballs",
+        "sourcePage": 49
+      },
+      {
+        "jurisdiction": "Fernie",
+        "office": "Councillor",
+        "candidate": "Ted Shoesmith",
+        "affiliation": "",
+        "financialAgent": "Ted Shoesmith",
+        "sourcePage": 48
+      },
+      {
+        "jurisdiction": "Fernie",
+        "office": "Councillor",
+        "candidate": "Tracey Audia Kelly",
+        "affiliation": "",
+        "financialAgent": "Tracey Audia Kelly",
+        "sourcePage": 48
+      },
+      {
+        "jurisdiction": "Fernie",
+        "office": "Mayor",
+        "candidate": "Harshan Ramadass",
+        "affiliation": "",
+        "financialAgent": "Pruthvi Harshan",
+        "sourcePage": 49
+      },
+      {
+        "jurisdiction": "Fort St. James",
+        "office": "Councillor",
+        "candidate": "Brenda Gouglas",
+        "affiliation": "",
+        "financialAgent": "Brenda Gouglas",
+        "sourcePage": 49
+      },
+      {
+        "jurisdiction": "Fort St. James",
+        "office": "Councillor",
+        "candidate": "Jana Gainor",
+        "affiliation": "",
+        "financialAgent": "Jana Gainor",
+        "sourcePage": 49
+      },
+      {
+        "jurisdiction": "Fort St. James",
+        "office": "Councillor",
+        "candidate": "Jennifer Howell",
+        "affiliation": "",
+        "financialAgent": "Jennifer Howell",
+        "sourcePage": 49
+      },
+      {
+        "jurisdiction": "Fort St. James",
+        "office": "Councillor",
+        "candidate": "Judith Friesen",
+        "affiliation": "",
+        "financialAgent": "Judith Friesen",
+        "sourcePage": 49
+      },
+      {
+        "jurisdiction": "Fort St. James",
+        "office": "Mayor",
+        "candidate": "Martin Elphee",
+        "affiliation": "",
+        "financialAgent": "Martin Elphee",
+        "sourcePage": 50
+      },
+      {
+        "jurisdiction": "Fort St. John",
+        "office": "Councillor",
+        "candidate": "Gord Klassen",
+        "affiliation": "",
+        "financialAgent": "Gord Klassen",
+        "sourcePage": 50
+      },
+      {
+        "jurisdiction": "Fort St. John",
+        "office": "Councillor",
+        "candidate": "Jim Lequiere",
+        "affiliation": "",
+        "financialAgent": "Jim Lequiere",
+        "sourcePage": 50
+      },
+      {
+        "jurisdiction": "Fort St. John",
+        "office": "Councillor",
+        "candidate": "Kevin Stigners",
+        "affiliation": "",
+        "financialAgent": "Kevin Stigners",
+        "sourcePage": 50
+      },
+      {
+        "jurisdiction": "Fort St. John",
+        "office": "Councillor",
+        "candidate": "Lucas Wuthrich",
+        "affiliation": "",
+        "financialAgent": "Lucas Wuthrich",
+        "sourcePage": 50
+      },
+      {
+        "jurisdiction": "Fort St. John",
+        "office": "Councillor",
+        "candidate": "Sarah MacDougall",
+        "affiliation": "",
+        "financialAgent": "Sarah MacDougall",
+        "sourcePage": 50
+      },
+      {
+        "jurisdiction": "Fort St. John",
+        "office": "Councillor",
+        "candidate": "Tony Zabinsky",
+        "affiliation": "",
+        "financialAgent": "Tony Zabinsky",
+        "sourcePage": 50
+      },
+      {
+        "jurisdiction": "Fort St. John",
+        "office": "Mayor",
+        "candidate": "Trevor Bolin",
+        "affiliation": "",
+        "financialAgent": "Trevor Bolin",
+        "sourcePage": 50
+      },
+      {
+        "jurisdiction": "Fraser Cascade School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Andrea Hensen",
+        "affiliation": "",
+        "financialAgent": "Andrea Hensen",
+        "sourcePage": 51
+      },
+      {
+        "jurisdiction": "Fraser Cascade School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Benita Hatt",
+        "affiliation": "",
+        "financialAgent": "Benita Hatt",
+        "sourcePage": 51
+      },
+      {
+        "jurisdiction": "Fraser Cascade School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Heather Stewin",
+        "affiliation": "",
+        "financialAgent": "Heather Stewin",
+        "sourcePage": 51
+      },
+      {
+        "jurisdiction": "Fraser Cascade School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Linda Kerr",
+        "affiliation": "",
+        "financialAgent": "Linda Kerr",
+        "sourcePage": 51
+      },
+      {
+        "jurisdiction": "Fraser Cascade School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Pattie Desjardins",
+        "affiliation": "",
+        "financialAgent": "Pattie Desjardins",
+        "sourcePage": 50
+      },
+      {
+        "jurisdiction": "Fraser Cascade School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Wendy Clark",
+        "affiliation": "",
+        "financialAgent": "Wendy Clark",
+        "sourcePage": 50
+      },
+      {
+        "jurisdiction": "Gold Trail School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Carmen Ranta",
+        "affiliation": "",
+        "financialAgent": "Carmen Ranta",
+        "sourcePage": 55
+      },
+      {
+        "jurisdiction": "Gold Trail School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Connor Thomas",
+        "affiliation": "",
+        "financialAgent": "Connor Thomas",
+        "sourcePage": 55
+      },
+      {
+        "jurisdiction": "Gold Trail School District",
+        "office": "Board of Education Trustee",
+        "candidate": "John Roberge",
+        "affiliation": "",
+        "financialAgent": "John Roberge",
+        "sourcePage": 55
+      },
+      {
+        "jurisdiction": "Gold Trail School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jordan Lawrence",
+        "affiliation": "",
+        "financialAgent": "Jordan Lawrence",
+        "sourcePage": 55
+      },
+      {
+        "jurisdiction": "Gold Trail School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Larry Casper",
+        "affiliation": "",
+        "financialAgent": "Larry Casper",
+        "sourcePage": 55
+      },
+      {
+        "jurisdiction": "Gold Trail School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Orra Storkan",
+        "affiliation": "",
+        "financialAgent": "Orra Storkan",
+        "sourcePage": 55
+      },
+      {
+        "jurisdiction": "Gold Trail School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Valerie Adrian",
+        "affiliation": "",
+        "financialAgent": "Florence Jack",
+        "sourcePage": 55
+      },
+      {
+        "jurisdiction": "Gulf Islands School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Clare Hoffman",
+        "affiliation": "",
+        "financialAgent": "Clare Hoffman",
+        "sourcePage": 59
+      },
+      {
+        "jurisdiction": "Gulf Islands School District",
+        "office": "Board of Education Trustee",
+        "candidate": "John Whitelaw",
+        "affiliation": "",
+        "financialAgent": "John Whitelaw",
+        "sourcePage": 60
+      },
+      {
+        "jurisdiction": "Gulf Islands School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Tisha Boulter",
+        "affiliation": "",
+        "financialAgent": "Tisha Boulter",
+        "sourcePage": 59
+      },
+      {
+        "jurisdiction": "Harrison Hot Springs",
+        "office": "Councillor",
+        "candidate": "Landry Winkles",
+        "affiliation": "",
+        "financialAgent": "Landry Winkles",
+        "sourcePage": 61
+      },
+      {
+        "jurisdiction": "Harrison Hot Springs",
+        "office": "Councillor",
+        "candidate": "Michael Warn",
+        "affiliation": "",
+        "financialAgent": "Michael Warn",
+        "sourcePage": 61
+      },
+      {
+        "jurisdiction": "Harrison Hot Springs",
+        "office": "Councillor",
+        "candidate": "Stewart Pritchard",
+        "affiliation": "",
+        "financialAgent": "Stewart Pritchard",
+        "sourcePage": 61
+      },
+      {
+        "jurisdiction": "Harrison Hot Springs",
+        "office": "Councillor",
+        "candidate": "Susan Galvao",
+        "affiliation": "",
+        "financialAgent": "Susan Galvao",
+        "sourcePage": 61
+      },
+      {
+        "jurisdiction": "Harrison Hot Springs",
+        "office": "Mayor",
+        "candidate": "Fred Talen",
+        "affiliation": "",
+        "financialAgent": "Fred Talen",
+        "sourcePage": 61
+      },
+      {
+        "jurisdiction": "Islands Trust",
+        "office": "Islands Trust Local Trust Area Trustee",
+        "candidate": "Drew Roots",
+        "affiliation": "",
+        "financialAgent": "Drew Roots",
+        "sourcePage": 67
+      },
+      {
+        "jurisdiction": "Kitimat",
+        "office": "Councillor",
+        "candidate": "Ankur Patel",
+        "affiliation": "",
+        "financialAgent": "Ankur Patel",
+        "sourcePage": 75
+      },
+      {
+        "jurisdiction": "Kitimat",
+        "office": "Councillor",
+        "candidate": "Gerry Leibel",
+        "affiliation": "",
+        "financialAgent": "Gerry Leibel",
+        "sourcePage": 75
+      },
+      {
+        "jurisdiction": "Kitimat",
+        "office": "Councillor",
+        "candidate": "Graham Pitzel",
+        "affiliation": "",
+        "financialAgent": "Graham Pitzel",
+        "sourcePage": 76
+      },
+      {
+        "jurisdiction": "Kitimat",
+        "office": "Councillor",
+        "candidate": "Louise Avery",
+        "affiliation": "",
+        "financialAgent": "Louise Avery",
+        "sourcePage": 75
+      },
+      {
+        "jurisdiction": "Kitimat",
+        "office": "Councillor",
+        "candidate": "Mario Feldhoff",
+        "affiliation": "",
+        "financialAgent": "Mario Feldhoff",
+        "sourcePage": 75
+      },
+      {
+        "jurisdiction": "Kitimat",
+        "office": "Councillor",
+        "candidate": "Michelle Martins",
+        "affiliation": "",
+        "financialAgent": "Michelle Martins",
+        "sourcePage": 75
+      },
+      {
+        "jurisdiction": "Kitimat",
+        "office": "Mayor",
+        "candidate": "Philip Germuth",
+        "affiliation": "",
+        "financialAgent": "Philip Germuth",
+        "sourcePage": 76
+      },
+      {
+        "jurisdiction": "Valemount",
+        "office": "Councillor",
+        "candidate": "Donna Hamilton",
+        "affiliation": "",
+        "financialAgent": "Donna Hamilton",
+        "sourcePage": 163
+      },
+      {
+        "jurisdiction": "Valemount",
+        "office": "Councillor",
+        "candidate": "Rachel Fraser",
+        "affiliation": "",
+        "financialAgent": "Rachel Fraser",
+        "sourcePage": 163
+      },
+      {
+        "jurisdiction": "Valemount",
+        "office": "Councillor",
+        "candidate": "Shanon Manahan",
+        "affiliation": "",
+        "financialAgent": "Shanon Manahan",
+        "sourcePage": 164
+      },
+      {
+        "jurisdiction": "Valemount",
+        "office": "Councillor",
+        "candidate": "Zac Ruttiman",
+        "affiliation": "",
+        "financialAgent": "Zac Ruttiman",
+        "sourcePage": 164
+      },
+      {
+        "jurisdiction": "Valemount",
+        "office": "Mayor",
+        "candidate": "Owen Torgerson",
+        "affiliation": "",
+        "financialAgent": "Owen Torgerson",
+        "sourcePage": 164
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Abbotsford School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Arsh Kaler",
+        "affiliation": "",
+        "financialAgent": "Rajan Buttar",
+        "sourcePage": 3
+      },
+      {
+        "jurisdiction": "Abbotsford School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Eric Nyvall",
+        "affiliation": "Abbotsford Conservatives",
+        "financialAgent": "Eric Nyvall",
+        "sourcePage": 3
+      },
+      {
+        "jurisdiction": "Abbotsford School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Freddy Latham",
+        "affiliation": "",
+        "financialAgent": "Freddy Latham",
+        "sourcePage": 3
+      },
+      {
+        "jurisdiction": "Abbotsford School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Mike Rauch",
+        "affiliation": "",
+        "financialAgent": "Winsome Rauch",
+        "sourcePage": 4
+      },
+      {
+        "jurisdiction": "Abbotsford School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Rhonda Pauls",
+        "affiliation": "",
+        "financialAgent": "Christine Rempel",
+        "sourcePage": 3
+      },
+      {
+        "jurisdiction": "Abbotsford School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Shannon Rose",
+        "affiliation": "",
+        "financialAgent": "Shannon Rose",
+        "sourcePage": 4
+      },
+      {
+        "jurisdiction": "Abbotsford School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Tanya Coghill",
+        "affiliation": "",
+        "financialAgent": "Tanya Coghill",
+        "sourcePage": 3
+      },
+      {
+        "jurisdiction": "Boundary School District",
+        "office": "Board of Education Trustee",
+        "candidate": "James Wilson",
+        "affiliation": "",
+        "financialAgent": "James Wilson",
+        "sourcePage": 9
+      },
+      {
+        "jurisdiction": "Boundary School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Katie Jepsen",
+        "affiliation": "",
+        "financialAgent": "Katie Jepsen",
+        "sourcePage": 8
+      },
+      {
+        "jurisdiction": "Boundary School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Liddie Sorensen-Lawrence",
+        "affiliation": "",
+        "financialAgent": "Liddie Sorensen-Lawrence",
+        "sourcePage": 9
+      },
+      {
+        "jurisdiction": "Burnaby School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Bill Brassington",
+        "affiliation": "BCA - Burnaby Citizens Association",
+        "financialAgent": "Chi Fai (Chris) Wong",
+        "sourcePage": 14
+      },
+      {
+        "jurisdiction": "Burnaby School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Colin Zuo",
+        "affiliation": "BCA - Burnaby Citizens Association",
+        "financialAgent": "Chi Fai (Chris) Wong",
+        "sourcePage": 15
+      },
+      {
+        "jurisdiction": "Burnaby School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Hillary Bergshoeff",
+        "affiliation": "BCA - Burnaby Citizens Association",
+        "financialAgent": "Chi Fai (Chris) Wong",
+        "sourcePage": 14
+      },
+      {
+        "jurisdiction": "Burnaby School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jen Mezei",
+        "affiliation": "BCA - Burnaby Citizens Association",
+        "financialAgent": "Chi Fai (Chris) Wong",
+        "sourcePage": 14
+      },
+      {
+        "jurisdiction": "Burnaby School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kristin Schnider",
+        "affiliation": "BCA - Burnaby Citizens Association",
+        "financialAgent": "Chi Fai (Chris) Wong",
+        "sourcePage": 14
+      },
+      {
+        "jurisdiction": "Burnaby School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Paul Kwon",
+        "affiliation": "BCA - Burnaby Citizens Association",
+        "financialAgent": "Chi Fai (Chris) Wong",
+        "sourcePage": 14
+      },
+      {
+        "jurisdiction": "Burnaby School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Stephen Andrada",
+        "affiliation": "BCA - Burnaby Citizens Association",
+        "financialAgent": "Chi Fai (Chris) Wong",
+        "sourcePage": 14
+      },
+      {
+        "jurisdiction": "Kwsaltktnews ne Secwepemcul'ecw School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Claire Askew",
+        "affiliation": "",
+        "financialAgent": "Claire Askew",
+        "sourcePage": 75
+      },
+      {
+        "jurisdiction": "Kwsaltktnews ne Secwepemcul'ecw School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Melissa Parmenter",
+        "affiliation": "",
+        "financialAgent": "Melissa Parmenter",
+        "sourcePage": 75
+      },
+      {
+        "jurisdiction": "Lake Country",
+        "office": "Councillor",
+        "candidate": "Bib Patel",
+        "affiliation": "",
+        "financialAgent": "Bib Patel",
+        "sourcePage": 77
+      },
+      {
+        "jurisdiction": "Lake Country",
+        "office": "Councillor",
+        "candidate": "Heather Irvine",
+        "affiliation": "",
+        "financialAgent": "Heather Irvine",
+        "sourcePage": 76
+      },
+      {
+        "jurisdiction": "Lake Country",
+        "office": "Councillor",
+        "candidate": "Ian Scromeda",
+        "affiliation": "",
+        "financialAgent": "Ian Scromeda",
+        "sourcePage": 77
+      },
+      {
+        "jurisdiction": "Lake Country",
+        "office": "Councillor",
+        "candidate": "Michael Lewis",
+        "affiliation": "",
+        "financialAgent": "Georgilynn Lewis",
+        "sourcePage": 76
+      },
+      {
+        "jurisdiction": "Lake Country",
+        "office": "Councillor",
+        "candidate": "Todd McKenzie",
+        "affiliation": "",
+        "financialAgent": "Todd McKenzie",
+        "sourcePage": 76
+      },
+      {
+        "jurisdiction": "Lake Country",
+        "office": "Councillor",
+        "candidate": "Tricia Brett",
+        "affiliation": "",
+        "financialAgent": "Brett Kelly",
+        "sourcePage": 76
+      },
+      {
+        "jurisdiction": "Lake Country",
+        "office": "Mayor",
+        "candidate": "MaryEllen Buhler",
+        "affiliation": "",
+        "financialAgent": "MaryEllen Buhler",
+        "sourcePage": 77
+      },
+      {
+        "jurisdiction": "Lake Cowichan",
+        "office": "Councillor",
+        "candidate": "Aaron Frisby",
+        "affiliation": "",
+        "financialAgent": "Aaron Frisby",
+        "sourcePage": 77
+      },
+      {
+        "jurisdiction": "Lake Cowichan",
+        "office": "Councillor",
+        "candidate": "Dale Plante",
+        "affiliation": "",
+        "financialAgent": "Dale Plante",
+        "sourcePage": 77
+      },
+      {
+        "jurisdiction": "Lake Cowichan",
+        "office": "Councillor",
+        "candidate": "Kristine Sandhu",
+        "affiliation": "",
+        "financialAgent": "Kristine Sandhu",
+        "sourcePage": 77
+      },
+      {
+        "jurisdiction": "Lake Cowichan",
+        "office": "Councillor",
+        "candidate": "Lorna Vomacka",
+        "affiliation": "",
+        "financialAgent": "Lorna Vomacka",
+        "sourcePage": 77
+      },
+      {
+        "jurisdiction": "Lake Cowichan",
+        "office": "Mayor",
+        "candidate": "Tim R.L. McGonigle",
+        "affiliation": "",
+        "financialAgent": "Tim R.L. McGonigle",
+        "sourcePage": 77
+      },
+      {
+        "jurisdiction": "Langley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Candy Ashdown",
+        "affiliation": "Langley Strong",
+        "financialAgent": "Dallas Froese",
+        "sourcePage": 78
+      },
+      {
+        "jurisdiction": "Langley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Celene Hoag",
+        "affiliation": "",
+        "financialAgent": "Celene Hoag",
+        "sourcePage": 79
+      },
+      {
+        "jurisdiction": "Langley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Charlie Fox",
+        "affiliation": "Langley Strong",
+        "financialAgent": "Dallas Froese",
+        "sourcePage": 79
+      },
+      {
+        "jurisdiction": "Langley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Holly Dickinson",
+        "affiliation": "Langley Strong",
+        "financialAgent": "Dallas Froese",
+        "sourcePage": 79
+      },
+      {
+        "jurisdiction": "Langley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kathie Dalziel",
+        "affiliation": "Langley Strong",
+        "financialAgent": "Dallas Froese",
+        "sourcePage": 79
+      },
+      {
+        "jurisdiction": "Langley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Neil Turner",
+        "affiliation": "Langley Strong",
+        "financialAgent": "Dallas Froese",
+        "sourcePage": 79
+      },
+      {
+        "jurisdiction": "Langley School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Tony Ward",
+        "affiliation": "Langley Strong",
+        "financialAgent": "Dallas Froese",
+        "sourcePage": 79
+      },
+      {
+        "jurisdiction": "Langley, City of",
+        "office": "Councillor",
+        "candidate": "Andrew Flitton",
+        "affiliation": "Achieving for Langley City",
+        "financialAgent": "Andrew Flitton",
+        "sourcePage": 80
+      },
+      {
+        "jurisdiction": "Langley, City of",
+        "office": "Councillor",
+        "candidate": "Heather Jenkins",
+        "affiliation": "Langley City First",
+        "financialAgent": "Albert Chen",
+        "sourcePage": 80
+      },
+      {
+        "jurisdiction": "Langley, City of",
+        "office": "Councillor",
+        "candidate": "Michael Hylands",
+        "affiliation": "Achieving for Langley City",
+        "financialAgent": "Michael Hylands",
+        "sourcePage": 80
+      },
+      {
+        "jurisdiction": "Langley, City of",
+        "office": "Councillor",
+        "candidate": "Rick Orlando",
+        "affiliation": "Achieving for Langley City",
+        "financialAgent": "Rick Orlando",
+        "sourcePage": 80
+      },
+      {
+        "jurisdiction": "Langley, City of",
+        "office": "Councillor",
+        "candidate": "Scott Thompson",
+        "affiliation": "Achieving for Langley City",
+        "financialAgent": "Scott Thompson",
+        "sourcePage": 80
+      },
+      {
+        "jurisdiction": "Langley, City of",
+        "office": "Councillor",
+        "candidate": "Simi Rajput",
+        "affiliation": "Achieving for Langley City",
+        "financialAgent": "Simi Rajput",
+        "sourcePage": 80
+      },
+      {
+        "jurisdiction": "Langley, City of",
+        "office": "Mayor",
+        "candidate": "Delaney Mack",
+        "affiliation": "Achieving for Langley City",
+        "financialAgent": "Delaney Mack",
+        "sourcePage": 80
+      },
+      {
+        "jurisdiction": "Lillooet",
+        "office": "Councillor",
+        "candidate": "Jonah Timms",
+        "affiliation": "",
+        "financialAgent": "Elizabeth Juras",
+        "sourcePage": 83
+      },
+      {
+        "jurisdiction": "Lillooet",
+        "office": "Councillor",
+        "candidate": "Kevin Aitken",
+        "affiliation": "",
+        "financialAgent": "Kevin Aitken",
+        "sourcePage": 82
+      },
+      {
+        "jurisdiction": "Lillooet",
+        "office": "Councillor",
+        "candidate": "Patti Flann",
+        "affiliation": "",
+        "financialAgent": "Patti Flann",
+        "sourcePage": 82
+      },
+      {
+        "jurisdiction": "Lillooet",
+        "office": "Councillor",
+        "candidate": "Randy McNary",
+        "affiliation": "",
+        "financialAgent": "Randy McNary",
+        "sourcePage": 82
+      },
+      {
+        "jurisdiction": "Maple Ridge",
+        "office": "Councillor",
+        "candidate": "Andrew Laity",
+        "affiliation": "",
+        "financialAgent": "Andrew Laity",
+        "sourcePage": 86
+      },
+      {
+        "jurisdiction": "Maple Ridge",
+        "office": "Councillor",
+        "candidate": "Bob D'Eith",
+        "affiliation": "A Better Maple Ridge",
+        "financialAgent": "Bob D'Eith",
+        "sourcePage": 85
+      },
+      {
+        "jurisdiction": "Maple Ridge",
+        "office": "Councillor",
+        "candidate": "Chelsa Meadus",
+        "affiliation": "",
+        "financialAgent": "Chelsa Meadus",
+        "sourcePage": 86
+      },
+      {
+        "jurisdiction": "Maple Ridge",
+        "office": "Councillor",
+        "candidate": "Judy Dueck",
+        "affiliation": "",
+        "financialAgent": "Judy Dueck",
+        "sourcePage": 85
+      },
+      {
+        "jurisdiction": "Maple Ridge",
+        "office": "Councillor",
+        "candidate": "Korleen Carreras",
+        "affiliation": "A Better Maple Ridge",
+        "financialAgent": "Korleen Carreras",
+        "sourcePage": 85
+      },
+      {
+        "jurisdiction": "Maple Ridge",
+        "office": "Councillor",
+        "candidate": "Mike Morden",
+        "affiliation": "",
+        "financialAgent": "Mike Morden",
+        "sourcePage": 86
+      },
+      {
+        "jurisdiction": "Maple Ridge",
+        "office": "Mayor",
+        "candidate": "Jerry Kok",
+        "affiliation": "",
+        "financialAgent": "Jerry Kok",
+        "sourcePage": 86
+      },
+      {
+        "jurisdiction": "Masset",
+        "office": "Councillor",
+        "candidate": "Bret Johnston",
+        "affiliation": "",
+        "financialAgent": "Bret Johnston",
+        "sourcePage": 87
+      },
+      {
+        "jurisdiction": "Masset",
+        "office": "Councillor",
+        "candidate": "Jim Currie",
+        "affiliation": "",
+        "financialAgent": "Jim Currie",
+        "sourcePage": 87
+      },
+      {
+        "jurisdiction": "Masset",
+        "office": "Councillor",
+        "candidate": "Kate Stichbury",
+        "affiliation": "",
+        "financialAgent": "Kate Stichbury",
+        "sourcePage": 88
+      },
+      {
+        "jurisdiction": "Masset",
+        "office": "Councillor",
+        "candidate": "Robert Morton",
+        "affiliation": "",
+        "financialAgent": "Robert Morton",
+        "sourcePage": 88
+      },
+      {
+        "jurisdiction": "Masset",
+        "office": "Mayor",
+        "candidate": "Barry Pages",
+        "affiliation": "",
+        "financialAgent": "Barry Pages",
+        "sourcePage": 88
+      },
+      {
+        "jurisdiction": "McBride",
+        "office": "Councillor",
+        "candidate": "Glen Frear",
+        "affiliation": "",
+        "financialAgent": "Glen Frear",
+        "sourcePage": 88
+      },
+      {
+        "jurisdiction": "Merritt",
+        "office": "Councillor",
+        "candidate": "Adam Etchart",
+        "affiliation": "",
+        "financialAgent": "Adam Etchart",
+        "sourcePage": 89
+      },
+      {
+        "jurisdiction": "Merritt",
+        "office": "Councillor",
+        "candidate": "Dana Egan",
+        "affiliation": "",
+        "financialAgent": "Dana Egan",
+        "sourcePage": 89
+      },
+      {
+        "jurisdiction": "Merritt",
+        "office": "Councillor",
+        "candidate": "Manuel Olguin",
+        "affiliation": "",
+        "financialAgent": "Manuel Olguin",
+        "sourcePage": 89
+      },
+      {
+        "jurisdiction": "Merritt",
+        "office": "Councillor",
+        "candidate": "Paul Petroczi",
+        "affiliation": "",
+        "financialAgent": "Paul Petroczi",
+        "sourcePage": 89
+      },
+      {
+        "jurisdiction": "Merritt",
+        "office": "Councillor",
+        "candidate": "Wendy Charney",
+        "affiliation": "",
+        "financialAgent": "Wendy Charney",
+        "sourcePage": 89
+      },
+      {
+        "jurisdiction": "Merritt",
+        "office": "Councillor",
+        "candidate": "Yvette Baxter",
+        "affiliation": "",
+        "financialAgent": "Yvette Baxter",
+        "sourcePage": 89
+      },
+      {
+        "jurisdiction": "Merritt",
+        "office": "Mayor",
+        "candidate": "Michael Goetz",
+        "affiliation": "",
+        "financialAgent": "Michael Goetz",
+        "sourcePage": 89
+      },
+      {
+        "jurisdiction": "Montrose",
+        "office": "Councillor",
+        "candidate": "Bill Thatcher",
+        "affiliation": "",
+        "financialAgent": "Bill Thatcher",
+        "sourcePage": 92
+      },
+      {
+        "jurisdiction": "Montrose",
+        "office": "Councillor",
+        "candidate": "Cindy Cook",
+        "affiliation": "",
+        "financialAgent": "Cindy Cook",
+        "sourcePage": 92
+      },
+      {
+        "jurisdiction": "Montrose",
+        "office": "Councillor",
+        "candidate": "Rory Steep",
+        "affiliation": "",
+        "financialAgent": "Rory Steep",
+        "sourcePage": 92
+      },
+      {
+        "jurisdiction": "Montrose",
+        "office": "Councillor",
+        "candidate": "Russ Cooper",
+        "affiliation": "",
+        "financialAgent": "Russ Cooper",
+        "sourcePage": 92
+      },
+      {
+        "jurisdiction": "Montrose",
+        "office": "Mayor",
+        "candidate": "Mike Walsh",
+        "affiliation": "",
+        "financialAgent": "Mike Walsh",
+        "sourcePage": 93
+      },
+      {
+        "jurisdiction": "Nakusp",
+        "office": "Councillor",
+        "candidate": "Cameron Leitch",
+        "affiliation": "",
+        "financialAgent": "Cameron Leitch",
+        "sourcePage": 93
+      },
+      {
+        "jurisdiction": "Nakusp",
+        "office": "Councillor",
+        "candidate": "Joseph Hughes",
+        "affiliation": "",
+        "financialAgent": "Joseph Hughes",
+        "sourcePage": 93
+      },
+      {
+        "jurisdiction": "Nakusp",
+        "office": "Councillor",
+        "candidate": "Ken Miller",
+        "affiliation": "",
+        "financialAgent": "Ken Miller",
+        "sourcePage": 93
+      },
+      {
+        "jurisdiction": "Nakusp",
+        "office": "Councillor",
+        "candidate": "Kenneth McLaren-Caux",
+        "affiliation": "",
+        "financialAgent": "Kenneth McLaren-Caux",
+        "sourcePage": 93
+      },
+      {
+        "jurisdiction": "Nechako Lakes School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Angela Clause",
+        "affiliation": "",
+        "financialAgent": "Angela Clause",
+        "sourcePage": 97
+      },
+      {
+        "jurisdiction": "Nechako Lakes School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Carroll Walker",
+        "affiliation": "ParentsVoice BC",
+        "financialAgent": "Carroll Walker",
+        "sourcePage": 98
+      },
+      {
+        "jurisdiction": "Nechako Lakes School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Nadine Frenkel",
+        "affiliation": "",
+        "financialAgent": "Nadine Frenkel",
+        "sourcePage": 97
+      },
+      {
+        "jurisdiction": "Nechako Lakes School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Rick Pooley",
+        "affiliation": "",
+        "financialAgent": "Rick Pooley",
+        "sourcePage": 98
+      },
+      {
+        "jurisdiction": "New Westminster",
+        "office": "Councillor",
+        "candidate": "Karima Budhwani",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 100
+      },
+      {
+        "jurisdiction": "New Westminster",
+        "office": "Councillor",
+        "candidate": "Ken Armstrong",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 100
+      },
+      {
+        "jurisdiction": "New Westminster",
+        "office": "Councillor",
+        "candidate": "Maryann Morrison",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 100
+      },
+      {
+        "jurisdiction": "New Westminster",
+        "office": "Councillor",
+        "candidate": "Paul Minhas",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 100
+      },
+      {
+        "jurisdiction": "New Westminster",
+        "office": "Councillor",
+        "candidate": "Rick Folka",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 100
+      },
+      {
+        "jurisdiction": "New Westminster",
+        "office": "Councillor",
+        "candidate": "Tasha Henderson",
+        "affiliation": "Community First",
+        "financialAgent": "Doug Johnstone",
+        "sourcePage": 100
+      },
+      {
+        "jurisdiction": "New Westminster",
+        "office": "Mayor",
+        "candidate": "Daniel Fontaine",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 101
+      },
+      {
+        "jurisdiction": "New Westminster School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Anita Dunn",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 101
+      },
+      {
+        "jurisdiction": "New Westminster School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Danielle Connelly",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 101
+      },
+      {
+        "jurisdiction": "New Westminster School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Donald Doyle",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 101
+      },
+      {
+        "jurisdiction": "New Westminster School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Elizabeth Fajber",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 101
+      },
+      {
+        "jurisdiction": "New Westminster School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Kathleen Carlsen",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 101
+      },
+      {
+        "jurisdiction": "New Westminster School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Lucas Steele",
+        "affiliation": "NWP (New Westminster Progressives)",
+        "financialAgent": "Darren Milne",
+        "sourcePage": 101
+      },
+      {
+        "jurisdiction": "New Westminster School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Mary Trentadue",
+        "affiliation": "Community First",
+        "financialAgent": "Doug Johnstone",
+        "sourcePage": 101
+      },
+      {
+        "jurisdiction": "Nisga'a School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Orville Cox",
+        "affiliation": "",
+        "financialAgent": "Orville Cox",
+        "sourcePage": 102
+      },
+      {
+        "jurisdiction": "Nisga'a School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Tanya Barton",
+        "affiliation": "",
+        "financialAgent": "Tanya Barton",
+        "sourcePage": 102
+      },
+      {
+        "jurisdiction": "Okanagan Similkameen School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Alex Clarke",
+        "affiliation": "",
+        "financialAgent": "Alex Clarke",
+        "sourcePage": 110
+      },
+      {
+        "jurisdiction": "Okanagan Similkameen School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Arden Holley",
+        "affiliation": "",
+        "financialAgent": "Arden Holley",
+        "sourcePage": 110
+      },
+      {
+        "jurisdiction": "Peace River North School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Bill Snow",
+        "affiliation": "",
+        "financialAgent": "Bill Snow",
+        "sourcePage": 116
+      },
+      {
+        "jurisdiction": "Peace River North School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Helen Gilbert",
+        "affiliation": "",
+        "financialAgent": "Helen Gilbert",
+        "sourcePage": 115
+      },
+      {
+        "jurisdiction": "Peace River North School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Wally Miedema",
+        "affiliation": "",
+        "financialAgent": "Wally Miedema",
+        "sourcePage": 115
+      },
+      {
+        "jurisdiction": "Port Alberni",
+        "office": "Councillor",
+        "candidate": "Adam Hayduk",
+        "affiliation": "",
+        "financialAgent": "Adam Hayduk",
+        "sourcePage": 120
+      },
+      {
+        "jurisdiction": "Port Alberni",
+        "office": "Councillor",
+        "candidate": "Cindy Solda",
+        "affiliation": "",
+        "financialAgent": "Cindy Solda",
+        "sourcePage": 120
+      },
+      {
+        "jurisdiction": "Port Alberni",
+        "office": "Councillor",
+        "candidate": "Debbie Haggard",
+        "affiliation": "",
+        "financialAgent": "Debbie Haggard",
+        "sourcePage": 120
+      },
+      {
+        "jurisdiction": "Port Alberni",
+        "office": "Councillor",
+        "candidate": "Diljeet Hundal",
+        "affiliation": "",
+        "financialAgent": "Diljeet Hundal",
+        "sourcePage": 120
+      },
+      {
+        "jurisdiction": "Port Alberni",
+        "office": "Councillor",
+        "candidate": "Nina Kossenko",
+        "affiliation": "",
+        "financialAgent": "Nina Kossenko",
+        "sourcePage": 120
+      },
+      {
+        "jurisdiction": "Port Alberni",
+        "office": "Councillor",
+        "candidate": "Sam Atwal",
+        "affiliation": "",
+        "financialAgent": "Premita Saran",
+        "sourcePage": 120
+      },
+      {
+        "jurisdiction": "Port Alberni",
+        "office": "Mayor",
+        "candidate": "Charles Mealey",
+        "affiliation": "",
+        "financialAgent": "Charles Mealey",
+        "sourcePage": 120
+      },
+      {
+        "jurisdiction": "Port Edward",
+        "office": "Councillor",
+        "candidate": "Colleen McDonald",
+        "affiliation": "",
+        "financialAgent": "Colleen McDonald",
+        "sourcePage": 123
+      },
+      {
+        "jurisdiction": "Port Edward",
+        "office": "Councillor",
+        "candidate": "Destiny Komadina",
+        "affiliation": "",
+        "financialAgent": "Destiny Komadina",
+        "sourcePage": 123
+      },
+      {
+        "jurisdiction": "Port Edward",
+        "office": "Councillor",
+        "candidate": "James Lines",
+        "affiliation": "",
+        "financialAgent": "James Lines",
+        "sourcePage": 123
+      },
+      {
+        "jurisdiction": "Port Edward",
+        "office": "Councillor",
+        "candidate": "James W Brown",
+        "affiliation": "",
+        "financialAgent": "James W Brown",
+        "sourcePage": 123
+      },
+      {
+        "jurisdiction": "Port Edward",
+        "office": "Mayor",
+        "candidate": "Dan Franzen",
+        "affiliation": "",
+        "financialAgent": "Dan Franzen",
+        "sourcePage": 123
+      },
+      {
+        "jurisdiction": "Prince George School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Bob Thompson",
+        "affiliation": "",
+        "financialAgent": "Bob Thompson",
+        "sourcePage": 130
+      },
+      {
+        "jurisdiction": "Prince George School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Don Sabo",
+        "affiliation": "",
+        "financialAgent": "Don Sabo",
+        "sourcePage": 130
+      },
+      {
+        "jurisdiction": "Prince George School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Erica McLean",
+        "affiliation": "",
+        "financialAgent": "Erica McLean",
+        "sourcePage": 129
+      },
+      {
+        "jurisdiction": "Prince George School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jake Skakun",
+        "affiliation": "",
+        "financialAgent": "Jake Skakun",
+        "sourcePage": 130
+      },
+      {
+        "jurisdiction": "Prince George School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Sarah Holland",
+        "affiliation": "",
+        "financialAgent": "Sarah Holland",
+        "sourcePage": 129
+      },
+      {
+        "jurisdiction": "Prince George School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Shar McCrory",
+        "affiliation": "",
+        "financialAgent": "Shar McCrory",
+        "sourcePage": 129
+      },
+      {
+        "jurisdiction": "Qualicum Beach",
+        "office": "Mayor",
+        "candidate": "Adam Walker",
+        "affiliation": "",
+        "financialAgent": "Adam Walker",
+        "sourcePage": 133
+      },
+      {
+        "jurisdiction": "Surrey",
+        "office": "Councillor",
+        "candidate": "Allison Patton",
+        "affiliation": "Safe Surrey Coalition",
+        "financialAgent": "Manjeet Sandhu",
+        "sourcePage": 160
+      },
+      {
+        "jurisdiction": "Surrey",
+        "office": "Councillor",
+        "candidate": "Cheney Cloke",
+        "affiliation": "Safe Surrey Coalition",
+        "financialAgent": "Manjeet Sandhu",
+        "sourcePage": 159
+      },
+      {
+        "jurisdiction": "Surrey",
+        "office": "Councillor",
+        "candidate": "Doug Elford",
+        "affiliation": "Safe Surrey Coalition",
+        "financialAgent": "Manjeet Sandhu",
+        "sourcePage": 159
+      },
+      {
+        "jurisdiction": "Surrey",
+        "office": "Councillor",
+        "candidate": "Harry Bains",
+        "affiliation": "Surrey Connect Public IA",
+        "financialAgent": "Sarj Dhaliwal",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Surrey",
+        "office": "Councillor",
+        "candidate": "Laurie Guerra",
+        "affiliation": "Safe Surrey Coalition",
+        "financialAgent": "Manjeet Sandhu",
+        "sourcePage": 159
+      },
+      {
+        "jurisdiction": "Surrey",
+        "office": "Councillor",
+        "candidate": "Mandeep Singh Nagra",
+        "affiliation": "Safe Surrey Coalition",
+        "financialAgent": "Manjeet Sandhu",
+        "sourcePage": 160
+      },
+      {
+        "jurisdiction": "Surrey",
+        "office": "Councillor",
+        "candidate": "Meera Gill",
+        "affiliation": "Safe Surrey Coalition",
+        "financialAgent": "Manjeet Sandhu",
+        "sourcePage": 159
+      },
+      {
+        "jurisdiction": "Surrey",
+        "office": "Councillor",
+        "candidate": "Suhana Gill",
+        "affiliation": "Safe Surrey Coalition",
+        "financialAgent": "Manjeet Sandhu",
+        "sourcePage": 159
+      },
+      {
+        "jurisdiction": "Surrey",
+        "office": "Mayor",
+        "candidate": "Doug McCallum",
+        "affiliation": "Safe Surrey Coalition",
+        "financialAgent": "Manjeet Sandhu",
+        "sourcePage": 162
+      },
+      {
+        "jurisdiction": "Telkwa",
+        "office": "Councillor",
+        "candidate": "Annette Morgan",
+        "affiliation": "",
+        "financialAgent": "Annette Morgan",
+        "sourcePage": 165
+      },
+      {
+        "jurisdiction": "Telkwa",
+        "office": "Councillor",
+        "candidate": "Grace Francis",
+        "affiliation": "",
+        "financialAgent": "Grace Francis",
+        "sourcePage": 165
+      },
+      {
+        "jurisdiction": "Telkwa",
+        "office": "Councillor",
+        "candidate": "Lee Ewald",
+        "affiliation": "",
+        "financialAgent": "Lee Ewald",
+        "sourcePage": 165
+      },
+      {
+        "jurisdiction": "Telkwa",
+        "office": "Councillor",
+        "candidate": "Michelle Finch",
+        "affiliation": "",
+        "financialAgent": "Michelle Finch",
+        "sourcePage": 165
+      },
+      {
+        "jurisdiction": "Telkwa",
+        "office": "Mayor",
+        "candidate": "Derek Meerdink",
+        "affiliation": "",
+        "financialAgent": "Derek Meerdink",
+        "sourcePage": 165
+      },
+      {
+        "jurisdiction": "Terrace",
+        "office": "Councillor",
+        "candidate": "Chris Apps",
+        "affiliation": "",
+        "financialAgent": "Chris Apps",
+        "sourcePage": 165
+      },
+      {
+        "jurisdiction": "Terrace",
+        "office": "Councillor",
+        "candidate": "James Cordeiro",
+        "affiliation": "",
+        "financialAgent": "James Cordeiro",
+        "sourcePage": 165
+      },
+      {
+        "jurisdiction": "Terrace",
+        "office": "Councillor",
+        "candidate": "Jesse Olinyk",
+        "affiliation": "",
+        "financialAgent": "Jesse Olinyk",
+        "sourcePage": 165
+      },
+      {
+        "jurisdiction": "Terrace",
+        "office": "Councillor",
+        "candidate": "Joe Lavoie",
+        "affiliation": "",
+        "financialAgent": "Joe Lavoie",
+        "sourcePage": 165
+      },
+      {
+        "jurisdiction": "Terrace",
+        "office": "Councillor",
+        "candidate": "Keenan Stella",
+        "affiliation": "",
+        "financialAgent": "Keenan Stella",
+        "sourcePage": 165
+      },
+      {
+        "jurisdiction": "Terrace",
+        "office": "Councillor",
+        "candidate": "Nikki Villeneuve",
+        "affiliation": "",
+        "financialAgent": "Nikki Villeneuve",
+        "sourcePage": 165
+      },
+      {
+        "jurisdiction": "Terrace",
+        "office": "Mayor",
+        "candidate": "Sean Bujtas",
+        "affiliation": "",
+        "financialAgent": "Gerry Mattson",
+        "sourcePage": 166
+      },
+      {
+        "jurisdiction": "Tofino",
+        "office": "Councillor",
+        "candidate": "Al Anderson",
+        "affiliation": "",
+        "financialAgent": "Al Anderson",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Tofino",
+        "office": "Councillor",
+        "candidate": "Ali Sawyer",
+        "affiliation": "",
+        "financialAgent": "Ali Sawyer",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Tofino",
+        "office": "Councillor",
+        "candidate": "Kat Thomas",
+        "affiliation": "",
+        "financialAgent": "Kat Thomas",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Tofino",
+        "office": "Councillor",
+        "candidate": "Rhys Walker-Shaw",
+        "affiliation": "",
+        "financialAgent": "Rhys Walker-Shaw",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Tofino",
+        "office": "Councillor",
+        "candidate": "Sarah Sloman",
+        "affiliation": "",
+        "financialAgent": "Sarah Sloman",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Tofino",
+        "office": "Councillor",
+        "candidate": "Susie Doré",
+        "affiliation": "",
+        "financialAgent": "Susie Doré",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Tofino",
+        "office": "Mayor",
+        "candidate": "Tom Stere",
+        "affiliation": "",
+        "financialAgent": "Tom Stere",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Trail",
+        "office": "Councillor",
+        "candidate": "Bev Benson",
+        "affiliation": "",
+        "financialAgent": "Chris De Luca",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Trail",
+        "office": "Councillor",
+        "candidate": "Glenn Hodge",
+        "affiliation": "",
+        "financialAgent": "Glenn Hodge",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Trail",
+        "office": "Councillor",
+        "candidate": "Mark Buckley",
+        "affiliation": "",
+        "financialAgent": "Mark Buckley",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Trail",
+        "office": "Councillor",
+        "candidate": "Paul Butler",
+        "affiliation": "",
+        "financialAgent": "Bridget Kivell",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Trail",
+        "office": "Councillor",
+        "candidate": "Sarah Bullock",
+        "affiliation": "",
+        "financialAgent": "Sarah Bullock",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Trail",
+        "office": "Councillor",
+        "candidate": "Thea Hanson",
+        "affiliation": "",
+        "financialAgent": "Trevor Stach",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Trail",
+        "office": "Mayor",
+        "candidate": "Nick Cashol",
+        "affiliation": "",
+        "financialAgent": "Nick Cashol",
+        "sourcePage": 167
+      },
+      {
+        "jurisdiction": "Ucluelet",
+        "office": "Councillor",
+        "candidate": "Alishia Fox",
+        "affiliation": "",
+        "financialAgent": "Alishia Fox",
+        "sourcePage": 168
+      },
+      {
+        "jurisdiction": "Ucluelet",
+        "office": "Councillor",
+        "candidate": "Jeff Anderson",
+        "affiliation": "",
+        "financialAgent": "Jeff Anderson",
+        "sourcePage": 168
+      },
+      {
+        "jurisdiction": "Ucluelet",
+        "office": "Councillor",
+        "candidate": "Mark Maftei",
+        "affiliation": "",
+        "financialAgent": "Mark Maftei",
+        "sourcePage": 168
+      },
+      {
+        "jurisdiction": "Ucluelet",
+        "office": "Councillor",
+        "candidate": "Mayco Noël",
+        "affiliation": "",
+        "financialAgent": "Mayco Noël",
+        "sourcePage": 169
+      },
+      {
+        "jurisdiction": "Ucluelet",
+        "office": "Mayor",
+        "candidate": "Shawn Anderson",
+        "affiliation": "",
+        "financialAgent": "Shawn Anderson",
+        "sourcePage": 169
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "Cyndi Lauze",
+        "affiliation": "",
+        "financialAgent": "Cyndi Lauze",
+        "sourcePage": 178
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "David Van Dolah",
+        "affiliation": "",
+        "financialAgent": "David Van Dolah",
+        "sourcePage": 178
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "Elaine Penner",
+        "affiliation": "",
+        "financialAgent": "Elaine Penner",
+        "sourcePage": 178
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "Ernest Martens",
+        "affiliation": "",
+        "financialAgent": "Ernest Martens",
+        "sourcePage": 178
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "George Funk",
+        "affiliation": "",
+        "financialAgent": "George Funk",
+        "sourcePage": 178
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "Ken Young",
+        "affiliation": "",
+        "financialAgent": "Ken Young",
+        "sourcePage": 178
+      },
+      {
+        "jurisdiction": "Victoria",
+        "office": "Councillor",
+        "candidate": "Dave Thompson",
+        "affiliation": "",
+        "financialAgent": "Galen Wilson",
+        "sourcePage": 181
+      },
+      {
+        "jurisdiction": "Victoria",
+        "office": "Councillor",
+        "candidate": "Jack Sandor",
+        "affiliation": "",
+        "financialAgent": "Adam Lee",
+        "sourcePage": 181
+      },
+      {
+        "jurisdiction": "Victoria",
+        "office": "Councillor",
+        "candidate": "Jeremy Caradonna",
+        "affiliation": "",
+        "financialAgent": "Todd Lyons",
+        "sourcePage": 180
+      },
+      {
+        "jurisdiction": "Victoria",
+        "office": "Councillor",
+        "candidate": "Marg Gardiner",
+        "affiliation": "",
+        "financialAgent": "Sandra Menzies",
+        "sourcePage": 180
+      },
+      {
+        "jurisdiction": "Victoria",
+        "office": "Councillor",
+        "candidate": "Matt Dell",
+        "affiliation": "",
+        "financialAgent": "Ashley Ceraldi",
+        "sourcePage": 180
+      },
+      {
+        "jurisdiction": "Victoria",
+        "office": "Councillor",
+        "candidate": "Melissa Cseszko",
+        "affiliation": "",
+        "financialAgent": "Julian Cseszko",
+        "sourcePage": 180
+      },
+      {
+        "jurisdiction": "Victoria",
+        "office": "Councillor",
+        "candidate": "Stephen Hammond",
+        "affiliation": "",
+        "financialAgent": "Jane Burns",
+        "sourcePage": 181
+      },
+      {
+        "jurisdiction": "Victoria",
+        "office": "Councillor",
+        "candidate": "Wendy Bowkett",
+        "affiliation": "",
+        "financialAgent": "Damon Pallan",
+        "sourcePage": 180
+      },
+      {
+        "jurisdiction": "Victoria",
+        "office": "Mayor",
+        "candidate": "Marianne Alto",
+        "affiliation": "",
+        "financialAgent": "Martha Juillerat",
+        "sourcePage": 181
+      },
+      {
+        "jurisdiction": "View Royal",
+        "office": "Councillor",
+        "candidate": "Amy McCooey",
+        "affiliation": "",
+        "financialAgent": "Amy McCooey",
+        "sourcePage": 182
+      },
+      {
+        "jurisdiction": "View Royal",
+        "office": "Councillor",
+        "candidate": "Cameron Harris",
+        "affiliation": "",
+        "financialAgent": "Cameron Harris",
+        "sourcePage": 182
+      },
+      {
+        "jurisdiction": "View Royal",
+        "office": "Councillor",
+        "candidate": "Carolynne Clark",
+        "affiliation": "",
+        "financialAgent": "Carolynne Clark",
+        "sourcePage": 182
+      },
+      {
+        "jurisdiction": "View Royal",
+        "office": "Councillor",
+        "candidate": "Don Brown",
+        "affiliation": "",
+        "financialAgent": "Don Brown",
+        "sourcePage": 182
+      },
+      {
+        "jurisdiction": "View Royal",
+        "office": "Councillor",
+        "candidate": "Gery Lemon",
+        "affiliation": "",
+        "financialAgent": "Gery Lemon",
+        "sourcePage": 182
+      },
+      {
+        "jurisdiction": "View Royal",
+        "office": "Councillor",
+        "candidate": "Sacha Christensen",
+        "affiliation": "",
+        "financialAgent": "Sacha Christensen",
+        "sourcePage": 182
+      },
+      {
+        "jurisdiction": "View Royal",
+        "office": "Mayor",
+        "candidate": "Volker Dammann",
+        "affiliation": "",
+        "financialAgent": "Volker Dammann",
+        "sourcePage": 182
+      },
+      {
+        "jurisdiction": "Wells",
+        "office": "Councillor",
+        "candidate": "Elyssia Sasaki",
+        "affiliation": "",
+        "financialAgent": "Elyssia Sasaki",
+        "sourcePage": 183
+      },
+      {
+        "jurisdiction": "Wells",
+        "office": "Councillor",
+        "candidate": "Eric Andersen",
+        "affiliation": "",
+        "financialAgent": "Eric Andersen",
+        "sourcePage": 183
+      },
+      {
+        "jurisdiction": "Wells",
+        "office": "Councillor",
+        "candidate": "Josh Trotter-Wanner",
+        "affiliation": "",
+        "financialAgent": "Josh Trotter-Wanner",
+        "sourcePage": 183
+      },
+      {
+        "jurisdiction": "Wells",
+        "office": "Councillor",
+        "candidate": "Miriam Dumitra",
+        "affiliation": "",
+        "financialAgent": "Miriam Dumitra",
+        "sourcePage": 183
+      },
+      {
+        "jurisdiction": "Wells",
+        "office": "Mayor",
+        "candidate": "Jillian Merrick",
+        "affiliation": "",
+        "financialAgent": "Jillian Merrick",
+        "sourcePage": 183
+      },
+      {
+        "jurisdiction": "White Rock",
+        "office": "Councillor",
+        "candidate": "Anthony Manning",
+        "affiliation": "Together For White Rock",
+        "financialAgent": "Gwenne Farrell",
+        "sourcePage": 188
+      },
+      {
+        "jurisdiction": "White Rock",
+        "office": "Councillor",
+        "candidate": "Bill Lawrence",
+        "affiliation": "",
+        "financialAgent": "Bill Lawrence",
+        "sourcePage": 187
+      },
+      {
+        "jurisdiction": "White Rock",
+        "office": "Councillor",
+        "candidate": "Christopher Trevelyan",
+        "affiliation": "Together For White Rock",
+        "financialAgent": "Gwenne Farrel",
+        "sourcePage": 188
+      },
+      {
+        "jurisdiction": "White Rock",
+        "office": "Councillor",
+        "candidate": "Conrad King",
+        "affiliation": "Together For White Rock",
+        "financialAgent": "Gwenne Farrell",
+        "sourcePage": 187
+      },
+      {
+        "jurisdiction": "White Rock",
+        "office": "Councillor",
+        "candidate": "David Chesney",
+        "affiliation": "Together For White Rock",
+        "financialAgent": "Gwenne Farrell",
+        "sourcePage": 187
+      },
+      {
+        "jurisdiction": "White Rock",
+        "office": "Councillor",
+        "candidate": "Laura Cornale",
+        "affiliation": "Together For White Rock",
+        "financialAgent": "Gwenne Ferrell",
+        "sourcePage": 187
+      },
+      {
+        "jurisdiction": "White Rock",
+        "office": "Mayor",
+        "candidate": "Chris Shields",
+        "affiliation": "",
+        "financialAgent": "Inderjit Mann",
+        "sourcePage": 188
+      },
+      {
+        "jurisdiction": "Zeballos",
+        "office": "Councillor",
+        "candidate": "Barb Lewis",
+        "affiliation": "",
+        "financialAgent": "Barb Lewis",
+        "sourcePage": 189
+      },
+      {
+        "jurisdiction": "Zeballos",
+        "office": "Councillor",
+        "candidate": "Justin Janisse",
+        "affiliation": "",
+        "financialAgent": "Justin Janisse",
+        "sourcePage": 189
+      },
+      {
+        "jurisdiction": "Zeballos",
+        "office": "Councillor",
+        "candidate": "Kirsten Aubrey",
+        "affiliation": "",
+        "financialAgent": "Kirsten Aubrey",
+        "sourcePage": 189
+      },
+      {
+        "jurisdiction": "Zeballos",
+        "office": "Councillor",
+        "candidate": "Michael Fry",
+        "affiliation": "",
+        "financialAgent": "Michael Fry",
+        "sourcePage": 189
+      }
+    ],
+    "statusChanges": [],
+    "modified": []
   }
 ]
