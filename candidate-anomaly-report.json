@@ -38248,6 +38248,13 @@
           "Port Edward",
           "Prince George School District"
         ]
+      },
+      {
+        "atUtc": "2026-11-02T20:46:54Z",
+        "sourceHash": "baef69a370f1b4ffb74bab48ba7d8f98509c482a7f07ad7910cbbddb73ad68fe",
+        "candidateChanges": 0,
+        "jurisdictionsAffected": 0,
+        "jurisdictions": []
       }
     ],
     "milestones": [
