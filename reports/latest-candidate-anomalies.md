@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 36 observed/reconstructed source revisions. Times are UTC.
+Generated from 37 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -43,6 +43,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-10-30T18:37:50Z | 3263 | 249 | 78 | 200 | 0 | 0 | e18f6120282c401587be8e541af2070e36bd0f66f1fa5ebc3a29f759b7d906f9 |
 | 2026-10-31T19:59:47Z | 3370 | 250 | 107 | 0 | 0 | 0 | ac2c48728a26f5bcbe48325bf52ccb6d4433fd32ce0336cc8bea6753f5cfe34f |
 | 2026-11-02T20:46:54Z | 3370 | 250 | 0 | 0 | 0 | 0 | baef69a370f1b4ffb74bab48ba7d8f98509c482a7f07ad7910cbbddb73ad68fe |
+| 2026-11-03T18:27:42Z | 3423 | 251 | 54 | 1 | 0 | 0 | 8f1f633129dc4bd67c8e28e25db1e3c04495280f5e6f2567312050c00a8b79fa |
 
 ## Candidate observations
 
@@ -1619,7 +1620,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Kyra Juliana Lazzar — Sooke (Councillor)
+### Brian James McHattie — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -1638,7 +1639,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Brian James McHattie — Sooke (Councillor)
+### Kyra Juliana Lazzar — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -15049,17 +15050,1150 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Taha Attiah — Revelstoke (Mayor)
+
+Pattern: REMOVED; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Aaron Orlando — Revelstoke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Austin Luciow — Revelstoke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Brenda Demone — Revelstoke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Lee Devlin — Revelstoke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Robyn Goldsmith — Revelstoke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sarah Erikson — Revelstoke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Andy Hobbs — Richmond (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Carol Day — Richmond (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Gary Law — Richmond (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kenny Chiu — Richmond (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kevin Lai — Richmond (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Laura Gillanders — Richmond (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Michael Wolfe — Richmond (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Sheldon Starrett — Richmond (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Rob Howard — Richmond (Mayor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Andy Morel — Rossland (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Daniel Eheler — Rossland (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Mark Godin — Rossland (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Matthew Watkins — Rossland (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Maya Provencal — Rossland (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Lisa Kwiatkowski — Rossland (Mayor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### David Gonella — Salmon Arm (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Debbie Cannon — Salmon Arm (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Ian Gray — Salmon Arm (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kari Toliver Wilkinson — Salmon Arm (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Louise Wallace Richmond — Salmon Arm (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Scott Syme — Salmon Arm (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Alan Harrison — Salmon Arm (Mayor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Maureen Haslehurst — Sayward (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Michelle Davis — Sayward (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### William Ives — Sayward (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jason Johnson — Sayward (Mayor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Carin Amber — shíshálh Nation Government District Advisory Council (Advisory Council Member)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Miko Steele — shíshálh Nation Government District Advisory Council (Advisory Council Member)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Wes Irwin — shíshálh Nation Government District Advisory Council (Advisory Council Member)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Brendan Murray-Nellis — Slocan (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Dave Fredrickson — Slocan (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Delaine Hird — Slocan (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Katie Strong — Slocan (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jamie Ingram — Slocan (Mayor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Curtis Peterec — Sooke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Elliott Lifton — Sooke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Herb Haldane — Sooke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Janet Evans — Sooke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Katherine Strongwind — Sooke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Rob Pearce — Sooke (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Kevin Pearson — Sooke (Mayor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 118.16 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Cyndi Lauze — Vanderhoof (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 95.83 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### David Van Dolah — Vanderhoof (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 95.83 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Elaine Penner — Vanderhoof (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 95.83 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Ernest Martens — Vanderhoof (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 95.83 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### George Funk — Vanderhoof (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 95.83 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Ken Young — Vanderhoof (Councillor)
+
+Pattern: PRESENT → ABSENT → PRESENT; observed 2026-11-03T18:27:42Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.
+- Absent approximately 95.83 hours between observed revisions.
+- Return comparison: IDENTICAL_RETURN.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Temporary record/publishing issue — Returned source fields were identical.
+- SUPPORTS: Batch update — CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
 |---|---:|---:|---:|
+| Richmond | 26 | 4 | 14 |
 | Delta | 22 | 4 | 13 |
 | Delta School District | 21 | 3 | 12 |
+| Sooke | 18 | 3 | 11 |
 | Prince George School District | 17 | 5 | 9 |
-| Richmond | 17 | 3 | 14 |
 | Coquitlam School District | 16 | 2 | 8 |
 | Fort St. John | 16 | 4 | 9 |
 | Lake Country | 16 | 4 | 8 |
+| Salmon Arm | 16 | 4 | 8 |
 | Elkford | 15 | 3 | 8 |
 | Langley, City of | 15 | 3 | 7 |
 | Port Alberni | 15 | 3 | 8 |
@@ -15073,15 +16207,17 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Merritt | 14 | 2 | 7 |
 | New Westminster | 14 | 2 | 7 |
 | New Westminster School District | 14 | 2 | 7 |
+| Revelstoke | 14 | 3 | 8 |
 | Campbell River School District | 13 | 3 | 8 |
 | Fraser Cascade School District | 13 | 2 | 7 |
+| Vanderhoof | 13 | 3 | 7 |
 | Islands Trust | 12 | 5 | 7 |
 | Lillooet | 12 | 4 | 6 |
 | Port Edward | 12 | 3 | 6 |
+| Rossland | 12 | 2 | 6 |
 | Vancouver | 12 | 5 | 11 |
 | Port Clements | 11 | 3 | 6 |
 | Radium Hot Springs | 11 | 3 | 5 |
-| Sooke | 11 | 2 | 11 |
 | Surrey | 11 | 3 | 11 |
 | Abbotsford School District | 10 | 2 | 9 |
 | Cache Creek | 10 | 2 | 5 |
@@ -15093,12 +16229,13 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Masset | 10 | 2 | 5 |
 | Montrose | 10 | 2 | 5 |
 | Nechako Lakes School District | 10 | 3 | 6 |
+| Sayward | 10 | 2 | 6 |
+| Slocan | 10 | 2 | 5 |
 | Terrace | 10 | 3 | 10 |
 | Valemount | 10 | 2 | 5 |
 | Ashcroft | 9 | 2 | 5 |
 | Granisle | 9 | 2 | 5 |
 | Nakusp | 9 | 3 | 5 |
-| Salmon Arm | 9 | 3 | 8 |
 | Victoria | 9 | 1 | 9 |
 | Abbotsford | 8 | 2 | 7 |
 | Kent | 8 | 2 | 4 |
@@ -15110,22 +16247,18 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | White Rock | 8 | 2 | 7 |
 | Burnaby School District | 7 | 1 | 7 |
 | Grand Forks | 7 | 4 | 7 |
-| Revelstoke | 7 | 2 | 7 |
 | Smithers | 7 | 1 | 7 |
 | Spallumcheen | 7 | 1 | 7 |
 | Tofino | 7 | 1 | 7 |
 | Trail | 7 | 1 | 7 |
 | Ucluelet | 7 | 3 | 6 |
-| Vanderhoof | 7 | 2 | 7 |
+| shíshálh Nation Government District Advisory Council | 7 | 2 | 4 |
 | Central Kootenay Regional District | 6 | 2 | 6 |
 | Cranbrook | 6 | 2 | 6 |
 | Gulf Islands School District | 6 | 2 | 3 |
-| Rossland | 6 | 1 | 6 |
 | Cariboo Chilcotin School District | 5 | 4 | 3 |
 | Comox Valley Regional District | 5 | 3 | 3 |
 | Lions Bay | 5 | 1 | 5 |
-| Sayward | 5 | 1 | 5 |
-| Slocan | 5 | 1 | 5 |
 | Sun Peaks | 5 | 1 | 5 |
 | Wells | 5 | 1 | 5 |
 | Zeballos | 5 | 2 | 5 |
@@ -15136,7 +16269,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Pacific Rim School District | 4 | 3 | 4 |
 | Strathcona Regional District | 4 | 2 | 2 |
 | Whistler | 4 | 3 | 2 |
-| shíshálh Nation Government District Advisory Council | 4 | 1 | 4 |
 | Alberni-Clayoquot Regional District | 3 | 3 | 3 |
 | Boundary School District | 3 | 1 | 3 |
 | Campbell River | 3 | 2 | 2 |

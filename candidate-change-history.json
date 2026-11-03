@@ -8219,5 +8219,463 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-11-03T18:27:42Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "8f1f633129dc4bd67c8e28e25db1e3c04495280f5e6f2567312050c00a8b79fa",
+    "previousSourceSha256": "baef69a370f1b4ffb74bab48ba7d8f98509c482a7f07ad7910cbbddb73ad68fe",
+    "pageCount": 191,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3370,
+    "candidateCount": 3423,
+    "netCandidateDelta": 53,
+    "added": [
+      {
+        "jurisdiction": "Revelstoke",
+        "office": "Councillor",
+        "candidate": "Aaron Orlando",
+        "affiliation": "",
+        "financialAgent": "Aaron Orlando",
+        "sourcePage": 140
+      },
+      {
+        "jurisdiction": "Revelstoke",
+        "office": "Councillor",
+        "candidate": "Austin Luciow",
+        "affiliation": "",
+        "financialAgent": "Austin Luciow",
+        "sourcePage": 140
+      },
+      {
+        "jurisdiction": "Revelstoke",
+        "office": "Councillor",
+        "candidate": "Brenda Demone",
+        "affiliation": "",
+        "financialAgent": "Brenda Demone",
+        "sourcePage": 139
+      },
+      {
+        "jurisdiction": "Revelstoke",
+        "office": "Councillor",
+        "candidate": "Lee Devlin",
+        "affiliation": "",
+        "financialAgent": "Lee Devlin",
+        "sourcePage": 139
+      },
+      {
+        "jurisdiction": "Revelstoke",
+        "office": "Councillor",
+        "candidate": "Robyn Goldsmith",
+        "affiliation": "",
+        "financialAgent": "Robyn Goldsmith",
+        "sourcePage": 139
+      },
+      {
+        "jurisdiction": "Revelstoke",
+        "office": "Councillor",
+        "candidate": "Sarah Erikson",
+        "affiliation": "",
+        "financialAgent": "Sarah Erikson",
+        "sourcePage": 139
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Andy Hobbs",
+        "affiliation": "Richmond United",
+        "financialAgent": "Lynn Hobbs",
+        "sourcePage": 141
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Carol Day",
+        "affiliation": "RITE Richmond",
+        "financialAgent": "James Day",
+        "sourcePage": 141
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Gary Law",
+        "affiliation": "ARCA Advance Richmond Community Association",
+        "financialAgent": "Raymond Leung",
+        "sourcePage": 142
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Kenny Chiu",
+        "affiliation": "Common Sense",
+        "financialAgent": "Sacha Peter",
+        "sourcePage": 141
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Kevin Lai",
+        "affiliation": "ARCA Advance Richmond Community Association",
+        "financialAgent": "Kevin Lai",
+        "sourcePage": 142
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Laura Gillanders",
+        "affiliation": "RITE Richmond",
+        "financialAgent": "James Day",
+        "sourcePage": 141
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Michael Wolfe",
+        "affiliation": "RITE Richmond",
+        "financialAgent": "James Day",
+        "sourcePage": 143
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Councillor",
+        "candidate": "Sheldon Starrett",
+        "affiliation": "ARCA Advance Richmond Community Association",
+        "financialAgent": "Sheldon Starrett",
+        "sourcePage": 143
+      },
+      {
+        "jurisdiction": "Richmond",
+        "office": "Mayor",
+        "candidate": "Rob Howard",
+        "affiliation": "Richmond Forward",
+        "financialAgent": "Dereck Hamada",
+        "sourcePage": 144
+      },
+      {
+        "jurisdiction": "Rossland",
+        "office": "Councillor",
+        "candidate": "Andy Morel",
+        "affiliation": "",
+        "financialAgent": "Andy Morel",
+        "sourcePage": 147
+      },
+      {
+        "jurisdiction": "Rossland",
+        "office": "Councillor",
+        "candidate": "Daniel Eheler",
+        "affiliation": "",
+        "financialAgent": "Daniel Eheler",
+        "sourcePage": 146
+      },
+      {
+        "jurisdiction": "Rossland",
+        "office": "Councillor",
+        "candidate": "Mark Godin",
+        "affiliation": "",
+        "financialAgent": "Mark Godin",
+        "sourcePage": 146
+      },
+      {
+        "jurisdiction": "Rossland",
+        "office": "Councillor",
+        "candidate": "Matthew Watkins",
+        "affiliation": "",
+        "financialAgent": "Matthew Watkins",
+        "sourcePage": 147
+      },
+      {
+        "jurisdiction": "Rossland",
+        "office": "Councillor",
+        "candidate": "Maya Provencal",
+        "affiliation": "",
+        "financialAgent": "Maya Provencal",
+        "sourcePage": 147
+      },
+      {
+        "jurisdiction": "Rossland",
+        "office": "Mayor",
+        "candidate": "Lisa Kwiatkowski",
+        "affiliation": "",
+        "financialAgent": "Lisa Kwiatkowski",
+        "sourcePage": 147
+      },
+      {
+        "jurisdiction": "Salmon Arm",
+        "office": "Councillor",
+        "candidate": "David Gonella",
+        "affiliation": "",
+        "financialAgent": "David Gonella",
+        "sourcePage": 150
+      },
+      {
+        "jurisdiction": "Salmon Arm",
+        "office": "Councillor",
+        "candidate": "Debbie Cannon",
+        "affiliation": "",
+        "financialAgent": "Debbie Cannon",
+        "sourcePage": 150
+      },
+      {
+        "jurisdiction": "Salmon Arm",
+        "office": "Councillor",
+        "candidate": "Ian Gray",
+        "affiliation": "",
+        "financialAgent": "Ian Gray",
+        "sourcePage": 150
+      },
+      {
+        "jurisdiction": "Salmon Arm",
+        "office": "Councillor",
+        "candidate": "Kari Toliver Wilkinson",
+        "affiliation": "",
+        "financialAgent": "Kari Toliver Wilkinson",
+        "sourcePage": 150
+      },
+      {
+        "jurisdiction": "Salmon Arm",
+        "office": "Councillor",
+        "candidate": "Louise Wallace Richmond",
+        "affiliation": "",
+        "financialAgent": "Louise Wallace Richmond",
+        "sourcePage": 151
+      },
+      {
+        "jurisdiction": "Salmon Arm",
+        "office": "Councillor",
+        "candidate": "Scott Syme",
+        "affiliation": "",
+        "financialAgent": "Scott Syme",
+        "sourcePage": 150
+      },
+      {
+        "jurisdiction": "Salmon Arm",
+        "office": "Mayor",
+        "candidate": "Alan Harrison",
+        "affiliation": "",
+        "financialAgent": "Debbie Harrison",
+        "sourcePage": 151
+      },
+      {
+        "jurisdiction": "Sayward",
+        "office": "Councillor",
+        "candidate": "Maureen Haslehurst",
+        "affiliation": "",
+        "financialAgent": "Maureen Haslehurst",
+        "sourcePage": 151
+      },
+      {
+        "jurisdiction": "Sayward",
+        "office": "Councillor",
+        "candidate": "Michelle Davis",
+        "affiliation": "",
+        "financialAgent": "Michelle Davis",
+        "sourcePage": 151
+      },
+      {
+        "jurisdiction": "Sayward",
+        "office": "Councillor",
+        "candidate": "Neil MacDougall",
+        "affiliation": "",
+        "financialAgent": "Neil MacDougall",
+        "sourcePage": 151
+      },
+      {
+        "jurisdiction": "Sayward",
+        "office": "Councillor",
+        "candidate": "William Ives",
+        "affiliation": "",
+        "financialAgent": "William Ives",
+        "sourcePage": 151
+      },
+      {
+        "jurisdiction": "Sayward",
+        "office": "Mayor",
+        "candidate": "Jason Johnson",
+        "affiliation": "",
+        "financialAgent": "Jason Johnson",
+        "sourcePage": 151
+      },
+      {
+        "jurisdiction": "Slocan",
+        "office": "Councillor",
+        "candidate": "Brendan Murray-Nellis",
+        "affiliation": "",
+        "financialAgent": "Brendan Murray-Nellis",
+        "sourcePage": 155
+      },
+      {
+        "jurisdiction": "Slocan",
+        "office": "Councillor",
+        "candidate": "Dave Fredrickson",
+        "affiliation": "",
+        "financialAgent": "Dave Fredrickson",
+        "sourcePage": 155
+      },
+      {
+        "jurisdiction": "Slocan",
+        "office": "Councillor",
+        "candidate": "Delaine Hird",
+        "affiliation": "",
+        "financialAgent": "Delaine Hird",
+        "sourcePage": 155
+      },
+      {
+        "jurisdiction": "Slocan",
+        "office": "Councillor",
+        "candidate": "Katie Strong",
+        "affiliation": "",
+        "financialAgent": "Katie Strong",
+        "sourcePage": 155
+      },
+      {
+        "jurisdiction": "Slocan",
+        "office": "Mayor",
+        "candidate": "Jamie Ingram",
+        "affiliation": "",
+        "financialAgent": "Christine Ingram",
+        "sourcePage": 155
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Curtis Peterec",
+        "affiliation": "Sooke First",
+        "financialAgent": "Curtis Peterec",
+        "sourcePage": 156
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Elliott Lifton",
+        "affiliation": "Sooke First",
+        "financialAgent": "Elliott Lifton",
+        "sourcePage": 156
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Herb Haldane",
+        "affiliation": "Sooke First",
+        "financialAgent": "Herb Haldane",
+        "sourcePage": 156
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Janet Evans",
+        "affiliation": "Sooke First",
+        "financialAgent": "Janet Evans",
+        "sourcePage": 156
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Katherine Strongwind",
+        "affiliation": "",
+        "financialAgent": "John-Paul Ellson",
+        "sourcePage": 157
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Councillor",
+        "candidate": "Rob Pearce",
+        "affiliation": "Sooke First",
+        "financialAgent": "Rob Pearce",
+        "sourcePage": 156
+      },
+      {
+        "jurisdiction": "Sooke",
+        "office": "Mayor",
+        "candidate": "Kevin Pearson",
+        "affiliation": "Sooke First",
+        "financialAgent": "Kevin Pearson",
+        "sourcePage": 157
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "Cyndi Lauze",
+        "affiliation": "",
+        "financialAgent": "Cyndi Lauze",
+        "sourcePage": 181
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "David Van Dolah",
+        "affiliation": "",
+        "financialAgent": "David Van Dolah",
+        "sourcePage": 182
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "Elaine Penner",
+        "affiliation": "",
+        "financialAgent": "Elaine Penner",
+        "sourcePage": 182
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "Ernest Martens",
+        "affiliation": "",
+        "financialAgent": "Ernest Martens",
+        "sourcePage": 182
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "George Funk",
+        "affiliation": "",
+        "financialAgent": "George Funk",
+        "sourcePage": 181
+      },
+      {
+        "jurisdiction": "Vanderhoof",
+        "office": "Councillor",
+        "candidate": "Ken Young",
+        "affiliation": "",
+        "financialAgent": "Ken Young",
+        "sourcePage": 182
+      },
+      {
+        "jurisdiction": "shíshálh Nation Government District Advisory Council",
+        "office": "Advisory Council Member",
+        "candidate": "Carin Amber",
+        "affiliation": "",
+        "financialAgent": "Carin Amber",
+        "sourcePage": 153
+      },
+      {
+        "jurisdiction": "shíshálh Nation Government District Advisory Council",
+        "office": "Advisory Council Member",
+        "candidate": "Miko Steele",
+        "affiliation": "",
+        "financialAgent": "Miko Steele",
+        "sourcePage": 153
+      },
+      {
+        "jurisdiction": "shíshálh Nation Government District Advisory Council",
+        "office": "Advisory Council Member",
+        "candidate": "Wes Irwin",
+        "affiliation": "",
+        "financialAgent": "Wes Irwin",
+        "sourcePage": 153
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Revelstoke",
+        "office": "Mayor",
+        "candidate": "Taha Attiah",
+        "affiliation": "",
+        "financialAgent": "Taha Attiah",
+        "sourcePage": 139
+      }
+    ],
+    "statusChanges": [],
+    "modified": []
   }
 ]

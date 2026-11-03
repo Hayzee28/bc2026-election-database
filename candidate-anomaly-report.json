@@ -2863,13 +2863,13 @@
     {
       "atUtc": "2026-10-09T16:12:50Z",
       "revision": 16,
-      "candidateId": "sooke|councillor|kyra lazzar",
-      "candidate": "Kyra Juliana Lazzar",
+      "candidateId": "sooke|councillor|brian mchattie",
+      "candidate": "Brian James McHattie",
       "jurisdiction": "Sooke",
       "office": "Councillor",
       "type": "NAME_CORRECTION",
-      "from": "Kyra Lazzar",
-      "to": "Kyra Juliana Lazzar",
+      "from": "Brian McHattie",
+      "to": "Brian James McHattie",
       "category": "FIELD_CORRECTION",
       "identityLinkInferred": true,
       "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
@@ -2902,13 +2902,13 @@
     {
       "atUtc": "2026-10-09T16:12:50Z",
       "revision": 16,
-      "candidateId": "sooke|councillor|brian mchattie",
-      "candidate": "Brian James McHattie",
+      "candidateId": "sooke|councillor|kyra lazzar",
+      "candidate": "Kyra Juliana Lazzar",
       "jurisdiction": "Sooke",
       "office": "Councillor",
       "type": "NAME_CORRECTION",
-      "from": "Brian McHattie",
-      "to": "Brian James McHattie",
+      "from": "Kyra Lazzar",
+      "to": "Kyra Juliana Lazzar",
       "category": "FIELD_CORRECTION",
       "identityLinkInferred": true,
       "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
@@ -26593,6 +26593,2261 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "revelstoke|mayor|taha attiah",
+      "candidate": "Taha Attiah",
+      "jurisdiction": "Revelstoke",
+      "office": "Mayor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "revelstoke|councillor|aaron orlando",
+      "candidate": "Aaron Orlando",
+      "jurisdiction": "Revelstoke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "revelstoke|councillor|austin luciow",
+      "candidate": "Austin Luciow",
+      "jurisdiction": "Revelstoke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "revelstoke|councillor|brenda demone",
+      "candidate": "Brenda Demone",
+      "jurisdiction": "Revelstoke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "revelstoke|councillor|lee devlin",
+      "candidate": "Lee Devlin",
+      "jurisdiction": "Revelstoke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "revelstoke|councillor|robyn goldsmith",
+      "candidate": "Robyn Goldsmith",
+      "jurisdiction": "Revelstoke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "revelstoke|councillor|sarah erikson",
+      "candidate": "Sarah Erikson",
+      "jurisdiction": "Revelstoke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "richmond|councillor|andy hobbs",
+      "candidate": "Andy Hobbs",
+      "jurisdiction": "Richmond",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "richmond|councillor|carol day",
+      "candidate": "Carol Day",
+      "jurisdiction": "Richmond",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "richmond|councillor|gary law",
+      "candidate": "Gary Law",
+      "jurisdiction": "Richmond",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "richmond|councillor|kenny chiu",
+      "candidate": "Kenny Chiu",
+      "jurisdiction": "Richmond",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "richmond|councillor|kevin lai",
+      "candidate": "Kevin Lai",
+      "jurisdiction": "Richmond",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "richmond|councillor|laura gillanders",
+      "candidate": "Laura Gillanders",
+      "jurisdiction": "Richmond",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "richmond|councillor|michael wolfe",
+      "candidate": "Michael Wolfe",
+      "jurisdiction": "Richmond",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "richmond|councillor|sheldon starrett",
+      "candidate": "Sheldon Starrett",
+      "jurisdiction": "Richmond",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "richmond|mayor|rob howard",
+      "candidate": "Rob Howard",
+      "jurisdiction": "Richmond",
+      "office": "Mayor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "rossland|councillor|andy morel",
+      "candidate": "Andy Morel",
+      "jurisdiction": "Rossland",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "rossland|councillor|daniel eheler",
+      "candidate": "Daniel Eheler",
+      "jurisdiction": "Rossland",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "rossland|councillor|mark godin",
+      "candidate": "Mark Godin",
+      "jurisdiction": "Rossland",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "rossland|councillor|matthew watkins",
+      "candidate": "Matthew Watkins",
+      "jurisdiction": "Rossland",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "rossland|councillor|maya provencal",
+      "candidate": "Maya Provencal",
+      "jurisdiction": "Rossland",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "rossland|mayor|lisa kwiatkowski",
+      "candidate": "Lisa Kwiatkowski",
+      "jurisdiction": "Rossland",
+      "office": "Mayor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "salmon arm|councillor|david gonella",
+      "candidate": "David Gonella",
+      "jurisdiction": "Salmon Arm",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-25T18:37:16Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "salmon arm|councillor|debbie cannon",
+      "candidate": "Debbie Cannon",
+      "jurisdiction": "Salmon Arm",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "salmon arm|councillor|ian gray",
+      "candidate": "Ian Gray",
+      "jurisdiction": "Salmon Arm",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "salmon arm|councillor|kari toliver wilkinson",
+      "candidate": "Kari Toliver Wilkinson",
+      "jurisdiction": "Salmon Arm",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "salmon arm|councillor|louise wallace richmond",
+      "candidate": "Louise Wallace Richmond",
+      "jurisdiction": "Salmon Arm",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "salmon arm|councillor|scott syme",
+      "candidate": "Scott Syme",
+      "jurisdiction": "Salmon Arm",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "salmon arm|mayor|alan harrison",
+      "candidate": "Alan Harrison",
+      "jurisdiction": "Salmon Arm",
+      "office": "Mayor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "sayward|councillor|maureen haslehurst",
+      "candidate": "Maureen Haslehurst",
+      "jurisdiction": "Sayward",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "sayward|councillor|michelle davis",
+      "candidate": "Michelle Davis",
+      "jurisdiction": "Sayward",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "sayward|councillor|william ives",
+      "candidate": "William Ives",
+      "jurisdiction": "Sayward",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "sayward|mayor|jason johnson",
+      "candidate": "Jason Johnson",
+      "jurisdiction": "Sayward",
+      "office": "Mayor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "shíshálh nation government district advisory council|advisory council member|carin amber",
+      "candidate": "Carin Amber",
+      "jurisdiction": "shíshálh Nation Government District Advisory Council",
+      "office": "Advisory Council Member",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "shíshálh nation government district advisory council|advisory council member|miko steele",
+      "candidate": "Miko Steele",
+      "jurisdiction": "shíshálh Nation Government District Advisory Council",
+      "office": "Advisory Council Member",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "shíshálh nation government district advisory council|advisory council member|wes irwin",
+      "candidate": "Wes Irwin",
+      "jurisdiction": "shíshálh Nation Government District Advisory Council",
+      "office": "Advisory Council Member",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "slocan|councillor|brendan murray-nellis",
+      "candidate": "Brendan Murray-Nellis",
+      "jurisdiction": "Slocan",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "slocan|councillor|dave fredrickson",
+      "candidate": "Dave Fredrickson",
+      "jurisdiction": "Slocan",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "slocan|councillor|delaine hird",
+      "candidate": "Delaine Hird",
+      "jurisdiction": "Slocan",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "slocan|councillor|katie strong",
+      "candidate": "Katie Strong",
+      "jurisdiction": "Slocan",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "slocan|mayor|jamie ingram",
+      "candidate": "Jamie Ingram",
+      "jurisdiction": "Slocan",
+      "office": "Mayor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "sooke|councillor|curtis peterec",
+      "candidate": "Curtis Peterec",
+      "jurisdiction": "Sooke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "sooke|councillor|elliott lifton",
+      "candidate": "Elliott Lifton",
+      "jurisdiction": "Sooke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "sooke|councillor|herb haldane",
+      "candidate": "Herb Haldane",
+      "jurisdiction": "Sooke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "sooke|councillor|janet evans",
+      "candidate": "Janet Evans",
+      "jurisdiction": "Sooke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "sooke|councillor|katherine strongwind",
+      "candidate": "Katherine Strongwind",
+      "jurisdiction": "Sooke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "sooke|councillor|rob pearce",
+      "candidate": "Rob Pearce",
+      "jurisdiction": "Sooke",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "sooke|mayor|kevin pearson",
+      "candidate": "Kevin Pearson",
+      "jurisdiction": "Sooke",
+      "office": "Mayor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-29T20:18:00Z",
+      "absentHoursApprox": 118.16,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 118.16 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "vanderhoof|councillor|cyndi lauze",
+      "candidate": "Cyndi Lauze",
+      "jurisdiction": "Vanderhoof",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-30T18:37:50Z",
+      "absentHoursApprox": 95.83,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 95.83 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "vanderhoof|councillor|david van dolah",
+      "candidate": "David Van Dolah",
+      "jurisdiction": "Vanderhoof",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-30T18:37:50Z",
+      "absentHoursApprox": 95.83,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 95.83 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "vanderhoof|councillor|elaine penner",
+      "candidate": "Elaine Penner",
+      "jurisdiction": "Vanderhoof",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-30T18:37:50Z",
+      "absentHoursApprox": 95.83,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 95.83 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "vanderhoof|councillor|ernest martens",
+      "candidate": "Ernest Martens",
+      "jurisdiction": "Vanderhoof",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-30T18:37:50Z",
+      "absentHoursApprox": 95.83,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 95.83 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "vanderhoof|councillor|george funk",
+      "candidate": "George Funk",
+      "jurisdiction": "Vanderhoof",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-30T18:37:50Z",
+      "absentHoursApprox": 95.83,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 95.83 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "candidateId": "vanderhoof|councillor|ken young",
+      "candidate": "Ken Young",
+      "jurisdiction": "Vanderhoof",
+      "office": "Councillor",
+      "type": "RESTORED_AFTER_ABSENCE",
+      "returnClassification": "IDENTICAL_RETURN",
+      "disappearedAtUtc": "2026-10-30T18:37:50Z",
+      "absentHoursApprox": 95.83,
+      "firstPresentAtUtc": "2026-09-22T11:37:56Z",
+      "fieldsChanged": {},
+      "identityLinkInferred": false,
+      "pattern": "PRESENT → ABSENT → PRESENT",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "CENTRAL_WIDE_UPDATE",
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-03T18:27:42Z: RESTORED_AFTER_ABSENCE.",
+        "Absent approximately 95.83 hours between observed revisions.",
+        "Return comparison: IDENTICAL_RETURN."
+      ],
+      "clues": [
+        {
+          "indicator": "Temporary record/publishing issue",
+          "direction": "SUPPORTS",
+          "basis": "Returned source fields were identical."
+        },
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "CENTRAL_WIDE_UPDATE, SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -28833,12 +31088,12 @@
       ],
       "candidates": [
         {
-          "candidate": "Kyra Juliana Lazzar",
+          "candidate": "Brian James McHattie",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
         {
-          "candidate": "Brian James McHattie",
+          "candidate": "Kyra Juliana Lazzar",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
@@ -28869,12 +31124,12 @@
       ],
       "candidates": [
         {
-          "candidate": "Kyra Juliana Lazzar",
+          "candidate": "Brian James McHattie",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
         {
-          "candidate": "Brian James McHattie",
+          "candidate": "Kyra Juliana Lazzar",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
@@ -37613,6 +39868,674 @@
           "type": "RESTORED_AFTER_ABSENCE"
         }
       ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "type": "CENTRAL_WIDE_UPDATE",
+      "candidateChanges": 55,
+      "jurisdictions": [
+        "Revelstoke",
+        "Richmond",
+        "Rossland",
+        "Salmon Arm",
+        "Sayward",
+        "Slocan",
+        "Sooke",
+        "Vanderhoof",
+        "shíshálh Nation Government District Advisory Council"
+      ],
+      "candidates": [
+        {
+          "candidate": "Taha Attiah",
+          "jurisdiction": "Revelstoke",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Aaron Orlando",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Austin Luciow",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Brenda Demone",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Lee Devlin",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Robyn Goldsmith",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Sarah Erikson",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Andy Hobbs",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Carol Day",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Gary Law",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Kenny Chiu",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Kevin Lai",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Laura Gillanders",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Michael Wolfe",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Sheldon Starrett",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Rob Howard",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Andy Morel",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Daniel Eheler",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Mark Godin",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Matthew Watkins",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Maya Provencal",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Lisa Kwiatkowski",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "David Gonella",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Debbie Cannon",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Ian Gray",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Kari Toliver Wilkinson",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Louise Wallace Richmond",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Scott Syme",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Alan Harrison",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Maureen Haslehurst",
+          "jurisdiction": "Sayward",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Michelle Davis",
+          "jurisdiction": "Sayward",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Neil MacDougall",
+          "jurisdiction": "Sayward",
+          "type": "NEW"
+        },
+        {
+          "candidate": "William Ives",
+          "jurisdiction": "Sayward",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jason Johnson",
+          "jurisdiction": "Sayward",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Carin Amber",
+          "jurisdiction": "shíshálh Nation Government District Advisory Council",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Miko Steele",
+          "jurisdiction": "shíshálh Nation Government District Advisory Council",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Wes Irwin",
+          "jurisdiction": "shíshálh Nation Government District Advisory Council",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Brendan Murray-Nellis",
+          "jurisdiction": "Slocan",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Dave Fredrickson",
+          "jurisdiction": "Slocan",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Delaine Hird",
+          "jurisdiction": "Slocan",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Katie Strong",
+          "jurisdiction": "Slocan",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jamie Ingram",
+          "jurisdiction": "Slocan",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Curtis Peterec",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Elliott Lifton",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Herb Haldane",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Janet Evans",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Katherine Strongwind",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Rob Pearce",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Kevin Pearson",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Cyndi Lauze",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "David Van Dolah",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Elaine Penner",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Ernest Martens",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "George Funk",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Ken Young",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Revelstoke"
+      ],
+      "candidates": [
+        {
+          "candidate": "Taha Attiah",
+          "jurisdiction": "Revelstoke",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Aaron Orlando",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Austin Luciow",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Brenda Demone",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Lee Devlin",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Robyn Goldsmith",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Sarah Erikson",
+          "jurisdiction": "Revelstoke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 9,
+      "jurisdictions": [
+        "Richmond"
+      ],
+      "candidates": [
+        {
+          "candidate": "Andy Hobbs",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Carol Day",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Gary Law",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Kenny Chiu",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Kevin Lai",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Laura Gillanders",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Michael Wolfe",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Sheldon Starrett",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Rob Howard",
+          "jurisdiction": "Richmond",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 6,
+      "jurisdictions": [
+        "Rossland"
+      ],
+      "candidates": [
+        {
+          "candidate": "Andy Morel",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Daniel Eheler",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Mark Godin",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Matthew Watkins",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Maya Provencal",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Lisa Kwiatkowski",
+          "jurisdiction": "Rossland",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Salmon Arm"
+      ],
+      "candidates": [
+        {
+          "candidate": "David Gonella",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Debbie Cannon",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Ian Gray",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Kari Toliver Wilkinson",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Louise Wallace Richmond",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Scott Syme",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Alan Harrison",
+          "jurisdiction": "Salmon Arm",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 5,
+      "jurisdictions": [
+        "Sayward"
+      ],
+      "candidates": [
+        {
+          "candidate": "Maureen Haslehurst",
+          "jurisdiction": "Sayward",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Michelle Davis",
+          "jurisdiction": "Sayward",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Neil MacDougall",
+          "jurisdiction": "Sayward",
+          "type": "NEW"
+        },
+        {
+          "candidate": "William Ives",
+          "jurisdiction": "Sayward",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jason Johnson",
+          "jurisdiction": "Sayward",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 5,
+      "jurisdictions": [
+        "Slocan"
+      ],
+      "candidates": [
+        {
+          "candidate": "Brendan Murray-Nellis",
+          "jurisdiction": "Slocan",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Dave Fredrickson",
+          "jurisdiction": "Slocan",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Delaine Hird",
+          "jurisdiction": "Slocan",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Katie Strong",
+          "jurisdiction": "Slocan",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Jamie Ingram",
+          "jurisdiction": "Slocan",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 7,
+      "jurisdictions": [
+        "Sooke"
+      ],
+      "candidates": [
+        {
+          "candidate": "Curtis Peterec",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Elliott Lifton",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Herb Haldane",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Janet Evans",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Katherine Strongwind",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Rob Pearce",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Kevin Pearson",
+          "jurisdiction": "Sooke",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 6,
+      "jurisdictions": [
+        "Vanderhoof"
+      ],
+      "candidates": [
+        {
+          "candidate": "Cyndi Lauze",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "David Van Dolah",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Elaine Penner",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Ernest Martens",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "George Funk",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Ken Young",
+          "jurisdiction": "Vanderhoof",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
+    },
+    {
+      "atUtc": "2026-11-03T18:27:42Z",
+      "revision": 36,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 3,
+      "jurisdictions": [
+        "shíshálh Nation Government District Advisory Council"
+      ],
+      "candidates": [
+        {
+          "candidate": "Carin Amber",
+          "jurisdiction": "shíshálh Nation Government District Advisory Council",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Miko Steele",
+          "jurisdiction": "shíshálh Nation Government District Advisory Council",
+          "type": "RESTORED_AFTER_ABSENCE"
+        },
+        {
+          "candidate": "Wes Irwin",
+          "jurisdiction": "shíshálh Nation Government District Advisory Council",
+          "type": "RESTORED_AFTER_ABSENCE"
+        }
+      ]
     }
   ],
   "timing": {
@@ -37644,7 +40567,8 @@
       "2026-10-28T21": 15,
       "2026-10-29T20": 154,
       "2026-10-30T18": 278,
-      "2026-10-31T19": 107
+      "2026-10-31T19": 107,
+      "2026-11-03T18": 55
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -37673,7 +40597,8 @@
       "2026-10-28": 15,
       "2026-10-29": 154,
       "2026-10-30": 278,
-      "2026-10-31": 107
+      "2026-10-31": 107,
+      "2026-11-03": 55
     },
     "revisions": [
       {
@@ -38255,6 +41180,23 @@
         "candidateChanges": 0,
         "jurisdictionsAffected": 0,
         "jurisdictions": []
+      },
+      {
+        "atUtc": "2026-11-03T18:27:42Z",
+        "sourceHash": "8f1f633129dc4bd67c8e28e25db1e3c04495280f5e6f2567312050c00a8b79fa",
+        "candidateChanges": 55,
+        "jurisdictionsAffected": 9,
+        "jurisdictions": [
+          "Revelstoke",
+          "Richmond",
+          "Rossland",
+          "Salmon Arm",
+          "Sayward",
+          "Slocan",
+          "Sooke",
+          "Vanderhoof",
+          "shíshálh Nation Government District Advisory Council"
+        ]
       }
     ],
     "milestones": [
