@@ -9486,5 +9486,262 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-11-05T18:46:00Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "14455f9e094fd8b0c966ca168df678346a3edc7b3751f8994ca5084a19802872",
+    "previousSourceSha256": "31796f45894fc1d4f2f749be93f69145247aa4ba051da3994ba22552607e1907",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3522,
+    "candidateCount": 3552,
+    "netCandidateDelta": 30,
+    "added": [
+      {
+        "jurisdiction": "Alberni-Clayoquot Regional District",
+        "office": "Electoral Area Director",
+        "candidate": "Max Salamon",
+        "affiliation": "",
+        "financialAgent": "Max Salamon",
+        "sourcePage": 4
+      },
+      {
+        "jurisdiction": "Ashcroft",
+        "office": "Mayor",
+        "candidate": "Barbara Roden",
+        "affiliation": "",
+        "financialAgent": "Barbara Roden",
+        "sourcePage": 8
+      },
+      {
+        "jurisdiction": "Burnaby School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Bill Brassington",
+        "affiliation": "BCA - Burnaby Citizens Association",
+        "financialAgent": "Chi Fai (Chris) Wong",
+        "sourcePage": 14
+      },
+      {
+        "jurisdiction": "Cariboo Chilcotin School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Willow Macdonald",
+        "affiliation": "",
+        "financialAgent": "Willow Macdonald",
+        "sourcePage": 19
+      },
+      {
+        "jurisdiction": "Castlegar",
+        "office": "Councillor",
+        "candidate": "Miguel Godau",
+        "affiliation": "",
+        "financialAgent": "Miguel Godau",
+        "sourcePage": 21
+      },
+      {
+        "jurisdiction": "Daajing Giids",
+        "office": "Councillor",
+        "candidate": "Kim Claggett",
+        "affiliation": "",
+        "financialAgent": "Kim Claggett",
+        "sourcePage": 43
+      },
+      {
+        "jurisdiction": "Esquimalt",
+        "office": "Councillor",
+        "candidate": "Andrea Boardman",
+        "affiliation": "",
+        "financialAgent": "Andrea Boardman",
+        "sourcePage": 49
+      },
+      {
+        "jurisdiction": "Fraser Cascade School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Cathy Speth",
+        "affiliation": "",
+        "financialAgent": "Cathy Speth",
+        "sourcePage": 52
+      },
+      {
+        "jurisdiction": "Granisle",
+        "office": "Councillor",
+        "candidate": "Ron Bedard",
+        "affiliation": "",
+        "financialAgent": "Kathy Bedard",
+        "sourcePage": 58
+      },
+      {
+        "jurisdiction": "Lions Bay",
+        "office": "Councillor",
+        "candidate": "Adam Solheim",
+        "affiliation": "",
+        "financialAgent": "Adam Solheim",
+        "sourcePage": 87
+      },
+      {
+        "jurisdiction": "Lions Bay",
+        "office": "Councillor",
+        "candidate": "Ehsan Monfared",
+        "affiliation": "",
+        "financialAgent": "Ehsan Monfared",
+        "sourcePage": 87
+      },
+      {
+        "jurisdiction": "Lions Bay",
+        "office": "Councillor",
+        "candidate": "Leslie Nolin",
+        "affiliation": "",
+        "financialAgent": "Mohammed Kassam",
+        "sourcePage": 87
+      },
+      {
+        "jurisdiction": "Lions Bay",
+        "office": "Councillor",
+        "candidate": "Neville Abbott",
+        "affiliation": "",
+        "financialAgent": "Neville Abbott",
+        "sourcePage": 87
+      },
+      {
+        "jurisdiction": "Lions Bay",
+        "office": "Mayor",
+        "candidate": "Ron McLaughlin",
+        "affiliation": "",
+        "financialAgent": "Mary McLaughlin",
+        "sourcePage": 88
+      },
+      {
+        "jurisdiction": "McBride",
+        "office": "Councillor",
+        "candidate": "Glen Frear",
+        "affiliation": "",
+        "financialAgent": "Glen Frear",
+        "sourcePage": 93
+      },
+      {
+        "jurisdiction": "Osoyoos",
+        "office": "Water Councillor",
+        "candidate": "Sarabjit Rai",
+        "affiliation": "",
+        "financialAgent": "Sarabjit Rai",
+        "sourcePage": 118
+      },
+      {
+        "jurisdiction": "Prince Rupert",
+        "office": "Councillor",
+        "candidate": "Barry Cunningham",
+        "affiliation": "",
+        "financialAgent": "David Smith",
+        "sourcePage": 135
+      },
+      {
+        "jurisdiction": "Qualicum Beach",
+        "office": "Mayor",
+        "candidate": "Adam Walker",
+        "affiliation": "",
+        "financialAgent": "Adam Walker",
+        "sourcePage": 138
+      },
+      {
+        "jurisdiction": "Smithers",
+        "office": "Councillor",
+        "candidate": "Calvin Elliott",
+        "affiliation": "",
+        "financialAgent": "Calvin Elliott",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Smithers",
+        "office": "Councillor",
+        "candidate": "Frank Wray",
+        "affiliation": "",
+        "financialAgent": "Frank Wray",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Smithers",
+        "office": "Councillor",
+        "candidate": "Genevieve Paterson",
+        "affiliation": "",
+        "financialAgent": "Genevieve Paterson",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Smithers",
+        "office": "Councillor",
+        "candidate": "Laura Leonard",
+        "affiliation": "",
+        "financialAgent": "Laura Leonard",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Smithers",
+        "office": "Councillor",
+        "candidate": "Sam Raven",
+        "affiliation": "",
+        "financialAgent": "Sam Raven",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Smithers",
+        "office": "Councillor",
+        "candidate": "Scott Marko",
+        "affiliation": "",
+        "financialAgent": "Scott Marko",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Smithers",
+        "office": "Mayor",
+        "candidate": "John Buikema",
+        "affiliation": "",
+        "financialAgent": "John Buikema",
+        "sourcePage": 158
+      },
+      {
+        "jurisdiction": "Surrey",
+        "office": "Councillor",
+        "candidate": "Doug Elford",
+        "affiliation": "Safe Surrey Coalition",
+        "financialAgent": "Manjeet Sandhu",
+        "sourcePage": 168
+      },
+      {
+        "jurisdiction": "Terrace",
+        "office": "Councillor",
+        "candidate": "Chris Apps",
+        "affiliation": "",
+        "financialAgent": "Chris Apps",
+        "sourcePage": 174
+      },
+      {
+        "jurisdiction": "Trail",
+        "office": "Mayor",
+        "candidate": "Nick Cashol",
+        "affiliation": "",
+        "financialAgent": "Nick Cashol",
+        "sourcePage": 176
+      },
+      {
+        "jurisdiction": "Vancouver",
+        "office": "Councillor",
+        "candidate": "Sean Orr",
+        "affiliation": "COPE",
+        "financialAgent": "Nate Stanley",
+        "sourcePage": 180
+      },
+      {
+        "jurisdiction": "shíshálh Nation Government District Advisory Council",
+        "office": "Advisory Council Member",
+        "candidate": "Douglas Stewart",
+        "affiliation": "",
+        "financialAgent": "Douglas Stewart",
+        "sourcePage": 155
+      }
+    ],
+    "removed": [],
+    "statusChanges": [],
+    "modified": []
   }
 ]
