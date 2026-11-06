@@ -9743,5 +9743,30 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-11-06T20:54:31Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "c18704b02df2bd372f0ea5e075685be01270076f7fa7552c65d17130b1abd3e4",
+    "previousSourceSha256": "14455f9e094fd8b0c966ca168df678346a3edc7b3751f8994ca5084a19802872",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3552,
+    "candidateCount": 3551,
+    "netCandidateDelta": -1,
+    "added": [],
+    "removed": [
+      {
+        "jurisdiction": "Powell River",
+        "office": "Councillor",
+        "candidate": "Earl Almeida",
+        "affiliation": "",
+        "financialAgent": "Earl Almeida",
+        "sourcePage": 131
+      }
+    ],
+    "statusChanges": [],
+    "modified": []
   }
 ]

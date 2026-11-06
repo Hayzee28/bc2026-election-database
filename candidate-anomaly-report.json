@@ -2863,13 +2863,13 @@
     {
       "atUtc": "2026-10-09T16:12:50Z",
       "revision": 16,
-      "candidateId": "sooke|councillor|brian mchattie",
-      "candidate": "Brian James McHattie",
+      "candidateId": "sooke|councillor|kyra lazzar",
+      "candidate": "Kyra Juliana Lazzar",
       "jurisdiction": "Sooke",
       "office": "Councillor",
       "type": "NAME_CORRECTION",
-      "from": "Brian McHattie",
-      "to": "Brian James McHattie",
+      "from": "Kyra Lazzar",
+      "to": "Kyra Juliana Lazzar",
       "category": "FIELD_CORRECTION",
       "identityLinkInferred": true,
       "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
@@ -2902,13 +2902,13 @@
     {
       "atUtc": "2026-10-09T16:12:50Z",
       "revision": 16,
-      "candidateId": "sooke|councillor|kyra lazzar",
-      "candidate": "Kyra Juliana Lazzar",
+      "candidateId": "sooke|councillor|brian mchattie",
+      "candidate": "Brian James McHattie",
       "jurisdiction": "Sooke",
       "office": "Councillor",
       "type": "NAME_CORRECTION",
-      "from": "Kyra Lazzar",
-      "to": "Kyra Juliana Lazzar",
+      "from": "Brian McHattie",
+      "to": "Brian James McHattie",
       "category": "FIELD_CORRECTION",
       "identityLinkInferred": true,
       "linkBasis": "Unique similar name and identical agent in same jurisdiction/office",
@@ -34250,6 +34250,32 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-11-06T20:54:31Z",
+      "revision": 39,
+      "candidateId": "powell river|councillor|earl almeida",
+      "candidate": "Earl Almeida",
+      "jurisdiction": "Powell River",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [],
+      "facts": [
+        "Elections BC revision at 2026-11-06T20:54:31Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Cause of change",
+          "direction": "UNKNOWN",
+          "basis": "Observed source revisions do not explain why."
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -36490,12 +36516,12 @@
       ],
       "candidates": [
         {
-          "candidate": "Brian James McHattie",
+          "candidate": "Kyra Juliana Lazzar",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
         {
-          "candidate": "Kyra Juliana Lazzar",
+          "candidate": "Brian James McHattie",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
@@ -36526,12 +36552,12 @@
       ],
       "candidates": [
         {
-          "candidate": "Brian James McHattie",
+          "candidate": "Kyra Juliana Lazzar",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
         {
-          "candidate": "Kyra Juliana Lazzar",
+          "candidate": "Brian James McHattie",
           "jurisdiction": "Sooke",
           "type": "NAME_CORRECTION"
         },
@@ -47418,7 +47444,8 @@
       "2026-10-31T19": 107,
       "2026-11-03T18": 55,
       "2026-11-04T21": 99,
-      "2026-11-05T18": 30
+      "2026-11-05T18": 30,
+      "2026-11-06T20": 1
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -47450,7 +47477,8 @@
       "2026-10-31": 107,
       "2026-11-03": 55,
       "2026-11-04": 99,
-      "2026-11-05": 30
+      "2026-11-05": 30,
+      "2026-11-06": 1
     },
     "revisions": [
       {
@@ -48102,6 +48130,15 @@
           "Trail",
           "Vancouver",
           "shíshálh Nation Government District Advisory Council"
+        ]
+      },
+      {
+        "atUtc": "2026-11-06T20:54:31Z",
+        "sourceHash": "c18704b02df2bd372f0ea5e075685be01270076f7fa7552c65d17130b1abd3e4",
+        "candidateChanges": 1,
+        "jurisdictionsAffected": 1,
+        "jurisdictions": [
+          "Powell River"
         ]
       }
     ],

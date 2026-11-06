@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 39 observed/reconstructed source revisions. Times are UTC.
+Generated from 40 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -46,6 +46,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-11-03T18:27:42Z | 3423 | 251 | 54 | 1 | 0 | 0 | 8f1f633129dc4bd67c8e28e25db1e3c04495280f5e6f2567312050c00a8b79fa |
 | 2026-11-04T21:53:10Z | 3522 | 251 | 99 | 0 | 0 | 0 | 31796f45894fc1d4f2f749be93f69145247aa4ba051da3994ba22552607e1907 |
 | 2026-11-05T18:46:00Z | 3552 | 251 | 30 | 0 | 0 | 0 | 14455f9e094fd8b0c966ca168df678346a3edc7b3751f8994ca5084a19802872 |
+| 2026-11-06T20:54:31Z | 3551 | 251 | 0 | 1 | 0 | 0 | c18704b02df2bd372f0ea5e075685be01270076f7fa7552c65d17130b1abd3e4 |
 
 ## Candidate observations
 
@@ -1622,7 +1623,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Brian James McHattie — Sooke (Councillor)
+### Kyra Juliana Lazzar — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -1641,7 +1642,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
-### Kyra Juliana Lazzar — Sooke (Councillor)
+### Brian James McHattie — Sooke (Councillor)
 
 Pattern: NAME_CORRECTION; observed 2026-10-09T16:12:50Z
 
@@ -18891,6 +18892,24 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Earl Almeida — Powell River (Councillor)
+
+Pattern: REMOVED; observed 2026-11-06T20:54:31Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-06T20:54:31Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- UNKNOWN: Cause of change — Observed source revisions do not explain why.
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -19004,6 +19023,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Okanagan Falls, District of | 2 | 1 | 2 |
 | Osoyoos | 2 | 2 | 1 |
 | Parksville | 2 | 2 | 1 |
+| Powell River | 2 | 2 | 2 |
 | Prince Rupert | 2 | 2 | 1 |
 | Princeton | 2 | 2 | 1 |
 | Qualicum Beach | 2 | 2 | 1 |
@@ -19045,7 +19065,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Peachland | 1 | 1 | 1 |
 | Port Coquitlam | 1 | 1 | 1 |
 | Port Moody | 1 | 1 | 1 |
-| Powell River | 1 | 1 | 1 |
 | Prince George | 1 | 1 | 1 |
 | Qualicum School District | 1 | 1 | 1 |
 | Quesnel School District | 1 | 1 | 1 |
