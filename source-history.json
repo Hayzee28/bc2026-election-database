@@ -798,5 +798,25 @@
     "reconstructed": false,
     "provenance": "validated_updater",
     "auditIndex": 39
+  },
+  {
+    "snapshotId": "ac15b0aa093abe39bf27cc89f26b4c64a8a00c33e050a073256b258ad4a7eaf7",
+    "firstObservedAtUtc": "2026-11-07T18:48:09Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceSha256": "ac15b0aa093abe39bf27cc89f26b4c64a8a00c33e050a073256b258ad4a7eaf7",
+    "sourceSha256Prefix": null,
+    "previousSourceSha256": "c18704b02df2bd372f0ea5e075685be01270076f7fa7552c65d17130b1abd3e4",
+    "currentSourceHash": "ac15b0aa093abe39bf27cc89f26b4c64a8a00c33e050a073256b258ad4a7eaf7",
+    "previousSourceHash": "c18704b02df2bd372f0ea5e075685be01270076f7fa7552c65d17130b1abd3e4",
+    "pageCount": 198,
+    "candidateCount": 3551,
+    "jurisdictionCount": 251,
+    "additions": 0,
+    "removals": 0,
+    "statusChanges": 0,
+    "fieldChanges": 0,
+    "reconstructed": false,
+    "provenance": "validated_updater",
+    "auditIndex": 40
   }
 ]

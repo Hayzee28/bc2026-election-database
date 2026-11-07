@@ -48140,6 +48140,13 @@
         "jurisdictions": [
           "Powell River"
         ]
+      },
+      {
+        "atUtc": "2026-11-07T18:48:09Z",
+        "sourceHash": "ac15b0aa093abe39bf27cc89f26b4c64a8a00c33e050a073256b258ad4a7eaf7",
+        "candidateChanges": 0,
+        "jurisdictionsAffected": 0,
+        "jurisdictions": []
       }
     ],
     "milestones": [
