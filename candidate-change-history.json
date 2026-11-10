@@ -9800,5 +9800,50 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-11-10T17:50:15Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "749927c3b363b060f9d986d25454012226a8ee8bada27b20e42a9ac42fbe22d9",
+    "previousSourceSha256": "744f029fbfd875986ea0664264f5c9c0db831062dc2dfa860e52161a6110dde2",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3551,
+    "candidateCount": 3549,
+    "netCandidateDelta": -2,
+    "added": [],
+    "removed": [
+      {
+        "jurisdiction": "Capital Regional District",
+        "office": "Local Community Commissioner",
+        "candidate": "Earl Rook",
+        "affiliation": "",
+        "financialAgent": "Earl Rook",
+        "sourcePage": 18
+      },
+      {
+        "jurisdiction": "Vancouver Island North School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Jeff Field",
+        "affiliation": "",
+        "financialAgent": "Jeff Field",
+        "sourcePage": 184
+      }
+    ],
+    "statusChanges": [],
+    "modified": [
+      {
+        "jurisdiction": "Lake Country",
+        "office": "Councillor",
+        "candidate": "Tricia Brett",
+        "changes": {
+          "financialAgent": {
+            "from": "Brett Kelly",
+            "to": "Kelly Brett"
+          }
+        }
+      }
+    ]
   }
 ]

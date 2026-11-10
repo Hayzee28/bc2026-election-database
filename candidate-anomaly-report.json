@@ -34276,6 +34276,62 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-11-10T17:50:15Z",
+      "revision": 42,
+      "candidateId": "capital regional district|local community commissioner|earl rook",
+      "candidate": "Earl Rook",
+      "jurisdiction": "Capital Regional District",
+      "office": "Local Community Commissioner",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-10T17:50:15Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
+    },
+    {
+      "atUtc": "2026-11-10T17:50:15Z",
+      "revision": 42,
+      "candidateId": "vancouver island north school district|board of education trustee|jeff field",
+      "candidate": "Jeff Field",
+      "jurisdiction": "Vancouver Island North School District",
+      "office": "Board of Education Trustee",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "MULTI_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-10T17:50:15Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "MULTI_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -47410,6 +47466,34 @@
           "type": "RESTORED_AFTER_ABSENCE"
         }
       ]
+    },
+    {
+      "atUtc": "2026-11-10T17:50:15Z",
+      "revision": 42,
+      "type": "MULTI_JURISDICTION_BATCH",
+      "candidateChanges": 3,
+      "jurisdictions": [
+        "Capital Regional District",
+        "Lake Country",
+        "Vancouver Island North School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Earl Rook",
+          "jurisdiction": "Capital Regional District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Jeff Field",
+          "jurisdiction": "Vancouver Island North School District",
+          "type": "REMOVED"
+        },
+        {
+          "candidate": "Tricia Brett",
+          "jurisdiction": "Lake Country",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
     }
   ],
   "timing": {
@@ -47445,7 +47529,8 @@
       "2026-11-03T18": 55,
       "2026-11-04T21": 99,
       "2026-11-05T18": 30,
-      "2026-11-06T20": 1
+      "2026-11-06T20": 1,
+      "2026-11-10T17": 3
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -47478,7 +47563,8 @@
       "2026-11-03": 55,
       "2026-11-04": 99,
       "2026-11-05": 30,
-      "2026-11-06": 1
+      "2026-11-06": 1,
+      "2026-11-10": 3
     },
     "revisions": [
       {
@@ -48154,6 +48240,17 @@
         "candidateChanges": 0,
         "jurisdictionsAffected": 0,
         "jurisdictions": []
+      },
+      {
+        "atUtc": "2026-11-10T17:50:15Z",
+        "sourceHash": "749927c3b363b060f9d986d25454012226a8ee8bada27b20e42a9ac42fbe22d9",
+        "candidateChanges": 3,
+        "jurisdictionsAffected": 3,
+        "jurisdictions": [
+          "Capital Regional District",
+          "Lake Country",
+          "Vancouver Island North School District"
+        ]
       }
     ],
     "milestones": [

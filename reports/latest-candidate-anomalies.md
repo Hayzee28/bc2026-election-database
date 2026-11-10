@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 42 observed/reconstructed source revisions. Times are UTC.
+Generated from 43 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -49,6 +49,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-11-06T20:54:31Z | 3551 | 251 | 0 | 1 | 0 | 0 | c18704b02df2bd372f0ea5e075685be01270076f7fa7552c65d17130b1abd3e4 |
 | 2026-11-07T18:48:09Z | 3551 | 251 | 0 | 0 | 0 | 0 | ac15b0aa093abe39bf27cc89f26b4c64a8a00c33e050a073256b258ad4a7eaf7 |
 | 2026-11-09T18:48:58Z | 3551 | 251 | 0 | 0 | 0 | 0 | 744f029fbfd875986ea0664264f5c9c0db831062dc2dfa860e52161a6110dde2 |
+| 2026-11-10T17:50:15Z | 3549 | 251 | 0 | 2 | 0 | 1 | 749927c3b363b060f9d986d25454012226a8ee8bada27b20e42a9ac42fbe22d9 |
 
 ## Candidate observations
 
@@ -18912,6 +18913,42 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Earl Rook — Capital Regional District (Local Community Commissioner)
+
+Pattern: REMOVED; observed 2026-11-10T17:50:15Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-10T17:50:15Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
+### Jeff Field — Vancouver Island North School District (Board of Education Trustee)
+
+Pattern: REMOVED; observed 2026-11-10T17:50:15Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-10T17:50:15Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — MULTI_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -18923,11 +18960,11 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Sooke | 18 | 3 | 11 |
 | Victoria | 18 | 2 | 9 |
 | Abbotsford School District | 17 | 3 | 9 |
+| Lake Country | 17 | 5 | 8 |
 | Prince George School District | 17 | 5 | 9 |
 | Terrace | 17 | 5 | 10 |
 | Coquitlam School District | 16 | 2 | 8 |
 | Fort St. John | 16 | 4 | 9 |
-| Lake Country | 16 | 4 | 8 |
 | Salmon Arm | 16 | 4 | 8 |
 | Elkford | 15 | 3 | 8 |
 | Langley, City of | 15 | 3 | 7 |
@@ -19013,6 +19050,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Anmore | 2 | 1 | 2 |
 | Bulkley Valley School District | 2 | 1 | 2 |
 | Burns Lake | 2 | 1 | 2 |
+| Capital Regional District | 2 | 2 | 2 |
 | Castlegar | 2 | 2 | 1 |
 | Central Okanagan School District | 2 | 2 | 2 |
 | Comox | 2 | 1 | 1 |
@@ -19038,7 +19076,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Arrow Lakes School District | 1 | 1 | 1 |
 | Bulkley-Nechako Regional District | 1 | 1 | 1 |
 | Burnaby | 1 | 1 | 1 |
-| Capital Regional District | 1 | 1 | 1 |
 | Cariboo Regional District | 1 | 1 | 1 |
 | Central Saanich | 1 | 1 | 1 |
 | Chilliwack | 1 | 1 | 1 |
@@ -19079,4 +19116,5 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Surrey School District | 1 | 1 | 1 |
 | Taylor | 1 | 1 | 1 |
 | Thompson-Nicola Regional District | 1 | 1 | 1 |
+| Vancouver Island North School District | 1 | 1 | 1 |
 | Vernon School District | 1 | 1 | 1 |
