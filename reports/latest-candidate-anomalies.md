@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 45 observed/reconstructed source revisions. Times are UTC.
+Generated from 46 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -52,6 +52,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-11-10T17:50:15Z | 3549 | 251 | 0 | 2 | 0 | 1 | 749927c3b363b060f9d986d25454012226a8ee8bada27b20e42a9ac42fbe22d9 |
 | 2026-11-11T21:57:41Z | 3549 | 251 | 0 | 0 | 0 | 0 | 5f888b0832cb57bf84dba5975604e27956dde18214eeef6f198b04b95837ee92 |
 | 2026-11-12T18:55:42Z | 3549 | 251 | 0 | 0 | 0 | 0 | c653c3e155e945d1b3402b435a80825def52ddace72752cae2307d3946d21290 |
+| 2026-11-13T16:22:44Z | 3549 | 251 | 0 | 0 | 0 | 0 | 4ace87f416d6bff436192c998aea6ef6d3627f9604c1bcc8ae77a58ec45a73a8 |
 
 ## Candidate observations
 
