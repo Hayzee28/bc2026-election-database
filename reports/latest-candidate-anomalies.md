@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 46 observed/reconstructed source revisions. Times are UTC.
+Generated from 47 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -53,6 +53,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-11-11T21:57:41Z | 3549 | 251 | 0 | 0 | 0 | 0 | 5f888b0832cb57bf84dba5975604e27956dde18214eeef6f198b04b95837ee92 |
 | 2026-11-12T18:55:42Z | 3549 | 251 | 0 | 0 | 0 | 0 | c653c3e155e945d1b3402b435a80825def52ddace72752cae2307d3946d21290 |
 | 2026-11-13T16:22:44Z | 3549 | 251 | 0 | 0 | 0 | 0 | 4ace87f416d6bff436192c998aea6ef6d3627f9604c1bcc8ae77a58ec45a73a8 |
+| 2026-11-14T17:08:05Z | 3549 | 251 | 1 | 1 | 0 | 0 | f0d4492a5ee3731d9a294ed8ec9e8eb32ac027e92d941277d9117712bf4572db |
 
 ## Candidate observations
 
@@ -18952,6 +18953,24 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Lori Mindnich — Vernon School District (Board of Education Trustee)
+
+Pattern: NAME_CORRECTION; observed 2026-11-14T17:08:05Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-14T17:08:05Z: NAME_CORRECTION.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- SUPPORTS: Batch update — SAME_JURISDICTION_BATCH
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -19049,6 +19068,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | McBride | 3 | 3 | 2 |
 | Stikine School District | 3 | 2 | 3 |
 | Vancouver School District | 3 | 3 | 3 |
+| Vernon School District | 3 | 2 | 2 |
 | Williams Lake | 3 | 1 | 3 |
 | Anmore | 2 | 1 | 2 |
 | Bulkley Valley School District | 2 | 1 | 2 |
@@ -19120,4 +19140,3 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Taylor | 1 | 1 | 1 |
 | Thompson-Nicola Regional District | 1 | 1 | 1 |
 | Vancouver Island North School District | 1 | 1 | 1 |
-| Vernon School District | 1 | 1 | 1 |

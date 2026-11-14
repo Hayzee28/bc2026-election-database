@@ -34332,6 +34332,38 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-11-14T17:08:05Z",
+      "revision": 46,
+      "candidateId": "vernon school district|board of education trustee|lori mindnich",
+      "candidate": "Lori Mindnich",
+      "jurisdiction": "Vernon School District",
+      "office": "Board of Education Trustee",
+      "type": "NAME_CORRECTION",
+      "from": "LorI Mindnich",
+      "to": "Lori Mindnich",
+      "category": "FIELD_CORRECTION",
+      "identityLinkInferred": false,
+      "pattern": "NAME_CORRECTION",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [
+        "SAME_JURISDICTION_BATCH"
+      ],
+      "facts": [
+        "Elections BC revision at 2026-11-14T17:08:05Z: NAME_CORRECTION."
+      ],
+      "clues": [
+        {
+          "indicator": "Batch update",
+          "direction": "SUPPORTS",
+          "basis": "SAME_JURISDICTION_BATCH"
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -47494,6 +47526,27 @@
           "type": "FINANCIAL_AGENT_CHANGE"
         }
       ]
+    },
+    {
+      "atUtc": "2026-11-14T17:08:05Z",
+      "revision": 46,
+      "type": "SAME_JURISDICTION_BATCH",
+      "candidateChanges": 2,
+      "jurisdictions": [
+        "Vernon School District"
+      ],
+      "candidates": [
+        {
+          "candidate": "Lori Mindnich",
+          "jurisdiction": "Vernon School District",
+          "type": "NAME_CORRECTION"
+        },
+        {
+          "candidate": "Lori Mindnich",
+          "jurisdiction": "Vernon School District",
+          "type": "FINANCIAL_AGENT_CHANGE"
+        }
+      ]
     }
   ],
   "timing": {
@@ -47530,7 +47583,8 @@
       "2026-11-04T21": 99,
       "2026-11-05T18": 30,
       "2026-11-06T20": 1,
-      "2026-11-10T17": 3
+      "2026-11-10T17": 3,
+      "2026-11-14T17": 2
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -47564,7 +47618,8 @@
       "2026-11-04": 99,
       "2026-11-05": 30,
       "2026-11-06": 1,
-      "2026-11-10": 3
+      "2026-11-10": 3,
+      "2026-11-14": 2
     },
     "revisions": [
       {
@@ -48272,6 +48327,15 @@
         "candidateChanges": 0,
         "jurisdictionsAffected": 0,
         "jurisdictions": []
+      },
+      {
+        "atUtc": "2026-11-14T17:08:05Z",
+        "sourceHash": "f0d4492a5ee3731d9a294ed8ec9e8eb32ac027e92d941277d9117712bf4572db",
+        "candidateChanges": 2,
+        "jurisdictionsAffected": 1,
+        "jurisdictions": [
+          "Vernon School District"
+        ]
       }
     ],
     "milestones": [

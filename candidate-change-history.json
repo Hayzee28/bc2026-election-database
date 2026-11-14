@@ -9893,5 +9893,39 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-11-14T17:08:05Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "f0d4492a5ee3731d9a294ed8ec9e8eb32ac027e92d941277d9117712bf4572db",
+    "previousSourceSha256": "4ace87f416d6bff436192c998aea6ef6d3627f9604c1bcc8ae77a58ec45a73a8",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3549,
+    "candidateCount": 3549,
+    "netCandidateDelta": 0,
+    "added": [
+      {
+        "jurisdiction": "Vernon School District",
+        "office": "Board of Education Trustee",
+        "candidate": "Lori Mindnich",
+        "affiliation": "",
+        "financialAgent": "Lori Mindnich",
+        "sourcePage": 188
+      }
+    ],
+    "removed": [
+      {
+        "jurisdiction": "Vernon School District",
+        "office": "Board of Education Trustee",
+        "candidate": "LorI Mindnich",
+        "affiliation": "",
+        "financialAgent": "LorI Mindnich",
+        "sourcePage": 188
+      }
+    ],
+    "statusChanges": [],
+    "modified": []
   }
 ]
