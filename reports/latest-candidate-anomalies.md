@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 48 observed/reconstructed source revisions. Times are UTC.
+Generated from 49 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -55,6 +55,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-11-13T16:22:44Z | 3549 | 251 | 0 | 0 | 0 | 0 | 4ace87f416d6bff436192c998aea6ef6d3627f9604c1bcc8ae77a58ec45a73a8 |
 | 2026-11-14T17:08:05Z | 3549 | 251 | 1 | 1 | 0 | 0 | f0d4492a5ee3731d9a294ed8ec9e8eb32ac027e92d941277d9117712bf4572db |
 | 2026-11-16T20:29:11Z | 3549 | 251 | 0 | 0 | 0 | 0 | 001da1242954a94326eef3a4e25eaa6234f3bae47eb976587ba1378471502c14 |
+| 2026-11-17T22:24:10Z | 3550 | 251 | 1 | 0 | 0 | 0 | 53a286dc711add112cb17746b9f5ce3d39a9ef8d1b59c86b93f1bfdfdcd3309c |
 
 ## Candidate observations
 
@@ -19133,6 +19134,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Quesnel School District | 1 | 1 | 1 |
 | Saanich School District | 1 | 1 | 1 |
 | Salmo | 1 | 1 | 1 |
+| Silverton | 1 | 1 | 1 |
 | Southeast Kootenay School District | 1 | 1 | 1 |
 | Squamish | 1 | 1 | 1 |
 | Squamish-Lillooet Regional District | 1 | 1 | 1 |

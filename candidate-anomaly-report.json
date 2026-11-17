@@ -47584,7 +47584,8 @@
       "2026-11-05T18": 30,
       "2026-11-06T20": 1,
       "2026-11-10T17": 3,
-      "2026-11-14T17": 2
+      "2026-11-14T17": 2,
+      "2026-11-17T22": 1
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -47619,7 +47620,8 @@
       "2026-11-05": 30,
       "2026-11-06": 1,
       "2026-11-10": 3,
-      "2026-11-14": 2
+      "2026-11-14": 2,
+      "2026-11-17": 1
     },
     "revisions": [
       {
@@ -48343,6 +48345,15 @@
         "candidateChanges": 0,
         "jurisdictionsAffected": 0,
         "jurisdictions": []
+      },
+      {
+        "atUtc": "2026-11-17T22:24:10Z",
+        "sourceHash": "53a286dc711add112cb17746b9f5ce3d39a9ef8d1b59c86b93f1bfdfdcd3309c",
+        "candidateChanges": 1,
+        "jurisdictionsAffected": 1,
+        "jurisdictions": [
+          "Silverton"
+        ]
       }
     ],
     "milestones": [
