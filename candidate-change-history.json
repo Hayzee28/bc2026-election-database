@@ -9984,5 +9984,30 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-11-19T21:33:33Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "8306a24f0a9058180104ec5cc5eaa83916a28ced20dfc94a3516d6983457791f",
+    "previousSourceSha256": "f0217789b0d71eb578272079a84b54dc34d75b88a9124717f490fce5f1c0b1fb",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3550,
+    "candidateCount": 3549,
+    "netCandidateDelta": -1,
+    "added": [],
+    "removed": [
+      {
+        "jurisdiction": "Nelson",
+        "office": "Councillor",
+        "candidate": "Jesse Piñeiro",
+        "affiliation": "",
+        "financialAgent": "Jesse Piñeiro",
+        "sourcePage": 103
+      }
+    ],
+    "statusChanges": [],
+    "modified": []
   }
 ]

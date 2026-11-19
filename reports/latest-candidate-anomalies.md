@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 50 observed/reconstructed source revisions. Times are UTC.
+Generated from 51 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -57,6 +57,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-11-16T20:29:11Z | 3549 | 251 | 0 | 0 | 0 | 0 | 001da1242954a94326eef3a4e25eaa6234f3bae47eb976587ba1378471502c14 |
 | 2026-11-17T22:24:10Z | 3550 | 251 | 1 | 0 | 0 | 0 | 53a286dc711add112cb17746b9f5ce3d39a9ef8d1b59c86b93f1bfdfdcd3309c |
 | 2026-11-18T21:56:47Z | 3550 | 251 | 0 | 0 | 0 | 0 | f0217789b0d71eb578272079a84b54dc34d75b88a9124717f490fce5f1c0b1fb |
+| 2026-11-19T21:33:33Z | 3549 | 251 | 0 | 1 | 0 | 0 | 8306a24f0a9058180104ec5cc5eaa83916a28ced20dfc94a3516d6983457791f |
 
 ## Candidate observations
 
@@ -18974,6 +18975,24 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Jesse Piñeiro — Nelson (Councillor)
+
+Pattern: REMOVED; observed 2026-11-19T21:33:33Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-19T21:33:33Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- UNKNOWN: Cause of change — Observed source revisions do not explain why.
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -19069,6 +19088,7 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Cowichan Valley Regional District | 3 | 3 | 2 |
 | Esquimalt | 3 | 3 | 2 |
 | McBride | 3 | 3 | 2 |
+| Nelson | 3 | 3 | 3 |
 | Stikine School District | 3 | 2 | 3 |
 | Vancouver School District | 3 | 3 | 3 |
 | Vernon School District | 3 | 2 | 2 |
@@ -19083,7 +19103,6 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Gibsons | 2 | 2 | 1 |
 | Highlands | 2 | 1 | 2 |
 | Mackenzie | 2 | 1 | 2 |
-| Nelson | 2 | 2 | 2 |
 | North Saanich | 2 | 1 | 2 |
 | North Vancouver School District | 2 | 1 | 2 |
 | Okanagan Falls, District of | 2 | 1 | 2 |

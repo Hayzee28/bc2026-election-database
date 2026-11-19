@@ -34364,6 +34364,32 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-11-19T21:33:33Z",
+      "revision": 50,
+      "candidateId": "nelson|councillor|jesse piñeiro",
+      "candidate": "Jesse Piñeiro",
+      "jurisdiction": "Nelson",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [],
+      "facts": [
+        "Elections BC revision at 2026-11-19T21:33:33Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Cause of change",
+          "direction": "UNKNOWN",
+          "basis": "Observed source revisions do not explain why."
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -47585,7 +47611,8 @@
       "2026-11-06T20": 1,
       "2026-11-10T17": 3,
       "2026-11-14T17": 2,
-      "2026-11-17T22": 1
+      "2026-11-17T22": 1,
+      "2026-11-19T21": 1
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -47621,7 +47648,8 @@
       "2026-11-06": 1,
       "2026-11-10": 3,
       "2026-11-14": 2,
-      "2026-11-17": 1
+      "2026-11-17": 1,
+      "2026-11-19": 1
     },
     "revisions": [
       {
@@ -48361,6 +48389,15 @@
         "candidateChanges": 0,
         "jurisdictionsAffected": 0,
         "jurisdictions": []
+      },
+      {
+        "atUtc": "2026-11-19T21:33:33Z",
+        "sourceHash": "8306a24f0a9058180104ec5cc5eaa83916a28ced20dfc94a3516d6983457791f",
+        "candidateChanges": 1,
+        "jurisdictionsAffected": 1,
+        "jurisdictions": [
+          "Nelson"
+        ]
       }
     ],
     "milestones": [
