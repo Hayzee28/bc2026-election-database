@@ -48398,6 +48398,13 @@
         "jurisdictions": [
           "Nelson"
         ]
+      },
+      {
+        "atUtc": "2026-11-20T20:17:31Z",
+        "sourceHash": "399c3fd9e28ba3aee3172648872fe4a8fc2e93056429eb3ca06007517b7f2a76",
+        "candidateChanges": 0,
+        "jurisdictionsAffected": 0,
+        "jurisdictions": []
       }
     ],
     "milestones": [
