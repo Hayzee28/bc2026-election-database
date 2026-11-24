@@ -48419,6 +48419,13 @@
         "candidateChanges": 0,
         "jurisdictionsAffected": 0,
         "jurisdictions": []
+      },
+      {
+        "atUtc": "2026-11-24T17:44:03Z",
+        "sourceHash": "c075f48df38bdea525adc926490a8a5a326a06b28a232761aaea897946b85427",
+        "candidateChanges": 0,
+        "jurisdictionsAffected": 0,
+        "jurisdictions": []
       }
     ],
     "milestones": [
