@@ -34390,6 +34390,32 @@
       "unresolved": [
         "Reason for source change is not established."
       ]
+    },
+    {
+      "atUtc": "2026-11-25T22:32:15Z",
+      "revision": 55,
+      "candidateId": "rossland|councillor|andy morel",
+      "candidate": "Andy Morel",
+      "jurisdiction": "Rossland",
+      "office": "Councillor",
+      "type": "REMOVED",
+      "pattern": "REMOVED",
+      "localSourceDuringAbsence": "UNKNOWN",
+      "publicExplanation": "NO PUBLIC EXPLANATION FOUND",
+      "batchTypes": [],
+      "facts": [
+        "Elections BC revision at 2026-11-25T22:32:15Z: REMOVED."
+      ],
+      "clues": [
+        {
+          "indicator": "Cause of change",
+          "direction": "UNKNOWN",
+          "basis": "Observed source revisions do not explain why."
+        }
+      ],
+      "unresolved": [
+        "Reason for source change is not established."
+      ]
     }
   ],
   "batches": [
@@ -47612,7 +47638,8 @@
       "2026-11-10T17": 3,
       "2026-11-14T17": 2,
       "2026-11-17T22": 1,
-      "2026-11-19T21": 1
+      "2026-11-19T21": 1,
+      "2026-11-25T22": 1
     },
     "changesPerDayUtc": {
       "2026-09-22": 20,
@@ -47649,7 +47676,8 @@
       "2026-11-10": 3,
       "2026-11-14": 2,
       "2026-11-17": 1,
-      "2026-11-19": 1
+      "2026-11-19": 1,
+      "2026-11-25": 1
     },
     "revisions": [
       {
@@ -48426,6 +48454,15 @@
         "candidateChanges": 0,
         "jurisdictionsAffected": 0,
         "jurisdictions": []
+      },
+      {
+        "atUtc": "2026-11-25T22:32:15Z",
+        "sourceHash": "632ce4252089e83ba4be1fe1d84dd4cc502b6164def90c27cc50108598305bec",
+        "candidateChanges": 1,
+        "jurisdictionsAffected": 1,
+        "jurisdictions": [
+          "Rossland"
+        ]
       }
     ],
     "milestones": [

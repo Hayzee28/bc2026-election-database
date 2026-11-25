@@ -1,6 +1,6 @@
 # Candidate change observations
 
-Generated from 55 observed/reconstructed source revisions. Times are UTC.
+Generated from 56 observed/reconstructed source revisions. Times are UTC.
 Historical Git backfill is marked reconstructed; missing earlier source states are unknown.
 
 ## Snapshot history
@@ -62,6 +62,7 @@ Historical Git backfill is marked reconstructed; missing earlier source states a
 | 2026-11-21T17:31:54Z | 3549 | 251 | 0 | 0 | 0 | 0 | a50956bf4152ecae5f3eca35b1edede6b863ebbfe818a999112af2c3d6d4c7e5 |
 | 2026-11-23T21:24:05Z | 3549 | 251 | 0 | 0 | 0 | 0 | 997f9379a00d064ccff12cbb50c5d26ff07188beff65742f1bf8824eae1b6910 |
 | 2026-11-24T17:44:03Z | 3549 | 251 | 0 | 0 | 0 | 0 | c075f48df38bdea525adc926490a8a5a326a06b28a232761aaea897946b85427 |
+| 2026-11-25T22:32:15Z | 3548 | 251 | 0 | 1 | 0 | 0 | 632ce4252089e83ba4be1fe1d84dd4cc502b6164def90c27cc50108598305bec |
 
 ## Candidate observations
 
@@ -18997,6 +18998,24 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 **UNRESOLVED**
 - Reason for source change is not established.
 
+### Andy Morel — Rossland (Councillor)
+
+Pattern: REMOVED; observed 2026-11-25T22:32:15Z
+
+**FACTS**
+
+- Elections BC revision at 2026-11-25T22:32:15Z: REMOVED.
+
+Local source comparison: UNKNOWN
+Public explanation: NO PUBLIC EXPLANATION FOUND
+
+**PROCESS-OF-ELIMINATION CLUES (INFERENCE)**
+
+- UNKNOWN: Cause of change — Observed source revisions do not explain why.
+
+**UNRESOLVED**
+- Reason for source change is not established.
+
 ## Jurisdiction changes (raw counts)
 
 | Jurisdiction | Changes | Updates | Candidates affected |
@@ -19037,13 +19056,13 @@ Public explanation: NO PUBLIC EXPLANATION FOUND
 | Tofino | 14 | 2 | 7 |
 | Trail | 14 | 3 | 7 |
 | Campbell River School District | 13 | 3 | 8 |
+| Rossland | 13 | 3 | 6 |
 | Telkwa | 13 | 4 | 6 |
 | Vancouver | 13 | 6 | 11 |
 | Vanderhoof | 13 | 3 | 7 |
 | Islands Trust | 12 | 5 | 7 |
 | Lillooet | 12 | 4 | 6 |
 | Port Edward | 12 | 3 | 6 |
-| Rossland | 12 | 2 | 6 |
 | Ucluelet | 12 | 4 | 6 |
 | Daajing Giids | 11 | 4 | 6 |
 | Port Clements | 11 | 3 | 6 |

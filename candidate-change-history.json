@@ -10073,5 +10073,30 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-11-25T22:32:15Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "632ce4252089e83ba4be1fe1d84dd4cc502b6164def90c27cc50108598305bec",
+    "previousSourceSha256": "c075f48df38bdea525adc926490a8a5a326a06b28a232761aaea897946b85427",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3549,
+    "candidateCount": 3548,
+    "netCandidateDelta": -1,
+    "added": [],
+    "removed": [
+      {
+        "jurisdiction": "Rossland",
+        "office": "Councillor",
+        "candidate": "Andy Morel",
+        "affiliation": "",
+        "financialAgent": "Andy Morel",
+        "sourcePage": 148
+      }
+    ],
+    "statusChanges": [],
+    "modified": []
   }
 ]
