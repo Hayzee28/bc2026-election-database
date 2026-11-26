@@ -48463,6 +48463,13 @@
         "jurisdictions": [
           "Rossland"
         ]
+      },
+      {
+        "atUtc": "2026-11-26T15:15:47Z",
+        "sourceHash": "ed30b670a1ce6799d4e5b13899a5075ee3aa1f519be816058c7d662fde16be03",
+        "candidateChanges": 0,
+        "jurisdictionsAffected": 0,
+        "jurisdictions": []
       }
     ],
     "milestones": [
