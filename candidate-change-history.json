@@ -10114,5 +10114,21 @@
     "removed": [],
     "statusChanges": [],
     "modified": []
+  },
+  {
+    "observedAtUtc": "2026-11-27T18:59:07Z",
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "sourceChanged": true,
+    "sourceSha256": "9e04aa2248021c41fa226aa569c6089c60cb114720d599a718696474a39d0807",
+    "previousSourceSha256": "ed30b670a1ce6799d4e5b13899a5075ee3aa1f519be816058c7d662fde16be03",
+    "pageCount": 198,
+    "jurisdictionCount": 251,
+    "previousCandidateCount": 3548,
+    "candidateCount": 3548,
+    "netCandidateDelta": 0,
+    "added": [],
+    "removed": [],
+    "statusChanges": [],
+    "modified": []
   }
 ]
